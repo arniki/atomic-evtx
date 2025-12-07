@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T12:31:15Z","2024-10-23T15:31:15Z","T1059.005","2","Encoded VBS code execution","Server002","System.Object[]","server002\admin_test","e8209d5f-e42d-45e6-9c2f-633ac4f1eefa","6692","0"

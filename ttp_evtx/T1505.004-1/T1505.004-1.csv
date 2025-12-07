@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T20:48:20Z","2024-10-26T23:48:20Z","T1505.004","1","Install IIS Module using AppCmd.exe","Server002","System.Object[]","server002\admin_test","53adbdfa-8200-490c-871c-d3b1ab3324b2","4520","1"

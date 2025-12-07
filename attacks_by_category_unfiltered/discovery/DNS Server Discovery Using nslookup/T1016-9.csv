@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T09:08:15Z","2024-10-21T12:08:15Z","T1016","9","DNS Server Discovery Using nslookup","Server002","System.Object[]","server002\admin_test","34557863-344a-468f-808b-a1bfb89b4fa9","6588","0"

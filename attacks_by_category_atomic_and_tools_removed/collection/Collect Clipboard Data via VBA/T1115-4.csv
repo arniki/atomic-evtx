@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T21:20:54Z","2024-10-25T00:20:54Z","T1115","4","Collect Clipboard Data via VBA","Server002","System.Object[]","server002\admin_test","9c8d5a72-9c98-48d3-b9bf-da2cc43bdf52","5680","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T10:45:32Z","2024-10-21T13:45:32Z","T1020","2","Exfiltration via Encrypted FTP","Server002","System.Object[]","server002\admin_test","5b380e96-b0ef-4072-8a8e-f194cb9eb9ac",,

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T14:29:48Z","2024-10-28T16:29:48Z","T1567.003","1","Exfiltrate data with HTTP POST to text storage sites - pastebin.com (Windows)","Server002","System.Object[]","server002\admin_test","c2e8ab6e-431e-460a-a2aa-3bc6a32022e3","6548","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T16:44:36Z","2024-10-27T18:44:36Z","T1547.004","5","Winlogon HKLM Userinit Key Persistence - PowerShell","Server002","System.Object[]","server002\admin_test","f9b8daff-8fa7-4e6a-a1a7-7c14675a545b","7040","0"

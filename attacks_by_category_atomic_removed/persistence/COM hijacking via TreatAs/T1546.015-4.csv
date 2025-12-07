@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T14:59:40Z","2024-10-27T16:59:40Z","T1546.015","4","COM hijacking via TreatAs","Server002","System.Object[]","server002\admin_test","33eacead-f117-4863-8eb0-5c6304fbfaa9","6780","0"

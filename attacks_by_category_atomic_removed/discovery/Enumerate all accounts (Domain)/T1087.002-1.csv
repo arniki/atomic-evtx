@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T20:46:56Z","2024-10-23T23:46:56Z","T1087.002","1","Enumerate all accounts (Domain)","Server002","System.Object[]","server002\admin_test","6fbc9e68-5ad7-444a-bd11-8bf3136c477e","4828","2"

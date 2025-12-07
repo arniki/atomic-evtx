@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T11:17:33Z","2024-10-28T13:17:33Z","T1562.002","6","Disable Event Logging with wevtutil","Server002","System.Object[]","server002\admin_test","b26a3340-dad7-4360-9176-706269c74103","5948","0"

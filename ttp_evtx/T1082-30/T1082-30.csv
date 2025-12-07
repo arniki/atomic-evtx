@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T18:38:49Z","2024-10-23T21:38:49Z","T1082","30","BIOS Information Discovery through Registry","Server002","System.Object[]","server002\admin_test","f2f91612-d904-49d7-87c2-6c165d23bead","3500","0"

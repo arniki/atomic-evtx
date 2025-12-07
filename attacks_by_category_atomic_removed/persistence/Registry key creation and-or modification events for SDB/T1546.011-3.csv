@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T14:19:30Z","2024-10-27T16:19:30Z","T1546.011","3","Registry key creation and/or modification events for SDB","Server002","System.Object[]","server002\admin_test","9b6a06f9-ab5e-4e8d-8289-1df4289db02f","6876","0"

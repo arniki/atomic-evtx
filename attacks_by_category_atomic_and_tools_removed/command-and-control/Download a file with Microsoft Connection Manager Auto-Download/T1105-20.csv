@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T11:55:41Z","2024-10-24T14:55:41Z","T1105","20","Download a file with Microsoft Connection Manager Auto-Download","Server002","System.Object[]","server002\admin_test","d239772b-88e2-4a2e-8473-897503401bcc","6960","1"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T14:04:53Z","2024-10-27T16:04:53Z","T1546.009","1","Create registry persistence via AppCert DLL","Server002","System.Object[]","server002\admin_test","a5ad6104-5bab-4c43-b295-b4c44c7c6b05","4196","0"

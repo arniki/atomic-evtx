@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T15:39:39Z","2024-10-22T18:39:39Z","T1048.003","2","Exfiltration Over Alternative Protocol - ICMP","Server002","System.Object[]","server002\admin_test","dd4b4421-2e25-4593-90ae-7021947ad12e","2376","0"

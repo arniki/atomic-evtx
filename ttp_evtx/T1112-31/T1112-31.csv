@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T16:02:01Z","2024-10-24T19:02:01Z","T1112","31","Windows HideSCAVolume Group Policy Feature","Server002","System.Object[]","server002\admin_test","7f037590-b4c6-4f13-b3cc-e424c5ab8ade","5732","0"

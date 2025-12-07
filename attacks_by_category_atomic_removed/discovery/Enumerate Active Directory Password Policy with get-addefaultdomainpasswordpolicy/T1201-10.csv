@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T17:20:02Z","2024-10-25T20:20:02Z","T1201","10","Enumerate Active Directory Password Policy with get-addefaultdomainpasswordpolicy","Server002","System.Object[]","server002\admin_test","b2698b33-984c-4a1c-93bb-e4ba72a0babb","6152","0"

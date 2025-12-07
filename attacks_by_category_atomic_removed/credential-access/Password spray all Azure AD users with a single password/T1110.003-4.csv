@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T13:52:49Z","2024-10-24T16:52:49Z","T1110.003","4","Password spray all Azure AD users with a single password","Server002","System.Object[]","server002\admin_test","a8aa2d3e-1c52-4016-bc73-0f8854cfa80a","2804","0"

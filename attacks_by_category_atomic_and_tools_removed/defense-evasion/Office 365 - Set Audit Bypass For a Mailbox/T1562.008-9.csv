@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T12:40:31Z","2024-10-28T14:40:31Z","T1562.008","9","Office 365 - Set Audit Bypass For a Mailbox","Server002","System.Object[]","server002\admin_test","c9a2f6fe-7197-488c-af6d-10c782121ca6","3900","0"

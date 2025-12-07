@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T12:02:38Z","2024-10-28T14:02:38Z","T1562.004","23","ESXi - Disable Firewall via Esxcli","Server002","System.Object[]","server002\admin_test","bac8a340-be64-4491-a0cc-0985cb227f5a","5564","1"

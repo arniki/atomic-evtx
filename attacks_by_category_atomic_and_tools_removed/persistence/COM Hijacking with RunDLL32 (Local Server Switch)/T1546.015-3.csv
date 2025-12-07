@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T14:56:09Z","2024-10-27T16:56:09Z","T1546.015","3","COM Hijacking with RunDLL32 (Local Server Switch)","Server002","System.Object[]","server002\admin_test","123520cc-e998-471b-a920-bd28e3feafa0","1908","0"

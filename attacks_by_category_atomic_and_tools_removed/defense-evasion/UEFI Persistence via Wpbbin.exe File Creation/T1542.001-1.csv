@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T12:41:44Z","2024-10-27T14:41:44Z","T1542.001","1","UEFI Persistence via Wpbbin.exe File Creation","Server002","System.Object[]","server002\admin_test","b8a49f03-e3c4-40f2-b7bb-9e8f8fdddbf1","7040","0"

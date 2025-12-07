@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T10:24:16Z","2024-10-21T13:24:16Z","T1018","18","Enumerate Active Directory Computers with ADSISearcher","Server002","System.Object[]","server002\admin_test","64ede6ac-b57a-41c2-a7d1-32c6cd35397d","1700","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T21:29:50Z","2024-10-24T00:29:50Z","T1087.002","13","Enumerate Linked Policies In ADSISearcher Discovery","Server002","System.Object[]","server002\admin_test","7ab0205a-34e4-4a44-9b04-e1541d1a57be","4324","0"

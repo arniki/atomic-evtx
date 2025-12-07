@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T10:46:24Z","2024-10-25T13:46:24Z","T1124","5","System Time with Windows time Command","Server002","System.Object[]","server002\admin_test","53ead5db-7098-4111-bb3f-563be390e72e",,

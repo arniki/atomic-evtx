@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T21:19:14Z","2024-10-24T00:19:14Z","T1087.002","10","Enumerate Active Directory for Unconstrained Delegation","Server002","System.Object[]","server002\admin_test","46f8dbe9-22a5-4770-8513-66119c5be63b","412","0"

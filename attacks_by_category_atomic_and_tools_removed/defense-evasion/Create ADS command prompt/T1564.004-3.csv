@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T13:51:39Z","2024-10-28T15:51:39Z","T1564.004","3","Create ADS command prompt","Server002","System.Object[]","server002\admin_test","17e7637a-ddaf-4a82-8622-377e20de8fdb","5688","0"

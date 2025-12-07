@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T21:09:52Z","2024-10-21T00:09:52Z","T1010","1","List Process Main Windows - C# .NET","Server002","System.Object[]","server002\admin_test","fe94a1c3-3e22-4dc9-9fdf-3a8bdbc10dc4","2952","0"

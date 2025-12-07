@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T17:43:58Z","2024-10-24T20:43:58Z","T1112","61","Activities To Disable Secondary Authentication Detected By Modified Registry Value.","Server002","System.Object[]","server002\admin_test","c26fb85a-fa50-4fab-a64a-c51f5dc538d5","4224","0"

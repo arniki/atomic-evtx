@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T19:58:04Z","2024-10-26T22:58:04Z","T1490","3","Windows - wbadmin Delete Windows Backup Catalog","Server002","System.Object[]","server002\admin_test","263ba6cb-ea2b-41c9-9d4e-b652dadd002c","3788","0"

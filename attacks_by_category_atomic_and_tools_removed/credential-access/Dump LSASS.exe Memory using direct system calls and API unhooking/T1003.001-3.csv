@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T17:33:53Z","2024-10-20T20:33:53Z","T1003.001","3","Dump LSASS.exe Memory using direct system calls and API unhooking","Server002","System.Object[]","server002\admin_test","7ae7102c-a099-45c8-b985-4c7a2d05790d","5080","1"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T12:20:21Z","2024-10-28T14:20:21Z","T1562.006","8","LockBit Black - Disable the ETW Provider of Windows Defender -cmd","Server002","System.Object[]","server002\admin_test","f6df0b8e-2c83-44c7-ba5e-0fa4386bec41","1872","0"

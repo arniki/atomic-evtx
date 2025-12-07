@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T20:27:37Z","2024-10-26T23:27:37Z","T1490","11","Modify VSS Service Permissions","Server002","System.Object[]","server002\admin_test","a4420f93-5386-4290-b780-f4f66abc7070","6196","0"

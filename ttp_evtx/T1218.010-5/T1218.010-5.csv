@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T15:54:16Z","2024-10-26T18:54:16Z","T1218.010","5","Regsvr32 Silent DLL Install Call DllRegisterServer","Server002","System.Object[]","server002\admin_test","9d71c492-ea2e-4c08-af16-c6994cdf029f","5756","3"

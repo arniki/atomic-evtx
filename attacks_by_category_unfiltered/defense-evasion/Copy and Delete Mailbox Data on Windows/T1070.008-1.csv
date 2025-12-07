@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T15:18:43Z","2024-10-23T18:18:43Z","T1070.008","1","Copy and Delete Mailbox Data on Windows","Server002","System.Object[]","server002\admin_test","d29f01ea-ac72-4efc-8a15-bea64b77fabf","5928","0"

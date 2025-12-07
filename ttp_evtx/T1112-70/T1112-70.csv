@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T18:14:53Z","2024-10-24T21:14:53Z","T1112","70","Enable RDP via Registry (fDenyTSConnections)","Server002","System.Object[]","server002\admin_test","16bdbe52-371c-4ccf-b708-79fba61f1db4","3248","0"

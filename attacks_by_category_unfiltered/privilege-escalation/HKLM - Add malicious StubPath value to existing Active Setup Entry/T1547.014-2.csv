@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T17:17:42Z","2024-10-27T19:17:42Z","T1547.014","2","HKLM - Add malicious StubPath value to existing Active Setup Entry","Server002","System.Object[]","server002\admin_test","39e417dd-4fed-4d9c-ae3a-ba433b4d0e9a","2644","0"

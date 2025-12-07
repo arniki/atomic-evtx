@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T15:21:08Z","2024-10-26T18:21:08Z","T1218.008","2","Odbcconf.exe - Load Response File","Server002","System.Object[]","server002\admin_test","331ce274-f9c9-440b-9f8c-a1006e1fce0b",,

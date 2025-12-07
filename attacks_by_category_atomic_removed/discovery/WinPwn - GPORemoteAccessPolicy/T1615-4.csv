@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T16:43:15Z","2024-10-28T18:43:15Z","T1615","4","WinPwn - GPORemoteAccessPolicy","Server002","System.Object[]","server002\admin_test","7230d01a-0a72-4bd5-9d7f-c6d472bc6a59","6972","0"

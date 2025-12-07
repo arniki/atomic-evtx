@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T17:07:24Z","2024-10-27T19:07:24Z","T1547.010","1","Add Port Monitor persistence in Registry","Server002","System.Object[]","server002\admin_test","d34ef297-f178-4462-871e-9ce618d44e50","3648","0"

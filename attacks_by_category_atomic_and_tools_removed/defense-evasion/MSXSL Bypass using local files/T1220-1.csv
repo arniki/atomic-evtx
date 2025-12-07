@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T18:01:48Z","2024-10-26T21:01:48Z","T1220","1","MSXSL Bypass using local files","Server002","System.Object[]","server002\admin_test","ca23bfb2-023f-49c5-8802-e66997de462d","912","1"

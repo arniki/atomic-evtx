@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T15:27:36Z","2024-10-24T18:27:36Z","T1112","22","Activate Windows NoFileMenu Group Policy Feature","Server002","System.Object[]","server002\admin_test","5e27bdb4-7fd9-455d-a2b5-4b4b22c9dea4","5784","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T20:13:00Z","2024-10-24T23:13:00Z","T1112","82","Modify EnableNonTPM Registry entry","Server002","System.Object[]","server002\admin_test","e672a340-a933-447c-954c-d68db38a09b1","3060","0"

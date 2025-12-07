@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T19:14:47Z","2024-10-26T22:14:47Z","T1485","1","Windows - Overwrite file with SysInternals SDelete","Server002","System.Object[]","server002\admin_test","476419b5-aebf-4366-a131-ae3e8dae5fc2","1496","0"

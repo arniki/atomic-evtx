@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T14:32:25Z","2024-10-22T17:32:25Z","T1046","5","WinPwn - spoolvulnscan","Server002","System.Object[]","server002\admin_test","54574908-f1de-4356-9021-8053dd57439a","5348","0"

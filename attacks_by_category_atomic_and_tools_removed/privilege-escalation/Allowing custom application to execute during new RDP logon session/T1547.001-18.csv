@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T16:11:36Z","2024-10-27T18:11:36Z","T1547.001","18","Allowing custom application to execute during new RDP logon session","Server002","System.Object[]","server002\admin_test","b051b3c0-66e7-4a81-916d-e6383bd3a669",,

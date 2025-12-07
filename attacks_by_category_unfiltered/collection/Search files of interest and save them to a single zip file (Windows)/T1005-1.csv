@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T20:55:47Z","2024-10-20T23:55:47Z","T1005","1","Search files of interest and save them to a single zip file (Windows)","Server002","System.Object[]","server002\admin_test","d3d9af44-b8ad-4375-8b0a-4bff4b7e419c","3892","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T18:07:56Z","2024-10-20T21:07:56Z","T1003.001","14","Dump LSASS.exe Memory through Silent Process Exit","Server002","System.Object[]","server002\admin_test","eb5adf16-b601-4926-bca7-dad22adffb37","5068","1"

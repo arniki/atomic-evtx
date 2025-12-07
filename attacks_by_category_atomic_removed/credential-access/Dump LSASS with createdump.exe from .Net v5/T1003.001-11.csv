@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T17:58:37Z","2024-10-20T20:58:37Z","T1003.001","11","Dump LSASS with createdump.exe from .Net v5","Server002","System.Object[]","server002\admin_test","9d0072c8-7cca-45c4-bd14-f852cfa35cf0","2124","0"

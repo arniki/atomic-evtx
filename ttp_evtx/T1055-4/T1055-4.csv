@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T17:24:34Z","2024-10-22T20:24:34Z","T1055","4","Dirty Vanity process Injection","Server002","System.Object[]","server002\admin_test","49543237-25db-497b-90df-d0a0a6e8fe2c","1056","0"

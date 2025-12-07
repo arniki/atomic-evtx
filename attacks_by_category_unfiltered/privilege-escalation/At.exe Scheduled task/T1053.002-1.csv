@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T16:32:02Z","2024-10-22T19:32:02Z","T1053.002","1","At.exe Scheduled task","Server002","System.Object[]","server002\admin_test","4a6c0dc4-0f2a-4203-9298-a5a9bdc21ed8","5872","1"

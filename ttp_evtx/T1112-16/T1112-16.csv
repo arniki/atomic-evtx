@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T15:06:40Z","2024-10-24T18:06:40Z","T1112","16","Disable Windows Change Password Feature","Server002","System.Object[]","server002\admin_test","d4a6da40-618f-454d-9a9e-26af552aaeb0","7124","0"

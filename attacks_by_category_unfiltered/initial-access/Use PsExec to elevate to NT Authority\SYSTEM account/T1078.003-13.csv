@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T16:30:04Z","2024-10-23T19:30:04Z","T1078.003","13","Use PsExec to elevate to NT Authority\SYSTEM account","Server002","System.Object[]","server002\admin_test","6904235f-0f55-4039-8aed-41c300ff7733","4888","0"

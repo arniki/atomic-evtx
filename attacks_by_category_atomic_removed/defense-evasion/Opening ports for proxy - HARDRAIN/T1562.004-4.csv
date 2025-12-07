@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T11:41:38Z","2024-10-28T13:41:38Z","T1562.004","4","Opening ports for proxy - HARDRAIN","Server002","System.Object[]","server002\admin_test","15e57006-79dd-46df-9bf9-31bc24fb5a80","2624","0"

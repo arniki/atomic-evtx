@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T14:31:11Z","2024-10-26T17:31:11Z","T1218.005","9","Invoke HTML Application - Simulate Lateral Movement over UNC Path","Server002","System.Object[]","server002\admin_test","b8a8bdb2-7eae-490d-8251-d5e0295b2362","4924","0"

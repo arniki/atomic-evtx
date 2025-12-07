@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T10:00:27Z","2024-10-28T12:00:27Z","T1562.001","38","Delete Windows Defender Scheduled Tasks","Server002","System.Object[]","server002\admin_test","4b841aa1-0d05-4b32-bbe7-7564346e7c76","6856","0"

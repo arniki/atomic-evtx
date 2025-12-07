@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T16:49:12Z","2024-10-25T19:49:12Z","T1187","3","Trigger an authenticated RPC call to a target server with no Sign flag set","Server002","System.Object[]","server002\admin_test","81cfdd7f-1f41-4cc5-9845-bb5149438e37","5680","0"

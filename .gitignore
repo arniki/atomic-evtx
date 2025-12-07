@@ -1,0 +1,3 @@
+# Huge log exports - do NOT commit
+benign_activity_logs/json/Output/AllEvents.csv
+benign_activity_logs/json/Output/AllEvents.json

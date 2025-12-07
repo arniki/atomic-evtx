@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T09:53:27Z","2024-10-28T11:53:27Z","T1562.001","36","Disable Windows Defender with PwSh Disable-WindowsOptionalFeature","Server002","System.Object[]","server002\admin_test","f542ffd3-37b4-4528-837f-682874faa012","7156","0"

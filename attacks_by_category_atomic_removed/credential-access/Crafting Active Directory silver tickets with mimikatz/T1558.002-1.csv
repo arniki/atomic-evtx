@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T22:49:06Z","2024-10-28T00:49:06Z","T1558.002","1","Crafting Active Directory silver tickets with mimikatz","Server002","System.Object[]","server002\admin_test","385e59aa-113e-4711-84d9-f637aef01f2c",,

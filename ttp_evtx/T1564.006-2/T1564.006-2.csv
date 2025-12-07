@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T14:10:37Z","2024-10-28T16:10:37Z","T1564.006","2","Create and start VirtualBox virtual machine","Server002","System.Object[]","server002\admin_test","88b81702-a1c0-49a9-95b2-2dd53d755767","4856","1"

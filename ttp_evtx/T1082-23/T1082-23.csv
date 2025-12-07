@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T18:13:27Z","2024-10-23T21:13:27Z","T1082","23","WinPwn - PowerSharpPack - Seatbelt","Server002","System.Object[]","server002\admin_test","5c16ceb4-ba3a-43d7-b848-a13c1f216d95","2424","0"

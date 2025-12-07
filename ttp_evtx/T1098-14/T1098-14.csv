@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T10:34:10Z","2024-10-24T13:34:10Z","T1098","14","Domain Password Policy Check: No Lowercase Character in Password","Server002","System.Object[]","server002\admin_test","945da11e-977e-4dab-85d2-f394d03c5887","2148","0"

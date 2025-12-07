@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T13:22:34Z","2024-10-25T16:22:34Z","T1136.003","2","Azure AD - Create a new user","Server002","System.Object[]","server002\admin_test","e62d23ef-3153-4837-8625-fa4a3829134d","6564","0"

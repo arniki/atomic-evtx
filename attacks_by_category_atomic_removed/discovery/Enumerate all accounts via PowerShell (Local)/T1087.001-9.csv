@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T20:40:11Z","2024-10-23T23:40:11Z","T1087.001","9","Enumerate all accounts via PowerShell (Local)","Server002","System.Object[]","server002\admin_test","ae4b6361-b5f8-46cb-a3f9-9cf108ccfe7b","4820","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T15:54:26Z","2024-10-22T18:54:26Z","T1048.003","7","Exfiltration Over Alternative Protocol - FTP - Rclone","Server002","System.Object[]","server002\admin_test","b854eb97-bf9b-45ab-a1b5-b94e4880c56b","4336","0"

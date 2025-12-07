@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T16:32:35Z","2024-10-24T19:32:35Z","T1112","40","NetWire RAT Registry Key Creation","Server002","System.Object[]","server002\admin_test","65704cd4-6e36-4b90-b6c1-dc29a82c8e56","7020","0"

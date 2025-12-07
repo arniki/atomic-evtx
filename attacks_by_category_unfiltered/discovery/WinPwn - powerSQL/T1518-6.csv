@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T21:16:04Z","2024-10-27T00:16:04Z","T1518","6","WinPwn - powerSQL","Server002","System.Object[]","server002\admin_test","0bb64470-582a-4155-bde2-d6003a95ed34","5668","0"

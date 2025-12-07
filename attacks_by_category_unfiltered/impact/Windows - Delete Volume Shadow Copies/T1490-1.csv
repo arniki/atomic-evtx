@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T19:51:06Z","2024-10-26T22:51:06Z","T1490","1","Windows - Delete Volume Shadow Copies","Server002","System.Object[]","server002\admin_test","43819286-91a9-4369-90ed-d31fb4da2c01","6776","1"

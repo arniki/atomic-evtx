@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T21:11:42Z","2024-10-27T23:11:42Z","T1555","5","Enumerate credentials from Windows Credential Manager using vaultcmd.exe [Web Credentials]","Server002","System.Object[]","server002\admin_test","bc071188-459f-44d5-901a-f8f2625b2d2e","5468","0"

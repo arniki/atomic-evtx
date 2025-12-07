@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T18:42:37Z","2024-10-23T21:42:37Z","T1082","31","ESXi - VM Discovery using ESXCLI","Server002","System.Object[]","server002\admin_test","2040405c-eea6-4c1c-aef3-c2acc430fac9","7124","1"

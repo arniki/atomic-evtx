@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T16:42:51Z","2024-10-24T19:42:51Z","T1112","43","Disable Windows Error Reporting Settings","Server002","System.Object[]","server002\admin_test","d2c9e41e-cd86-473d-980d-b6403562e3e1","6512","1"

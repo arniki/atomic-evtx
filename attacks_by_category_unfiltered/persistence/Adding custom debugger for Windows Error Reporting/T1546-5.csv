@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T13:16:20Z","2024-10-27T15:16:20Z","T1546","5","Adding custom debugger for Windows Error Reporting","Server002","System.Object[]","server002\admin_test","17d1a3cc-3373-495a-857a-e5dd005fb302","5332","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T15:24:35Z","2024-10-28T17:24:35Z","T1572","4","run ngrok","Server002","System.Object[]","server002\admin_test","4cdc9fc7-53fb-4894-9f0c-64836943ea60","2332","0"

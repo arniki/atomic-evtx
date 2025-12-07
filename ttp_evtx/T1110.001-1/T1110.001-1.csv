@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T13:15:56Z","2024-10-24T16:15:56Z","T1110.001","1","Brute Force Credentials of single Active Directory domain users via SMB","Server002","System.Object[]","server002\admin_test","09480053-2f98-4854-be6e-71ae5f672224","7056","2"

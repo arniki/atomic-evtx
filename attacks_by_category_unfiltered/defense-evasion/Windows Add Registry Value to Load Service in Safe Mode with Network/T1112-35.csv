@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T16:15:40Z","2024-10-24T19:15:40Z","T1112","35","Windows Add Registry Value to Load Service in Safe Mode with Network","Server002","System.Object[]","server002\admin_test","c173c948-65e5-499c-afbe-433722ed5bd4","6868","0"

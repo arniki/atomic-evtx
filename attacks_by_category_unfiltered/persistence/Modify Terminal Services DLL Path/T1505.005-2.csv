@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T20:58:34Z","2024-10-26T23:58:34Z","T1505.005","2","Modify Terminal Services DLL Path","Server002","System.Object[]","server002\admin_test","18136e38-0530-49b2-b309-eed173787471","5100","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T14:03:28Z","2024-10-24T17:03:28Z","T1110.003","7","Password Spray Microsoft Online Accounts with MSOLSpray (Azure/O365)","Server002","System.Object[]","server002\admin_test","f3a10056-0160-4785-8744-d9bd7c12dc39","4948","0"

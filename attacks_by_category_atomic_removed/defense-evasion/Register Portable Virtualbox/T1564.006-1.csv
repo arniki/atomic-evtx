@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T14:06:09Z","2024-10-28T16:06:09Z","T1564.006","1","Register Portable Virtualbox","Server002","System.Object[]","server002\admin_test","c59f246a-34f8-4e4d-9276-c295ef9ba0dd","6252","1060"

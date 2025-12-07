@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T21:00:52Z","2024-10-27T23:00:52Z","T1555","2","Dump credentials from Windows Credential Manager With PowerShell [windows Credentials]","Server002","System.Object[]","server002\admin_test","c89becbe-1758-4e7d-a0f4-97d2188a23e3","6228","0"

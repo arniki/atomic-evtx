@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T08:42:30Z","2024-10-21T11:42:30Z","T1016","4","System Network Configuration Discovery (TrickBot Style)","Server002","System.Object[]","server002\admin_test","dafaf052-5508-402d-bf77-51e0700c02e2","6060","1"

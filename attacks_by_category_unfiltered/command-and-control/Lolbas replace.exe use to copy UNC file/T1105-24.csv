@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T12:10:00Z","2024-10-24T15:10:00Z","T1105","24","Lolbas replace.exe use to copy UNC file","Server002","System.Object[]","server002\admin_test","ed0335ac-0354-400c-8148-f6151d20035a","5564","3"

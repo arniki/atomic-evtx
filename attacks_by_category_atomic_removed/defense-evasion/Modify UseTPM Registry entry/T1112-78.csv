@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T18:42:27Z","2024-10-24T21:42:27Z","T1112","78","Modify UseTPM Registry entry","Server002","System.Object[]","server002\admin_test","7c8c7bd8-0a5c-4514-a6a3-0814c5a98cf0","1820","0"

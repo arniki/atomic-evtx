@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T14:44:08Z","2024-10-23T17:44:08Z","T1070.005","1","Add Network Share","Server002","System.Object[]","server002\admin_test","14c38f32-6509-46d8-ab43-d53e32d2b131","6940","1"

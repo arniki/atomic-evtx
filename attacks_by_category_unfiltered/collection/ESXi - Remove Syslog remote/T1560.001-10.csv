@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T08:02:00Z","2024-10-28T10:02:00Z","T1560.001","10","ESXi - Remove Syslog remote IP","Server002","System.Object[]","server002\admin_test","36c62584-d360-41d6-886f-d194654be7c2","6080","0"

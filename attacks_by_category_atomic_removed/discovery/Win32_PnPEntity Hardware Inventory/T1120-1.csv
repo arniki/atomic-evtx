@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T10:18:53Z","2024-10-25T13:18:53Z","T1120","1","Win32_PnPEntity Hardware Inventory","Server002","System.Object[]","server002\admin_test","2cb4dbf2-2dca-4597-8678-4d39d207a3a5","6388","0"

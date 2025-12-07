@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T09:45:31Z","2024-10-24T12:45:31Z","T1098","5","Azure AD - adding service principal to Azure AD role","Server002","System.Object[]","server002\admin_test","92c40b3f-c406-4d1f-8d2b-c039bf5009e4","7164","0"

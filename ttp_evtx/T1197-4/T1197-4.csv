@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T17:06:19Z","2024-10-25T20:06:19Z","T1197","4","Bits download using desktopimgdownldr.exe (cmd)","Server002","System.Object[]","server002\admin_test","afb5e09e-e385-4dee-9a94-6ee60979d114","2656","-1"

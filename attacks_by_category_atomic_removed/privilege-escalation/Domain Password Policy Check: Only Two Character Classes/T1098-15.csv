@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T10:39:55Z","2024-10-24T13:39:55Z","T1098","15","Domain Password Policy Check: Only Two Character Classes","Server002","System.Object[]","server002\admin_test","784d1349-5a26-4d20-af5e-d6af53bae460","1052","0"

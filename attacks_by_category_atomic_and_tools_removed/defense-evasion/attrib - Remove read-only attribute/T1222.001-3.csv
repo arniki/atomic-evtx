@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T18:26:02Z","2024-10-26T21:26:02Z","T1222.001","3","attrib - Remove read-only attribute","Server002","System.Object[]","server002\admin_test","bec1e95c-83aa-492e-ab77-60c71bbd21b0","5388","0"

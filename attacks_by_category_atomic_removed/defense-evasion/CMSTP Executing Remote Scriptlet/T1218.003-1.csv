@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T13:12:12Z","2024-10-26T16:12:12Z","T1218.003","1","CMSTP Executing Remote Scriptlet","Server002","System.Object[]","server002\admin_test","34e63321-9683-496b-bbc1-7566bc55e624","6072","1"

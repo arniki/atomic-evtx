@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T18:30:31Z","2024-10-22T21:30:31Z","T1055.012","1","Process Hollowing using PowerShell","Server002","System.Object[]","server002\admin_test","562427b4-39ef-4e8c-af88-463a78e70b9c","1772","0"

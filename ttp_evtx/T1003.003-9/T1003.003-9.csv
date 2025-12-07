@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T20:32:43Z","2024-10-20T23:32:43Z","T1003.003","9","Create Volume Shadow Copy with diskshadow","Server002","System.Object[]","server002\admin_test","b385996c-0e7d-4e27-95a4-aca046b119a7","6036","1"

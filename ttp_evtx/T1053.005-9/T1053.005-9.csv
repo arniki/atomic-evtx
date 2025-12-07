@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T17:05:06Z","2024-10-22T20:05:06Z","T1053.005","9","PowerShell Modify A Scheduled Task","Server002","System.Object[]","server002\admin_test","dda6fc7b-c9a6-4c18-b98d-95ec6542af6d","1496","0"

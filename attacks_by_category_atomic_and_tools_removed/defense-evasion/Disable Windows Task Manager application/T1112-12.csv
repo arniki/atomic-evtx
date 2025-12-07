@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T14:53:09Z","2024-10-24T17:53:09Z","T1112","12","Disable Windows Task Manager application","Server002","System.Object[]","server002\admin_test","af254e70-dd0e-4de6-9afe-a994d9ea8b62","6028","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T16:32:05Z","2024-10-28T18:32:05Z","T1615","1","Display group policy information via gpresult","Server002","System.Object[]","server002\admin_test","0976990f-53b1-4d3f-a185-6df5be429d3b","5800","0"

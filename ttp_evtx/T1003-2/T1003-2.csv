@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T17:08:50Z","2024-10-20T20:08:50Z","T1003","2","Credential Dumping with NPPSpy","Server002","System.Object[]","server002\admin_test","9e2173c0-ba26-4cdf-b0ed-8c54b27e3ad6","4740","0"

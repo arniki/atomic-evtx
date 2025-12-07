@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T15:16:49Z","2024-10-22T18:16:49Z","T1047","7","Create a Process using WMI Query and an Encoded Command","Server002","System.Object[]","server002\admin_test","7db7a7f9-9531-4840-9b30-46220135441c","4724","0"

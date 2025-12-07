@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T21:17:22Z","2024-10-25T00:17:22Z","T1115","2","Execute Commands from Clipboard using PowerShell","Server002","System.Object[]","server002\admin_test","d6dc21af-bec9-4152-be86-326b6babd416","6920","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T17:51:07Z","2024-10-22T20:51:07Z","T1055","11","Process Injection with Go using CreateThread WinAPI","Server002","System.Object[]","server002\admin_test","2871ed59-3837-4a52-9107-99500ebc87cb","1696","0"

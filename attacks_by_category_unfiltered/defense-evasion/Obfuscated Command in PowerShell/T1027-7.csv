@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T11:57:50Z","2024-10-21T14:57:50Z","T1027","7","Obfuscated Command in PowerShell","Server002","System.Object[]","server002\admin_test","8b3f4ed6-077b-4bdd-891c-2d237f19410f","4268","0"

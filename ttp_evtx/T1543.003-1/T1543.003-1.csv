@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T12:45:06Z","2024-10-27T14:45:06Z","T1543.003","1","Modify Fax service to run PowerShell","Server002","System.Object[]","server002\admin_test","ed366cde-7d12-49df-a833-671904770b9f","2252","1053"

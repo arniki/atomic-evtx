@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T14:19:43Z","2024-10-23T17:19:43Z","T1070.003","13","Set Custom AddToHistoryHandler to Avoid History File Logging","Server002","System.Object[]","server002\admin_test","1d0d9aa6-6111-4f89-927b-53e8afae7f94","2184","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T12:56:09Z","2024-10-25T15:56:09Z","T1136.001","4","Create a new user in a command prompt","Server002","System.Object[]","server002\admin_test","6657864e-0323-4206-9344-ac9cd7265a4f","4444","0"

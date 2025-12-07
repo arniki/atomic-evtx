@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T20:17:16Z","2024-10-26T23:17:16Z","T1490","8","Windows - Disable the SR scheduled task","Server002","System.Object[]","server002\admin_test","1c68c68d-83a4-4981-974e-8993055fa034","5164","0"

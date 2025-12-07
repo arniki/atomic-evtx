@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T14:55:14Z","2024-10-28T16:55:14Z","T1569.002","8","Pipe Creation - PsExec Tool Execution From Suspicious Locations","Server002","System.Object[]","server002\admin_test","004a5d68-627b-452d-af3d-43bd1fc75a3b",,

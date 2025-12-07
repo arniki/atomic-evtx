@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T10:23:06Z","2024-10-24T13:23:06Z","T1098","12","Domain Password Policy Check: No Special Character in Password","Server002","System.Object[]","server002\admin_test","7d984ef2-2db2-4cec-b090-e637e1698f61","4652","0"

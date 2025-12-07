@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T21:13:48Z","2024-10-25T00:13:48Z","T1115","1","Utilize Clipboard to store or execute commands from","Server002","System.Object[]","server002\admin_test","0cd14633-58d4-4422-9ede-daa2c9474ae7","6244","0"

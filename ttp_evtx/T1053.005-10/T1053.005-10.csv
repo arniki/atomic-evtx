@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T17:09:22Z","2024-10-22T20:09:22Z","T1053.005","10","Scheduled Task (""Ghost Task"") via Registry Key Manipulation","Server002","System.Object[]","server002\admin_test","704333ca-cc12-4bcf-9916-101844881f54","6048","1"

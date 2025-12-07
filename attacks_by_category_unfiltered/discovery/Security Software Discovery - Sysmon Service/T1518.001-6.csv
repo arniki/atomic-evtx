@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T21:26:32Z","2024-10-27T00:26:32Z","T1518.001","6","Security Software Discovery - Sysmon Service","Server002","System.Object[]","server002\admin_test","fe613cf3-8009-4446-9a0f-bc78a15b66c9","4532","0"

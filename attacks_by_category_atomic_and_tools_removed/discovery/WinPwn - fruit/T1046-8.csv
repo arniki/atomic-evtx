@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T14:43:01Z","2024-10-22T17:43:01Z","T1046","8","WinPwn - fruit","Server002","System.Object[]","server002\admin_test","bb037826-cbe8-4a41-93ea-b94059d6bb98","5436","0"

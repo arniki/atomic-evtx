@@ -1,0 +1,3 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T11:22:36Z","2024-10-25T14:22:36Z","T1134.001","1","Named pipe client impersonation","Server002","System.Object[]","server002\admin_test","90db9e27-8e7c-4c04-b602-a45927884966","6976","0"
+"2024-11-02T11:07:06Z","2024-11-02T13:07:06Z","T1134.001","1","Named pipe client impersonation","Server002","System.Object[]","server002\admin_test","90db9e27-8e7c-4c04-b602-a45927884966","5368","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T20:20:52Z","2024-10-26T23:20:52Z","T1490","9","Disable System Restore Through Registry","Server002","System.Object[]","server002\admin_test","66e647d1-8741-4e43-b7c1-334760c2047f","4516","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T16:11:46Z","2024-10-28T18:11:46Z","T1592.001","1","Enumerate PlugNPlay Camera","Server002","System.Object[]","server002\admin_test","d430bf85-b656-40e7-b238-42db01df0183","5408","0"

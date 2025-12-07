@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T11:06:58Z","2024-10-28T13:06:58Z","T1562.002","3","Kill Event Log Service Threads","Server002","System.Object[]","server002\admin_test","41ac52ba-5d5e-40c0-b267-573ed90489bd","6868","1"

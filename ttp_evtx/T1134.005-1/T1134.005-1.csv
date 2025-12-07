@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T12:16:59Z","2024-10-25T15:16:59Z","T1134.005","1","Injection SID-History with mimikatz","Server002","System.Object[]","server002\admin_test","6bef32e5-9456-4072-8f14-35566fb85401","772","1"

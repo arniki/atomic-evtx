@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T16:08:08Z","2024-10-27T18:08:08Z","T1547.001","17","Modify BootExecute Value","Server002","System.Object[]","server002\admin_test","befc2b40-d487-4a5a-8813-c11085fb5672","3700","0"

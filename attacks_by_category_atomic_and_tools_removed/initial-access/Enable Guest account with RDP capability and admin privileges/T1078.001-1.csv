@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T16:12:23Z","2024-10-23T19:12:23Z","T1078.001","1","Enable Guest account with RDP capability and admin privileges","Server002","System.Object[]","server002\admin_test","99747561-ed8d-47f2-9c91-1e5fde1ed6e0","3628","0"

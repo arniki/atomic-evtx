@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T14:59:51Z","2024-10-24T17:59:51Z","T1112","14","Disable Windows Shutdown Button","Server002","System.Object[]","server002\admin_test","6e0d1131-2d7e-4905-8ca5-d6172f05d03d","5744","0"

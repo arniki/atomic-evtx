@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T20:44:52Z","2024-10-26T23:44:52Z","T1505.003","1","Web Shell Written to Disk","Server002","System.Object[]","server002\admin_test","0a2ce662-1efa-496f-a472-2fe7b080db16","6564","0"

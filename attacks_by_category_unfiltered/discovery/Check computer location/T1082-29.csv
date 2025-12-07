@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T18:35:25Z","2024-10-23T21:35:25Z","T1082","29","Check computer location","Server002","System.Object[]","server002\admin_test","96be6002-9200-47db-94cb-c3e27de1cb36","4240","0"

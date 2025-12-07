@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T07:49:51Z","2024-10-28T09:49:51Z","T1560.001","2","Compress Data and lock with password for Exfiltration with winrar","Server002","System.Object[]","server002\admin_test","8dd61a55-44c6-43cc-af0c-8bdda276860c","4772","0"

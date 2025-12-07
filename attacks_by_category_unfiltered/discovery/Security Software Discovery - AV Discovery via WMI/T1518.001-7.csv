@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T21:29:58Z","2024-10-27T00:29:58Z","T1518.001","7","Security Software Discovery - AV Discovery via WMI","Server002","System.Object[]","server002\admin_test","1553252f-14ea-4d3b-8a08-d7a4211aa945","5092","0"

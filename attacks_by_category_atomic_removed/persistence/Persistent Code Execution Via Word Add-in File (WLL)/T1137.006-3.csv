@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T16:20:24Z","2024-10-25T19:20:24Z","T1137.006","3","Persistent Code Execution Via Word Add-in File (WLL)","Server002","System.Object[]","server002\admin_test","95408a99-4fa7-4cd6-a7ef-cb65f86351cf","6336","0"

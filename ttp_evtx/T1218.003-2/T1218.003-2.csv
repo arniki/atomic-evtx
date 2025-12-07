@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T13:15:45Z","2024-10-26T16:15:45Z","T1218.003","2","CMSTP Executing UAC Bypass","Server002","System.Object[]","server002\admin_test","748cb4f6-2fb3-4e97-b7ad-b22635a09ab0",,

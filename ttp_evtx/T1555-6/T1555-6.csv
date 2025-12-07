@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T21:15:09Z","2024-10-27T23:15:09Z","T1555","6","WinPwn - Loot local Credentials - lazagne","Server002","System.Object[]","server002\admin_test","079ee2e9-6f16-47ca-a635-14efcd994118","4016","0"

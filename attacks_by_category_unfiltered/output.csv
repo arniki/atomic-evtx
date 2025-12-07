@@ -1,0 +1,1065 @@
+directory,count
+collection/Automated Collection Command Prompt/json/,168
+collection/Automated Collection PowerShell/json/,91
+collection/Azure - Enumerate Azure Blobs with MicroBurst/json/,91
+collection/Azure - Scan for Anonymous Access to Azure Storage (Powershell)/json/,59
+collection/Collect Clipboard Data via VBA/json/,77
+collection/Compress Data and lock with password for Exfiltration with 7zip/json/,57
+collection/Compress Data and lock with password for Exfiltration with winrar/json/,71
+collection/Compress Data and lock with password for Exfiltration with winzip/json/,43
+collection/Compress Data for Exfiltration With PowerShell/json/,155
+collection/Compress Data for Exfiltration With Rar/json/,68
+collection/Copy a sensitive File over Administrative share with Powershell/json/,61
+collection/ESXi - Remove Syslog remote/json/,144
+collection/Email Collection with PowerShell Get-Inbox/json/,84
+collection/Execute Commands from Clipboard using PowerShell/json/,61
+collection/Office365 - Email Forwarding/json/,89
+collection/Office365 - Remote Mail Collected/json/,44
+collection/Recon information for export with Command Prompt/json/,81
+collection/Recon information for export with PowerShell/json/,84
+collection/Registry artefact when application use microphone/json/,59
+collection/Registry artefact when application use webcam/json/,79
+collection/Search files of interest and save them to a single zip file (Windows)/json/,78
+collection/Stage data from Discovery.bat/json/,78
+collection/Utilize Clipboard to store or execute commands from/json/,62
+collection/Windows Recall Feature Enabled - DisableAIDataAnalysis Value Deleted/json/,85
+collection/Windows Screen Capture (CopyFromScreen)/json/,71
+collection/Windows Screencapture/json/,273
+collection/Zip a Folder with PowerShell for Staging in Temp/json/,54
+collection/using device audio capture commandlet/json/,73
+command-and-control/Ammyy Admin Software Execution/json/,65
+command-and-control/AnyDesk Files Detected Test on Windows/json/,94
+command-and-control/Arbitrary file download using the Notepad++ GUP.exe binary/json/,70
+command-and-control/Curl Download File/json/,88
+command-and-control/Curl Upload File/json/,75
+command-and-control/DNS C2/json/,190
+command-and-control/DNS Large Query Volume/json/,128
+command-and-control/DNS Long Domain Query/json/,87
+command-and-control/DNS Regular Beaconing/json/,59
+command-and-control/DNS over HTTPS Large Query Volume/json/,102
+command-and-control/DNS over HTTPS Long Domain Query/json/,80
+command-and-control/DNS over HTTPS Regular Beaconing/json/,61
+command-and-control/Download a File with Windows Defender MpCmdRun.exe/json/,83
+command-and-control/Download a file using wscript/json/,62
+command-and-control/Download a file with IMEWDBLD.exe/json/,83
+command-and-control/Download a file with Microsoft Connection Manager Auto-Download/json/,65
+command-and-control/Embedded Script in Image Execution via Extract-Invoke-PSImage/json/,46
+command-and-control/File Download via PowerShell/json/,59
+command-and-control/File Download with Sqlcmd.exe/json/,50
+command-and-control/File download with finger.exe on Windows/json/,81
+command-and-control/GoToAssist Files Detected Test on Windows/json/,111
+command-and-control/LogMeIn Files Detected Test on Windows/json/,112
+command-and-control/Lolbas replace.exe use to copy UNC file/json/,72
+command-and-control/Lolbas replace.exe use to copy file/json/,43
+command-and-control/MAZE Propagation Script/json/,51
+command-and-control/MSP360 Connect Execution/json/,78
+command-and-control/Malicious User Agents - CMD/json/,61
+command-and-control/Malicious User Agents - Powershell/json/,70
+command-and-control/NetSupport - RAT Execution/json/,97
+command-and-control/Nimgrab - Transfer Files/json/,40
+command-and-control/OSTAP Worming Activity/json/,75
+command-and-control/Printer Migration Command-Line Tool UNC share folder into a zip file/json/,45
+command-and-control/Psiphon/json/,195
+command-and-control/RemotePC Software Execution/json/,254
+command-and-control/Run ngrok/json/,68
+command-and-control/RustDesk Files Detected Test on Windows/json/,187
+command-and-control/ScreenConnect Application Download and Install on Windows/json/,61
+command-and-control/Splashtop Execution/json/,116
+command-and-control/Splashtop Streamer Execution/json/,46
+command-and-control/Steganographic Tarball Embedding/json/,51
+command-and-control/TeamViewer Files Detected Test on Windows/json/,255
+command-and-control/Telnet C2/json/,74
+command-and-control/Testing usage of uncommonly used port with PowerShell/json/,178
+command-and-control/Tor Proxy Usage - Windows/json/,232
+command-and-control/UltraVNC Execution/json/,80
+command-and-control/UltraViewer - RAT Execution/json/,1029
+command-and-control/Windows - BITSAdmin BITS Download/json/,60
+command-and-control/Windows - PowerShell Download/json/,73
+command-and-control/XOR Encoded data/json/,63
+command-and-control/certreq download/json/,111
+command-and-control/iwr or Invoke Web-Request download/json/,64
+command-and-control/portproxy reg key/json/,48
+command-and-control/svchost writing a file to a UNC path/json/,82
+credential-access/ADFS token signing and encryption certificates theft - Local/json/,51
+credential-access/ADFS token signing and encryption certificates theft - Remote/json/,88
+credential-access/Access Saved Credentials via VaultCmd/json/,63
+credential-access/Access unattend.xml/json/,50
+credential-access/Azure - Dump All Azure Key Vaults with Microburst/json/,92
+credential-access/Azure - Dump Azure Instance Metadata from Virtual Machines/json/,58
+credential-access/Azure - Search Azure AD User Attributes for Passwords/json/,47
+credential-access/BrowserStealer (Chrome - Firefox - Microsoft Edge)/json/,51
+credential-access/Brute Force Credentials of single Active Directory domain user via LDAP against domain controller (NTLM or Kerberos)/json/,53
+credential-access/Brute Force Credentials of single Active Directory domain users via SMB/json/,87
+credential-access/Brute Force Credentials of single Azure AD user/json/,75
+credential-access/Brute Force:Credential Stuffing using Kerbrute Tool/json/,112
+credential-access/Cached Credential Dump via Cmdkey/json/,65
+credential-access/CertUtil ExportPFX/json/,89
+credential-access/Copy NTDS.dit from Volume Shadow Copy/json/,78
+credential-access/Crafting Active Directory golden tickets with Rubeus/json/,169
+credential-access/Crafting Active Directory silver tickets with mimikatz/json/,132
+credential-access/Create Symlink to Volume Shadow Copy/json/,59
+credential-access/Create Volume Shadow Copy remotely (WMI) with esentutl/json/,55
+credential-access/Create Volume Shadow Copy remotely with WMI/json/,72
+credential-access/Create Volume Shadow Copy with Powershell/json/,94
+credential-access/Create Volume Shadow Copy with WMI/json/,95
+credential-access/Create Volume Shadow Copy with diskshadow/json/,65
+credential-access/Create Volume Shadow Copy with vssadmin/json/,77
+credential-access/Credential Dumping with NPPSpy/json/,44
+credential-access/DCSync (Active Directory)/json/,55
+credential-access/Decrypt Mozilla Passwords with Firepwd.py/json/,87
+credential-access/Dump Active Directory Database with NTDSUtil/json/,58
+credential-access/Dump Chrome Login Data with esentutl/json/,39
+credential-access/Dump Credential Manager using keymgr.dll and rundll32.exe/json/,48
+credential-access/Dump Kerberos Tickets from LSA using dumper.ps1/json/,74
+credential-access/Dump LSASS with createdump.exe from .Net v5/json/,43
+credential-access/Dump LSASS.exe Memory through Silent Process Exit/json/,38
+credential-access/Dump LSASS.exe Memory using NanoDump/json/,36
+credential-access/Dump LSASS.exe Memory using Out-Minidump.ps1/json/,42
+credential-access/Dump LSASS.exe Memory using direct system calls and API unhooking/json/,41
+credential-access/Dump LSASS.exe using imported Microsoft DLLs/json/,43
+credential-access/Dump LSASS.exe using lolbin rdrleakdiag.exe/json/,46
+credential-access/Dump credentials from Windows Credential Manager With PowerShell [web Credentials]/json/,62
+credential-access/Dump credentials from Windows Credential Manager With PowerShell [windows Credentials]/json/,56
+credential-access/Dump svchost.exe to gather RDP credentials/json/,48
+credential-access/Dumping LSA Secrets/json/,47
+credential-access/Dumping of SAM, creds, and secrets(Reg Export)/json/,68
+credential-access/ESXi - Brute Force Until Account Lockout/json/,177
+credential-access/Enumerate credentials from Windows Credential Manager using vaultcmd.exe [Web Credentials]/json/,90
+credential-access/Enumerate credentials from Windows Credential Manager using vaultcmd.exe [Windows Credentials]/json/,83
+credential-access/Enumeration for Credentials in Registry/json/,164
+credential-access/Enumeration for PuTTY Credentials in Registry/json/,79
+credential-access/Export Certificates with Mimikatz/json/,43
+credential-access/Export Root Certificate with Export-Certificate/json/,80
+credential-access/Export Root Certificate with Export-PFXCertificate/json/,101
+credential-access/Extract Windows Credential Manager via VBA/json/,87
+credential-access/Extract all accounts in use as SPN using setspn/json/,79
+credential-access/Extracting passwords with findstr/json/,92
+credential-access/GPP Passwords (Get-GPPPassword)/json/,144
+credential-access/GPP Passwords (findstr)/json/,77
+credential-access/Golden SAML/json/,46
+credential-access/Gsecdump/json/,44
+credential-access/Hook PowerShell TLS Encrypt-Decrypt Messages/json/,65
+credential-access/LSASS read with pypykatz/json/,37
+credential-access/LaZagne - Credentials from Browser/json/,90
+credential-access/List Credential Files via Command Prompt/json/,77
+credential-access/List Credential Files via PowerShell/json/,81
+credential-access/Offline Credential Theft With Mimikatz/json/,37
+credential-access/Password Brute User using Kerbrute Tool/json/,143
+credential-access/Password Cracking with Hashcat/json/,139
+credential-access/Password Spray (DomainPasswordSpray)/json/,68
+credential-access/Password Spray Invoke-DomainPasswordSpray Light/json/,80
+credential-access/Password Spray Microsoft Online Accounts with MSOLSpray (Azure-O365)/json/,81
+credential-access/Password Spray all Domain Users/json/,63
+credential-access/Password Spray using Kerbrute Tool/json/,140
+credential-access/Password spray all Active Directory domain users with a single password via LDAP against domain controller (NTLM or Kerberos)/json/,59
+credential-access/Password spray all Azure AD users with a single password/json/,68
+credential-access/PetitPotam/json/,81
+credential-access/PowerDump Hashes and Usernames from Registry/json/,58
+credential-access/PowerShell - Prompt User for Password/json/,251
+credential-access/Registry dump of SAM, creds, and secrets/json/,50
+credential-access/Registry parse with pypykatz/json/,66
+credential-access/Request A Single Ticket via PowerShell/json/,76
+credential-access/Request All Tickets via PowerShell/json/,82
+credential-access/Request for service tickets/json/,56
+credential-access/Retrieve Microsoft IIS Service Account Credentials Using AppCmd (using config)/json/,45
+credential-access/Retrieve Microsoft IIS Service Account Credentials Using AppCmd (using list)/json/,50
+credential-access/Rubeus asreproast/json/,86
+credential-access/Rubeus kerberoast/json/,61
+credential-access/Run DSInternals Get-ADReplAccount/json/,50
+credential-access/Search for Passwords in Powershell History/json/,94
+credential-access/Send NTLM Hash with RPC Test Connection/json/,49
+credential-access/Simulating access to Chrome Login Data/json/,86
+credential-access/Simulating access to Opera Login Data/json/,45
+credential-access/Simulating access to Windows Edge Login Data/json/,52
+credential-access/Simulating access to Windows Firefox Login Data/json/,51
+credential-access/Stage Popular Credential Files for Exfiltration/json/,66
+credential-access/Steal Chrome Cookies (Windows)/json/,80
+credential-access/Steal Firefox Cookies (Windows)/json/,53
+credential-access/Trigger an authenticated RPC call to a target server with no Sign flag set/json/,78
+credential-access/WebBrowserPassView - Credentials from Browser/json/,148
+credential-access/WinPwn - BrowserPwn/json/,55
+credential-access/WinPwn - DomainPasswordSpray Attacks/json/,54
+credential-access/WinPwn - Kerberoasting/json/,84
+credential-access/WinPwn - Loot local Credentials - AWS, Microsoft Azure, and Google Compute credentials/json/,83
+credential-access/WinPwn - Loot local Credentials - Decrypt Teamviewer Passwords/json/,71
+credential-access/WinPwn - Loot local Credentials - Dump SAM-File for NTLM Hashes/json/,65
+credential-access/WinPwn - Loot local Credentials - Wifi Credentials/json/,84
+credential-access/WinPwn - Loot local Credentials - lazagne/json/,83
+credential-access/WinPwn - Loot local Credentials - mimi-kittenz/json/,64
+credential-access/WinPwn - PowerSharpPack - Kerberoasting Using Rubeus (2)/json/,79
+credential-access/WinPwn - PowerSharpPack - Kerberoasting Using Rubeus/json/,92
+credential-access/WinPwn - PowerSharpPack - Retrieving NTLM Hashes without Touching LSASS/json/,98
+credential-access/WinPwn - PowerSharpPack - Sharpweb for Browser Credentials/json/,74
+credential-access/WinPwn - SessionGopher/json/,86
+credential-access/WinPwn - Snaffler/json/,98
+credential-access/WinPwn - passhunt/json/,63
+credential-access/WinPwn - powershellsensitive/json/,57
+credential-access/WinPwn - sensitivefiles/json/,81
+credential-access/dump volume shadow copy hives with System.IO.File/json/,86
+credential-access/dump volume shadow copy hives with certutil/json/,66
+credential-access/esentutl.exe SAM copy/json/,179
+defense-evasion/AMSI Bypass - Create AMSIEnable Reg Key/json/,82
+defense-evasion/AMSI Bypass - Override AMSI via COM/json/,79
+defense-evasion/AMSI Bypass - Remove AMSI Provider Reg Key/json/,74
+defense-evasion/Abusing MyComputer Disk Backup Path for Persistence/json/,79
+defense-evasion/Abusing MyComputer Disk Cleanup Path for Persistence/json/,132
+defense-evasion/Abusing MyComputer Disk Fragmentation Path for Persistence/json/,74
+defense-evasion/Abusing Windows TelemetryController Registry Key for Persistence/json/,70
+defense-evasion/Activate Windows NoClose Group Policy Feature/json/,79
+defense-evasion/Activate Windows NoControlPanel Group Policy Feature/json/,73
+defense-evasion/Activate Windows NoDesktop Group Policy Feature/json/,78
+defense-evasion/Activate Windows NoFileMenu Group Policy Feature/json/,84
+defense-evasion/Activate Windows NoFind Group Policy Feature/json/,51
+defense-evasion/Activate Windows NoPropertiesMyDocuments Group Policy Feature/json/,75
+defense-evasion/Activate Windows NoRun Group Policy Feature/json/,56
+defense-evasion/Activate Windows NoSetTaskbar Group Policy Feature/json/,77
+defense-evasion/Activate Windows NoTrayContextMenu Group Policy Feature/json/,77
+defense-evasion/Activities To Disable Microsoft [FIDO Aka Fast IDentity Online] Authentication Detected By Modified Registry Value/json/,69
+defense-evasion/Activities To Disable Secondary Authentication Detected By Modified Registry Value/json/,81
+defense-evasion/Add Network Share/json/,57
+defense-evasion/Add Root Certificate to CurrentUser Certificate Store/json/,62
+defense-evasion/Add domain to Trusted sites Zone/json/,69
+defense-evasion/Adding custom paths for application execution/json/,52
+defense-evasion/Allow Executable Through Firewall Located in Non-Standard Location/json/,82
+defense-evasion/Allow RDP Remote Assistance Feature/json/,50
+defense-evasion/Allow SMB and RDP on Microsoft Defender Firewall/json/,82
+defense-evasion/Allow Simultaneous Download Registry/json/,45
+defense-evasion/Azure - Eventhub Deletion/json/,71
+defense-evasion/BlackByte Ransomware Registry Changes - CMD/json/,75
+defense-evasion/BlackByte Ransomware Registry Changes - Powershell/json/,54
+defense-evasion/Blackbit - Disable Windows Firewall using netsh firewall/json/,52
+defense-evasion/Bypass UAC by Mocking Trusted Directories/json/,53
+defense-evasion/Bypass UAC using ComputerDefaults (PowerShell)/json/,89
+defense-evasion/Bypass UAC using Event Viewer (PowerShell)/json/,95
+defense-evasion/Bypass UAC using Fodhelper - PowerShell/json/,82
+defense-evasion/Bypass UAC using SilentCleanup task/json/,68
+defense-evasion/Bypass UAC using sdclt DelegateExecute/json/,64
+defense-evasion/CMSTP Executing Remote Scriptlet/json/,85
+defense-evasion/CMSTP Executing UAC Bypass/json/,122
+defense-evasion/Certutil Rename and Decode/json/,54
+defense-evasion/Change Powershell Execution Policy to Bypass/json/,81
+defense-evasion/CheckIfInstallable method call/json/,81
+defense-evasion/Clear Event Logs via VBA/json/,111
+defense-evasion/Clear Logs/json/,76
+defense-evasion/Clear Powershell History by Deleting History File/json/,55
+defense-evasion/Clear Windows Audit Policy Config/json/,70
+defense-evasion/Code Signing Policy Modification/json/,76
+defense-evasion/Command Execution with NirCmd/json/,147
+defense-evasion/Compile After Delivery using csc.exe/json/,64
+defense-evasion/Compiled HTML Help Local Payload/json/,91
+defense-evasion/Compiled HTML Help Remote Payload/json/,304
+defense-evasion/Control Panel Items/json/,82
+defense-evasion/Copy and Delete Mailbox Data on Windows/json/,70
+defense-evasion/Copy and Modify Mailbox Data on Windows/json/,57
+defense-evasion/Create ADS PowerShell/json/,96
+defense-evasion/Create ADS command prompt/json/,57
+defense-evasion/Create Hidden Directory via $index_allocation/json/,56
+defense-evasion/Create Hidden User in Registry/json/,59
+defense-evasion/Create Windows Hidden File with Attrib/json/,80
+defense-evasion/Create Windows Hidden File with powershell/json/,62
+defense-evasion/Create Windows System File with Attrib/json/,85
+defense-evasion/Create Windows System File with powershell/json/,85
+defense-evasion/Create a Hidden User Called $/json/,48
+defense-evasion/Create an Administratoruser (with a space on the end)/json/,83
+defense-evasion/Create and Hide a Service with sc.exe/json/,81
+defense-evasion/Create and start Hyper-V virtual machine/json/,70
+defense-evasion/Create and start VirtualBox virtual machine/json/,43
+defense-evasion/Creating W32Time similar named service using sc/json/,55
+defense-evasion/Creating W32Time similar named service using schtasks/json/,60
+defense-evasion/DCShadow (Active Directory)/json/,87
+defense-evasion/DLL Search Order Hijacking - amsi.dll/json/,72
+defense-evasion/DLL Search Order Hijacking,DLL Sideloading Of KeyScramblerIE.DLL Via KeyScrambler.EXE/json/,164
+defense-evasion/DLL Side-Loading using the Notepad++ GUP.exe binary/json/,72
+defense-evasion/DLL Side-Loading using the dotnet startup hook environment variable/json/,59
+defense-evasion/DLP Evasion via Sensitive Data in VBA Macro over HTTP/json/,79
+defense-evasion/DLP Evasion via Sensitive Data in VBA Macro over email/json/,52
+defense-evasion/Decompile Local CHM File/json/,74
+defense-evasion/Delete Microsoft Defender ASR Rules - GPO/json/,55
+defense-evasion/Delete Microsoft Defender ASR Rules - InTune/json/,89
+defense-evasion/Delete Prefetch File/json/,143
+defense-evasion/Delete System Logs Using Clear-EventLog/json/,79
+defense-evasion/Delete TeamViewer Log Files/json/,84
+defense-evasion/Delete Windows Defender Scheduled Tasks/json/,76
+defense-evasion/Delete a single file - Windows PowerShell/json/,75
+defense-evasion/Delete a single file - Windows cmd/json/,58
+defense-evasion/Delete an entire folder - Windows PowerShell/json/,82
+defense-evasion/Delete an entire folder - Windows cmd/json/,57
+defense-evasion/Deobfuscate-Decode Files Or Information/json/,47
+defense-evasion/Disable .NET Event Tracing for Windows Via Registry (cmd)/json/,69
+defense-evasion/Disable .NET Event Tracing for Windows Via Registry (powershell)/json/,55
+defense-evasion/Disable Administrative Share Creation at Startup/json/,82
+defense-evasion/Disable Arbitrary Security Windows Service/json/,83
+defense-evasion/Disable ConsentPromptBehaviorAdmin via registry keys/json/,55
+defense-evasion/Disable Defender Using NirSoft AdvancedRun/json/,76
+defense-evasion/Disable Event Logging with wevtutil/json/,55
+defense-evasion/Disable Hypervisor-Enforced Code Integrity (HVCI)/json/,83
+defense-evasion/Disable Microsoft Defender Firewall via Registry/json/,83
+defense-evasion/Disable Microsoft Defender Firewall/json/,59
+defense-evasion/Disable Microsoft Office Security Features/json/,86
+defense-evasion/Disable Powershell ETW Provider - Windows/json/,82
+defense-evasion/Disable Remote Desktop Anti-Alias Setting Through Registry/json/,47
+defense-evasion/Disable Remote Desktop Security Settings Through Registry/json/,55
+defense-evasion/Disable UAC - Switch to the secure desktop when prompting for elevation via registry key/json/,77
+defense-evasion/Disable UAC admin consent prompt via ConsentPromptBehaviorAdmin registry key/json/,61
+defense-evasion/Disable UAC notification via registry keys/json/,76
+defense-evasion/Disable UAC using reg.exe/json/,79
+defense-evasion/Disable Win Defender Notification/json/,77
+defense-evasion/Disable Windows Auto Reboot for current logon user/json/,75
+defense-evasion/Disable Windows CMD application/json/,97
+defense-evasion/Disable Windows Change Password Feature/json/,84
+defense-evasion/Disable Windows Command Line Auditing using Powershell Cmdlet/json/,81
+defense-evasion/Disable Windows Command Line Auditing using reg.exe/json/,74
+defense-evasion/Disable Windows Defender with DISM/json/,72
+defense-evasion/Disable Windows Defender with PwSh Disable-WindowsOptionalFeature/json/,84
+defense-evasion/Disable Windows Error Reporting Settings/json/,53
+defense-evasion/Disable Windows IIS HTTP Logging via PowerShell/json/,84
+defense-evasion/Disable Windows IIS HTTP Logging/json/,92
+defense-evasion/Disable Windows Lock Workstation Feature/json/,71
+defense-evasion/Disable Windows LogOff Button/json/,53
+defense-evasion/Disable Windows Notification Center/json/,78
+defense-evasion/Disable Windows OS Auto Update/json/,77
+defense-evasion/Disable Windows Prefetch Through Registry/json/,49
+defense-evasion/Disable Windows Registry Tool/json/,55
+defense-evasion/Disable Windows Remote Desktop Protocol/json/,82
+defense-evasion/Disable Windows Security Center Notifications/json/,44
+defense-evasion/Disable Windows Shutdown Button/json/,54
+defense-evasion/Disable Windows Task Manager application/json/,78
+defense-evasion/Disable Windows Toast Notifications/json/,47
+defense-evasion/Disabling ShowUI Settings of Windows Error Reporting (WER)/json/,71
+defense-evasion/DisallowRun Execution Of Certain Applications/json/,48
+defense-evasion/DiskShadow Command Execution/json/,72
+defense-evasion/Do Not Connect To Win Update/json/,49
+defense-evasion/Dynamic API Resolution-Ninja-syscall/json/,77
+defense-evasion/Dynamic C# Compile/json/,61
+defense-evasion/ESXi - Change VIB acceptance level to CommunitySupported via ESXCLI/json/,119
+defense-evasion/ESXi - Disable Firewall via Esxcli/json/,70
+defense-evasion/Enable Proxy Settings/json/,48
+defense-evasion/Enable RDP via Registry (fDenyTSConnections)/json/,91
+defense-evasion/Enabling Remote Desktop Protocol via Remote Registry/json/,43
+defense-evasion/Enabling Restricted Admin Mode via Command_Prompt/json/,76
+defense-evasion/Enforce Smart Card Authentication Through Registry/json/,52
+defense-evasion/Event Log Manipulations- Time slipping via Powershell/json/,189
+defense-evasion/Event Viewer Registry Modification - Redirection Program/json/,55
+defense-evasion/Event Viewer Registry Modification - Redirection URL/json/,78
+defense-evasion/Execute base64-encoded PowerShell from Windows Registry/json/,98
+defense-evasion/Execute base64-encoded PowerShell/json/,114
+defense-evasion/Execution from Compressed File/json/,57
+defense-evasion/Execution from Compressed JScript File/json/,61
+defense-evasion/Execution of HTA and VBS Files using Rundll32 and URL.dll/json/,50
+defense-evasion/Execution of non-dll using rundll32.exe/json/,88
+defense-evasion/Execution of program.exe as service with unquoted service path/json/,53
+defense-evasion/Extract binary files via VBA/json/,50
+defense-evasion/File Extension Masquerading/json/,152
+defense-evasion/Flush Shimcache/json/,75
+defense-evasion/Grant Full Access to folder for Everyone - Ryuk Ransomware Style/json/,77
+defense-evasion/HTML Smuggling Remote Payload/json/,97
+defense-evasion/Headless Browser Accessing Mockbin/json/,254
+defense-evasion/Hidden Window-Conhost Execution/json/,64
+defense-evasion/Hidden Window/json/,69
+defense-evasion/Hide Files Through Registry/json/,78
+defense-evasion/Hide Windows Clock Group Policy Feature/json/,72
+defense-evasion/Impair Windows Audit Log Policy/json/,85
+defense-evasion/Indicator Manipulation using FSUtil/json/,78
+defense-evasion/Indicator Removal using FSUtil/json/,126
+defense-evasion/Indirect Command Execution - Scriptrunner.exe/json/,63
+defense-evasion/Indirect Command Execution - conhost.exe/json/,81
+defense-evasion/Indirect Command Execution - forfiles.exe/json/,171
+defense-evasion/Indirect Command Execution - pcalua.exe/json/,59
+defense-evasion/InfDefaultInstall.exe .inf Execution/json/,75
+defense-evasion/Install root CA on Windows with certutil/json/,85
+defense-evasion/Install root CA on Windows/json/,91
+defense-evasion/InstallHelper method call/json/,91
+defense-evasion/InstallUtil HelpText method call/json/,60
+defense-evasion/InstallUtil Install method call/json/,80
+defense-evasion/InstallUtil Uninstall method call - -U variant/json/,60
+defense-evasion/InstallUtil Uninstall method call - -installtype=notransaction -action=uninstall' variant/json/,85
+defense-evasion/InstallUtil class constructor method call/json/,92
+defense-evasion/InstallUtil evasive invocation/json/,153
+defense-evasion/Invoke CHM Shortcut Command with ITS and Help Topic/json/,78
+defense-evasion/Invoke CHM Simulate Double click/json/,87
+defense-evasion/Invoke CHM with InfoTech Storage Protocol Handler/json/,77
+defense-evasion/Invoke CHM with Script Engine and Help Topic/json/,68
+defense-evasion/Invoke CHM with default Shortcut Command Execution/json/,47
+defense-evasion/Invoke HTML Application - Direct download from URI/json/,45
+defense-evasion/Invoke HTML Application - JScript Engine with Inline Protocol Handler/json/,57
+defense-evasion/Invoke HTML Application - JScript Engine with Rundll32 and Inline Protocol Handler/json/,51
+defense-evasion/Invoke HTML Application - Jscript Engine Simulating Double Click/json/,63
+defense-evasion/Invoke HTML Application - Jscript Engine over Local UNC Simulating Lateral Movement/json/,76
+defense-evasion/Invoke HTML Application - Simulate Lateral Movement over UNC Path/json/,49
+defense-evasion/Invoke-ATHRemoteFXvGPUDisablementCommand base test/json/,64
+defense-evasion/Javascript in registry/json/,88
+defense-evasion/Kill Event Log Service Threads/json/,58
+defense-evasion/Kill antimalware protected processes using Backstab/json/,79
+defense-evasion/LOLBAS CustomShellHost to Spawn Process/json/,53
+defense-evasion/LOLBAS Msedge to Spawn Process/json/,132
+defense-evasion/Launches an executable using Rundll32 and pcwutl.dll/json/,82
+defense-evasion/Load Arbitrary DLL via Wuauclt (Windows Update Client)/json/,96
+defense-evasion/LockBit Black - Disable Privacy Settings Experience Using Registry -Powershell/json/,83
+defense-evasion/LockBit Black - Disable Privacy Settings Experience Using Registry -cmd/json/,78
+defense-evasion/LockBit Black - Disable the ETW Provider of Windows Defender -Powershell/json/,84
+defense-evasion/LockBit Black - Disable the ETW Provider of Windows Defender -cmd/json/,43
+defense-evasion/LockBit Black - Unusual Windows firewall registry modification -Powershell/json/,77
+defense-evasion/LockBit Black - Unusual Windows firewall registry modification -cmd/json/,75
+defense-evasion/LockBit Black - Use Registry Editor to turn on automatic logon -cmd/json/,56
+defense-evasion/Lockbit Black - Use Registry Editor to turn on automatic logon -Powershell/json/,67
+defense-evasion/Lolbas ie4uinit.exe use as proxy/json/,133
+defense-evasion/Lolbin Gpscript logon option/json/,73
+defense-evasion/Lolbin Gpscript startup option/json/,78
+defense-evasion/Lolbin Jsc.exe compile javascript to dll/json/,135
+defense-evasion/Lolbin Jsc.exe compile javascript to exe/json/,51
+defense-evasion/MSBuild Bypass Using Inline Tasks (C#)/json/,72
+defense-evasion/MSBuild Bypass Using Inline Tasks (VB)/json/,97
+defense-evasion/MSXSL Bypass using local files/json/,127
+defense-evasion/MSXSL Bypass using remote files/json/,79
+defense-evasion/Makes Eventlog blind with Phant0m/json/,101
+defense-evasion/Malicious process Masquerading as LSM.exe/json/,53
+defense-evasion/Malware Masquerading and Execution from Zip File/json/,107
+defense-evasion/Masquerade as a built-in system executable/json/,71
+defense-evasion/Masquerading - cscript.exe running as notepad.exe/json/,59
+defense-evasion/Masquerading - non-windows exe running as windows exe/json/,121
+defense-evasion/Masquerading - powershell.exe running as taskhostw.exe/json/,185
+defense-evasion/Masquerading - windows exe running as different windows exe/json/,72
+defense-evasion/Masquerading - wscript.exe running as svchost.exe/json/,57
+defense-evasion/Masquerading as Windows LSASS process/json/,267
+defense-evasion/Microsoft.Workflow.Compiler.exe Payload Execution/json/,98
+defense-evasion/Mimic Ransomware - Allow Multiple RDP Sessions per User/json/,52
+defense-evasion/Mimic Ransomware - Enable Multiple User Sessions/json/,48
+defense-evasion/Modify EnableBDEWithNoTPM Registry entry/json/,72
+defense-evasion/Modify EnableNonTPM Registry entry/json/,42
+defense-evasion/Modify Internet Zone Protocol Defaults in Current User Registry - PowerShell/json/,81
+defense-evasion/Modify Internet Zone Protocol Defaults in Current User Registry - cmd/json/,79
+defense-evasion/Modify RDP-Tcp Initial Program Registry Entry/json/,83
+defense-evasion/Modify Registry of Current User Profile - cmd/json/,51
+defense-evasion/Modify Registry of Local Machine - cmd/json/,74
+defense-evasion/Modify UsePIN Registry entry/json/,74
+defense-evasion/Modify UsePartialEncryptionKey Registry entry/json/,77
+defense-evasion/Modify UseTPM Registry entry/json/,66
+defense-evasion/Modify UseTPMKey Registry entry/json/,77
+defense-evasion/Modify UseTPMKeyPIN Registry entry/json/,63
+defense-evasion/Modify UseTPMPIN Registry entry/json/,46
+defense-evasion/Modify registry to store logon credentials/json/,78
+defense-evasion/Mshta Executes Remote HTML Application (HTA)/json/,91
+defense-evasion/Mshta executes VBScript to execute malicious command/json/,84
+defense-evasion/Mshta used to Execute PowerShell/json/,62
+defense-evasion/Msiexec.exe - Execute Local MSI file with an embedded DLL/json/,143
+defense-evasion/Msiexec.exe - Execute Local MSI file with an embedded EXE/json/,56
+defense-evasion/Msiexec.exe - Execute Local MSI file with embedded JScript/json/,48
+defense-evasion/Msiexec.exe - Execute Local MSI file with embedded VBScript/json/,72
+defense-evasion/Msiexec.exe - Execute Remote MSI file/json/,88
+defense-evasion/Msiexec.exe - Execute the DllRegisterServer function of a DLL/json/,43
+defense-evasion/Msiexec.exe - Execute the DllUnregisterServer function of a DLL/json/,70
+defense-evasion/NetWire RAT Registry Key Creation/json/,86
+defense-evasion/Obfuscated Command in PowerShell/json/,65
+defense-evasion/Odbcconf.exe - Execute Arbitrary DLL/json/,74
+defense-evasion/Odbcconf.exe - Load Response File/json/,89
+defense-evasion/Office 365 - Exchange Audit Log Disabled/json/,66
+defense-evasion/Office 365 - Set Audit Bypass For a Mailbox/json/,104
+defense-evasion/Open a local port through Windows Firewall to any profile/json/,87
+defense-evasion/Opening ports for proxy - HARDRAIN/json/,49
+defense-evasion/Phantom Dll Hijacking - WinAppXRT.dll/json/,52
+defense-evasion/ProtocolHandler.exe Downloaded a Suspicious File/json/,73
+defense-evasion/Provlaunch.exe Executes Arbitrary Command via Registry Key/json/,81
+defense-evasion/RDP Authentication Level Override/json/,60
+defense-evasion/Read volume boot sector via DOS device path (PowerShell)/json/,79
+defense-evasion/Regasm Uninstall Method Call Test/json/,79
+defense-evasion/Register Portable Virtualbox/json/,76
+defense-evasion/Register-CimProvider - Execute evil dll/json/,71
+defense-evasion/Registry-free process scope COR_PROFILER/json/,90
+defense-evasion/Regsvcs Uninstall Method Call Test/json/,125
+defense-evasion/Regsvr32 Registering Non DLL/json/,59
+defense-evasion/Regsvr32 Silent DLL Install Call DllRegisterServer/json/,46
+defense-evasion/Regsvr32 local COM scriptlet execution/json/,73
+defense-evasion/Regsvr32 local DLL execution/json/,70
+defense-evasion/Remove Administrative Shares/json/,65
+defense-evasion/Remove Network Share PowerShell/json/,81
+defense-evasion/Remove Network Share/json/,76
+defense-evasion/Remove Windows Defender Definition Files/json/,47
+defense-evasion/Renamed Microsoft.Workflow.Compiler.exe Payload Executions/json/,99
+defense-evasion/Requires the BitLocker PIN for Pre-boot authentication/json/,55
+defense-evasion/Rundll32 advpack.dll Execution/json/,78
+defense-evasion/Rundll32 execute VBscript command using Ordinal number/json/,119
+defense-evasion/Rundll32 execute command via FileProtocolHandler/json/,66
+defense-evasion/Rundll32 execute payload by calling RouteTheCall/json/,63
+defense-evasion/Rundll32 ieadvpack.dll Execution/json/,83
+defense-evasion/Rundll32 setupapi.dll Execution/json/,42
+defense-evasion/Rundll32 syssetup.dll Execution/json/,41
+defense-evasion/Rundll32 with Control_RunDLL/json/,72
+defense-evasion/Rundll32 with Ordinal Value/json/,81
+defense-evasion/Rundll32 with desk.cpl/json/,88
+defense-evasion/Running DLL with .init extension and function/json/,57
+defense-evasion/SIP (Subject Interface Package) Hijacking via Custom DLL/json/,247
+defense-evasion/Safe Mode Boot/json/,45
+defense-evasion/Scarab Ransomware Defense Evasion Activities/json/,79
+defense-evasion/Service ImagePath Change with reg.exe/json/,45
+defense-evasion/Service Registry Permissions Weakness/json/,95
+defense-evasion/Set Custom AddToHistoryHandler to Avoid History File Logging/json/,78
+defense-evasion/Set a firewall rule using New-NetFirewallRule/json/,89
+defense-evasion/Set-Up Proxy Server/json/,54
+defense-evasion/Setting Shadow key in Registry for RDP Shadowing/json/,53
+defense-evasion/Snake Malware Encrypted crmlog file/json/,64
+defense-evasion/Snake Malware Registry Blob/json/,62
+defense-evasion/Stop and Remove Arbitrary Security Windows Service/json/,91
+defense-evasion/Store file in Alternate Data Stream (ADS)/json/,90
+defense-evasion/Suppress Win Defender Notifications/json/,80
+defense-evasion/SyncAppvPublishingServer Signed Script PowerShell Command Execution/json/,101
+defense-evasion/System Binary Proxy Execution - Wlrmdr Lolbin/json/,89
+defense-evasion/System File Copied to Unusual Location/json/,71
+defense-evasion/System Scope COR_PROFILER/json/,79
+defense-evasion/Take ownership using takeown utility/json/,85
+defense-evasion/Tamper Win Defender Protection/json/,77
+defense-evasion/Tamper with Windows Defender ATP PowerShell/json/,61
+defense-evasion/Tamper with Windows Defender ATP using Aliases - PowerShell/json/,95
+defense-evasion/Tamper with Windows Defender Command Prompt/json/,81
+defense-evasion/Tamper with Windows Defender Evade Scanning -Extension/json/,82
+defense-evasion/Tamper with Windows Defender Evade Scanning -Folder/json/,87
+defense-evasion/Tamper with Windows Defender Evade Scanning -Process/json/,80
+defense-evasion/Tamper with Windows Defender Registry - Powershell/json/,80
+defense-evasion/Tamper with Windows Defender Registry - Reg.exe/json/,123
+defense-evasion/Tamper with Windows Defender Registry/json/,82
+defense-evasion/Terminal Server Client Connection History Cleared/json/,73
+defense-evasion/UAC Bypass with WSReset Registry Modification/json/,64
+defense-evasion/UACME Bypass Method 23/json/,50
+defense-evasion/UACME Bypass Method 31/json/,78
+defense-evasion/UACME Bypass Method 33/json/,161
+defense-evasion/UACME Bypass Method 34/json/,72
+defense-evasion/UACME Bypass Method 39/json/,79
+defense-evasion/UACME Bypass Method 56/json/,71
+defense-evasion/UACME Bypass Method 59/json/,74
+defense-evasion/UACME Bypass Method 61/json/,111
+defense-evasion/UEFI Persistence via Wpbbin.exe File Creation/json/,67
+defense-evasion/Uninstall Crowdstrike Falcon on Windows/json/,147
+defense-evasion/Uninstall Sysmon/json/,7
+defense-evasion/Unload Sysmon Filter Driver/json/,51
+defense-evasion/Ursnif Malware Registry Key Creation/json/,47
+defense-evasion/Use Powershell to Modify registry to store logon credentials/json/,88
+defense-evasion/User scope COR_PROFILER/json/,52
+defense-evasion/WINWORD Remote Template Injection/json/,48
+defense-evasion/WMI Win32_Product Class - Execute Local MSI file with an embedded DLL/json/,94
+defense-evasion/WMI Win32_Product Class - Execute Local MSI file with an embedded EXE/json/,88
+defense-evasion/WMI Win32_Product Class - Execute Local MSI file with embedded JScript/json/,82
+defense-evasion/WMI Win32_Product Class - Execute Local MSI file with embedded VBScript/json/,75
+defense-evasion/WMIC Tamper with Windows Defender Evade Scanning Folder/json/,49
+defense-evasion/WMIC bypass using local XSL file/json/,122
+defense-evasion/WMIC bypass using remote XSL file/json/,55
+defense-evasion/WinPwn - Kill the event log services for stealth/json/,80
+defense-evasion/WinPwn - UAC Bypass DccwBypassUAC technique/json/,56
+defense-evasion/WinPwn - UAC Bypass DiskCleanup technique/json/,56
+defense-evasion/WinPwn - UAC Bypass ccmstp technique/json/,83
+defense-evasion/WinPwn - UAC Magic/json/,63
+defense-evasion/Windows - Modify file creation timestamp with PowerShell/json/,82
+defense-evasion/Windows - Modify file last access timestamp with PowerShell/json/,49
+defense-evasion/Windows - Modify file last modified timestamp with PowerShell/json/,49
+defense-evasion/Windows - Timestomp a File/json/,77
+defense-evasion/Windows Add Registry Value to Load Service in Safe Mode with Network/json/,81
+defense-evasion/Windows Add Registry Value to Load Service in Safe Mode without Network/json/,77
+defense-evasion/Windows Auto Update Option to Notify before download/json/,82
+defense-evasion/Windows HideSCAHealth Group Policy Feature/json/,75
+defense-evasion/Windows HideSCANetwork Group Policy Feature/json/,61
+defense-evasion/Windows HideSCAPower Group Policy Feature/json/,65
+defense-evasion/Windows HideSCAVolume Group Policy Feature/json/,79
+defense-evasion/Windows Modify Show Compress Color And Info Tip Registry/json/,74
+defense-evasion/Windows Powershell Logging Disabled/json/,90
+defense-evasion/attrib - Remove read-only attribute/json/,87
+defense-evasion/attrib - hide file/json/,59
+defense-evasion/cacls - Grant permission to specified user or group recursively/json/,63
+defense-evasion/manage-bde.wsf Signed Script Command Execution/json/,45
+defense-evasion/mavinject - Inject DLL into running process/json/,71
+defense-evasion/office-365-Disable-AntiPhishRule/json/,83
+discovery/AWS - EC2 Security Group Enumeration/json/,73
+discovery/Active Directory Enumeration with LDIFDE/json/,118
+discovery/Adfind - Enumerate Active Directory Admins/json/,48
+discovery/Adfind - Enumerate Active Directory Computer Objects/json/,109
+discovery/Adfind - Enumerate Active Directory Domain Controller Objects/json/,61
+discovery/Adfind - Enumerate Active Directory Exchange AD Objects/json/,129
+discovery/Adfind - Enumerate Active Directory OUs/json/,74
+discovery/Adfind - Enumerate Active Directory Subnet Objects/json/,122
+discovery/Adfind - Enumerate Active Directory Trusts/json/,64
+discovery/Adfind - Enumerate Active Directory User Objects/json/,74
+discovery/Adfind - Query Active Directory Groups/json/,46
+discovery/Adfind -Listing password policy/json/,73
+discovery/Applications Installed/json/,60
+discovery/Automated AD Recon (ADRecon)/json/,153
+discovery/Azure - Dump Subscription Data with MicroBurst/json/,247
+discovery/Azure Security Scan with SkyArk/json/,98
+discovery/BIOS Information Discovery through Registry/json/,77
+discovery/Basic Permission Groups Discovery Windows (Domain)/json/,61
+discovery/Basic Permission Groups Discovery Windows (Local)/json/,85
+discovery/Check computer location/json/,75
+discovery/DNS Server Discovery Using nslookup/json/,53
+discovery/Detect Virtualization Environment via WMI Manufacturer-Model Listing (Windows)/json/,61
+discovery/Detect a Debugger Presence in the Machine/json/,87
+discovery/Device Driver Discovery/json/,94
+discovery/Discover Specific Process - tasklist/json/,52
+discovery/Discover System Language by Windows API Query/json/,120
+discovery/Discover System Language with chcp/json/,55
+discovery/Discover System Language with dism.exe/json/,82
+discovery/Display group policy information via gpresult/json/,81
+discovery/ESXi - Darkside system information discovery/json/,138
+discovery/ESXi - Enumerate VMDKs available on an ESXi Host/json/,72
+discovery/ESXi - VM Discovery using ESXCLI/json/,124
+discovery/Elevated group enumeration using net group (Domain)/json/,80
+discovery/Enumerate Active Directory Computers with ADSISearcher/json/,146
+discovery/Enumerate Active Directory Computers with Get-AdComputer/json/,70
+discovery/Enumerate Active Directory Groups with ADSISearcher/json/,64
+discovery/Enumerate Active Directory Groups with Get-AdGroup/json/,87
+discovery/Enumerate Active Directory Password Policy with get-addefaultdomainpasswordpolicy/json/,55
+discovery/Enumerate Active Directory Users with ADSISearcher/json/,92
+discovery/Enumerate Active Directory for Unconstrained Delegation/json/,67
+discovery/Enumerate All Network Shares with SharpShares/json/,60
+discovery/Enumerate All Network Shares with Snaffler/json/,114
+discovery/Enumerate COM Objects in Registry with Powershell/json/,143
+discovery/Enumerate Default Domain Admin Details (Domain)/json/,74
+discovery/Enumerate Linked Policies In ADSISearcher Discovery/json/,85
+discovery/Enumerate Remote Hosts with Netscan/json/,73
+discovery/Enumerate Root Domain linked policies Discovery/json/,86
+discovery/Enumerate Stored Wi-Fi Profiles And Passwords via netsh/json/,68
+discovery/Enumerate Users Not Requiring Pre Auth (ASRepRoast)/json/,52
+discovery/Enumerate Windows Security Log via WevtUtil/json/,83
+discovery/Enumerate all accounts (Domain)/json/,54
+discovery/Enumerate all accounts on Windows (Local)/json/,88
+discovery/Enumerate all accounts via PowerShell (Domain)/json/,61
+discovery/Enumerate all accounts via PowerShell (Local)/json/,113
+discovery/Enumerate domain computers within Active Directory using DirectorySearcher/json/,138
+discovery/Enumerate logged on users via CMD (Domain)/json/,72
+discovery/Enumerate logged on users via CMD (Local)/json/,75
+discovery/Environment variables discovery on windows/json/,54
+discovery/Examine domain password policy - Windows/json/,58
+discovery/Examine local password policy - Windows/json/,74
+discovery/Extract Edge Browsing History/json/,91
+discovery/Extract chrome Browsing History/json/,75
+discovery/File and Directory Discovery (PowerShell)/json/,54
+discovery/File and Directory Discovery (cmd.exe)/json/,204
+discovery/Find and Display Internet Explorer Browser Version/json/,47
+discovery/Get-ADUser Enumeration using UserAccountControl flags (AS-REP Roasting)/json/,165
+discovery/Get-DomainGPO to display group policy information via PowerView/json/,93
+discovery/Get-EventLog To Enumerate Windows Security Log/json/,144
+discovery/Get-WmiObject to Enumerate Domain Controllers/json/,84
+discovery/GetCurrent User with PowerShell Script/json/,65
+discovery/Griffon Recon/json/,83
+discovery/Hostname Discovery (Windows)/json/,83
+discovery/Kerbrute - userenum/json/,85
+discovery/Launch DirLister Executable/json/,86
+discovery/List Google Chrome - Edge Chromium Bookmarks on Windows with command prompt/json/,95
+discovery/List Google Chrome - Opera Bookmarks on Windows with powershell/json/,123
+discovery/List Internet Explorer Bookmarks using the command prompt/json/,70
+discovery/List Mozilla Firefox bookmarks on Windows with command prompt/json/,176
+discovery/List Open Egress Ports/json/,49
+discovery/List Process Main Windows - C# .NET/json/,63
+discovery/List Windows Firewall Rules/json/,57
+discovery/MSFT Get-GPO Cmdlet/json/,54
+discovery/Network Share Discovery PowerShell/json/,61
+discovery/Network Share Discovery command prompt/json/,77
+discovery/Network Share Discovery via dir command/json/,67
+discovery/Packet Capture Windows Command Prompt/json/,44
+discovery/Peripheral Device Discovery via fsutil/json/,85
+discovery/Permission Groups Discovery PowerShell (Domain)/json/,80
+discovery/Permission Groups Discovery PowerShell (Local)/json/,100
+discovery/Port Scan NMap for Windows/json/,137
+discovery/Port Scan using python/json/,85
+discovery/Port-Scanning -24 Subnet with PowerShell/json/,102
+discovery/PowerShell Network Sniffing/json/,62
+discovery/PowerView ShareFinder/json/,139
+discovery/Powershell enumerate domains and forests/json/,96
+discovery/Process Discovery - Get-Process/json/,60
+discovery/Process Discovery - PC Hunter/json/,56
+discovery/Process Discovery - Process Hacker/json/,52
+discovery/Process Discovery - get-wmiObject/json/,61
+discovery/Process Discovery - tasklist/json/,57
+discovery/Process Discovery - wmic process/json/,52
+discovery/Qakbot Recon/json/,115
+discovery/Query Registry with Powershell cmdlets/json/,72
+discovery/Query Registry/json/,110
+discovery/Reg query for AlwaysInstallElevated status/json/,59
+discovery/Remote Desktop Services Discovery via PowerShell/json/,63
+discovery/Remote System Discovery - adidnsdump/json/,159
+discovery/Remote System Discovery - arp/json/,65
+discovery/Remote System Discovery - net group Domain Computers/json/,74
+discovery/Remote System Discovery - net group Domain Controller/json/,64
+discovery/Remote System Discovery - net/json/,106
+discovery/Remote System Discovery - nltest/json/,116
+discovery/Remote System Discovery - nslookup/json/,1102
+discovery/Remote System Discovery - ping sweep/json/,684
+discovery/Security Software Discovery - AV Discovery via Get-CimInstance and Get-WmiObject cmdlets/json/,92
+discovery/Security Software Discovery - AV Discovery via WMI/json/,47
+discovery/Security Software Discovery - Sysmon Service/json/,78
+discovery/Security Software Discovery - Windows Defender Enumeration/json/,87
+discovery/Security Software Discovery - Windows Firewall Enumeration/json/,75
+discovery/Security Software Discovery - powershell/json/,93
+discovery/Security Software Discovery/json/,145
+discovery/SharpHound3 - LocalAdmin/json/,57
+discovery/Simulating MAZE Directory Enumeration/json/,82
+discovery/Suspicious LAPS Attributes Query with Get-ADComputer all properties and SearchScope/json/,54
+discovery/Suspicious LAPS Attributes Query with Get-ADComputer all properties/json/,81
+discovery/Suspicious LAPS Attributes Query with Get-ADComputer ms-Mcs-AdmPwd property/json/,82
+discovery/Suspicious LAPS Attributes Query with adfind all properties/json/,54
+discovery/Suspicious LAPS Attributes Query with adfind ms-Mcs-AdmPwd/json/,62
+discovery/System Discovery - SocGholish whoami/json/,58
+discovery/System Discovery using SharpView/json/,142
+discovery/System Information Discovery (2)/json/,1006
+discovery/System Information Discovery with WMIC/json/,89
+discovery/System Information Discovery/json/,82
+discovery/System Network Configuration Discovery (TrickBot Style)/json/,116
+discovery/System Network Connections Discovery with PowerShell/json/,55
+discovery/System Network Connections Discovery/json/,60
+discovery/System Owner-User Discovery Using Command Prompt/json/,58
+discovery/System Owner-User Discovery/json/,69
+discovery/System Service Discovery - net.exe/json/,63
+discovery/System Service Discovery/json/,58
+discovery/System Time Discovery - PowerShell/json/,72
+discovery/System Time Discovery W32tm as a Delay/json/,79
+discovery/System Time Discovery/json/,85
+discovery/System Time with Windows time Command/json/,82
+discovery/TruffleSnout - Listing AD Infrastructure/json/,41
+discovery/Use of SecEdit.exe to export the local security policy (including the password policy)/json/,58
+discovery/User Discovery With Env Vars PowerShell Script/json/,68
+discovery/View available share drives/json/,85
+discovery/WMIObject Group Discovery/json/,56
+discovery/Wevtutil - Discover NTLM Users Remote/json/,90
+discovery/Win32_PnPEntity Hardware Inventory/json/,61
+discovery/WinPwn - DotNet/json/,97
+discovery/WinPwn - Dotnetsearch/json/,82
+discovery/WinPwn - GPOAudit/json/,58
+discovery/WinPwn - GPORemoteAccessPolicy/json/,62
+discovery/WinPwn - General privesc checks/json/,83
+discovery/WinPwn - GeneralRecon/json/,53
+discovery/WinPwn - MS17-10/json/,60
+discovery/WinPwn - Morerecon/json/,82
+discovery/WinPwn - PowerSharpPack - Seatbelt/json/,85
+discovery/WinPwn - PowerSharpPack - Sharpup checking common Privesc vectors/json/,84
+discovery/WinPwn - PowerSharpPack - Watson searching for missing windows patches/json/,56
+discovery/WinPwn - Powersploits privesc checks/json/,63
+discovery/WinPwn - RBCD-Check/json/,57
+discovery/WinPwn - bluekeep/json/,82
+discovery/WinPwn - fruit/json/,56
+discovery/WinPwn - generaldomaininfo/json/,86
+discovery/WinPwn - itm4nprivesc/json/,60
+discovery/WinPwn - powerSQL/json/,171
+discovery/WinPwn - printercheck/json/,83
+discovery/WinPwn - shareenumeration/json/,95
+discovery/WinPwn - spoolvulnscan/json/,61
+discovery/WinPwn - winPEAS/json/,83
+discovery/Windows - Discover domain trusts with nltest/json/,79
+discovery/Windows Internal Packet Capture/json/,56
+discovery/Windows Internal pktmon capture/json/,53
+discovery/Windows Internal pktmon set filter/json/,46
+discovery/Windows MachineGUID Discovery/json/,54
+discovery/Wmic Group Discovery/json/,56
+discovery/operating system discovery/json/,55
+execution/ATHPowerShellCommandLineParameter -Command parameter variations with encoded arguments/json/,86
+execution/ATHPowerShellCommandLineParameter -Command parameter variations/json/,80
+execution/ATHPowerShellCommandLineParameter -EncodedCommand parameter variations with encoded arguments/json/,48
+execution/ATHPowerShellCommandLineParameter -EncodedCommand parameter variations/json/,67
+execution/Application uninstall using WMIC/json/,45
+execution/AutoIt Script Execution/json/,72
+execution/BlackCat pre-encryption cmds with Lateral Movement/json/,137
+execution/Cobalt Strike Artifact Kit pipe/json/,154
+execution/Cobalt Strike Lateral Movement (psexec_psh) pipe/json/,82
+execution/Cobalt Strike SSH (postex_ssh) pipe/json/,179
+execution/Cobalt Strike post-exploitation pipe (4.2 and later)/json/,53
+execution/Cobalt Strike post-exploitation pipe (before 4.2)/json/,85
+execution/Command Prompt read contents from CMD file and execute/json/,78
+execution/Command prompt writing script to file then executes it/json/,81
+execution/Create a Process using WMI Query and an Encoded Command/json/,61
+execution/Create a Process using obfuscated Win32_Process/json/,56
+execution/Create and Execute Batch Script/json/,86
+execution/ESXi - Install a custom VIB on an ESXi host/json/,166
+execution/Encoded VBS code execution/json/,50
+execution/Excel 4 Macro/json/,49
+execution/Execute PowerShell script via Word DDE/json/,85
+execution/Execution through API - CreateProcess/json/,51
+execution/Extract Memory via VBA/json/,132
+execution/Headless Chrome code execution via VBA/json/,76
+execution/JScript execution to gather local computer information via wscript/json/,306
+execution/LNK Payload Download/json/,73
+execution/Maldoc choice flags command execution/json/,53
+execution/Malicious Execution from Mounted ISO Image/json/,176
+execution/Mirror Blast Emulation/json/,56
+execution/Modifying ACL of Service Control Manager via SDET/json/,67
+execution/NTFS Alternate Data Stream Access/json/,58
+execution/OSTAP JS version/json/,82
+execution/OSTap Payload Download/json/,117
+execution/OSTap Style Macro Execution/json/,80
+execution/Office Generic Payload Download/json/,88
+execution/Office launching .bat file from AppData/json/,50
+execution/Pipe Creation - PsExec Tool Execution From Suspicious Locations/json/,205
+execution/Potentially Unwanted Applications (PUA)/json/,56
+execution/PowerShell Command Execution/json/,56
+execution/PowerShell Session Creation and Use/json/,149
+execution/Powershell MsXml COM object - with prompt/json/,58
+execution/Powershell XML requests/json/,45
+execution/Run BloodHound from local disk/json/,121
+execution/Run Shellcode via Syscall in Go/json/,45
+execution/SOAPHound - Build Cache/json/,83
+execution/SOAPHound - Dump BloodHound Data/json/,47
+execution/Simulate BlackByte Ransomware Print Bombing/json/,201
+execution/Snake Malware Service Create/json/,47
+execution/Suspicious Execution via Windows Command Shell/json/,75
+execution/Use PsExec to execute a command on a remote host/json/,68
+execution/Use RemCom to execute a command on a remote host/json/,47
+execution/WMI Execute Local Process/json/,50
+execution/WMI Execute Remote Process/json/,58
+execution/WMI Reconnaissance List Remote Services/json/,53
+execution/WMI Reconnaissance Processes/json/,63
+execution/WMI Reconnaissance Software/json/,47
+execution/WMI Reconnaissance Users/json/,61
+execution/WinPwn - Get SYSTEM shell - Bind System Shell using CreateProcess technique/json/,57
+execution/WinPwn - Get SYSTEM shell - Pop System Shell using CreateProcess technique/json/,78
+execution/WinPwn - Get SYSTEM shell - Pop System Shell using NamedPipe Impersonation technique/json/,125
+execution/Writes text to a file and displays it/json/,43
+exfiltration/C2 Data Exfiltration/json/,60
+exfiltration/DNSExfiltration (doh)/json/,52
+exfiltration/Exfiltrate data HTTPS using curl windows/json/,45
+exfiltration/Exfiltrate data with HTTP POST to text storage sites - pastebin.com (Windows)/json/,95
+exfiltration/Exfiltrate data with rclone to cloud Storage - Mega (Windows)/json/,57
+exfiltration/Exfiltration Over Alternative Protocol - FTP - Rclone/json/,86
+exfiltration/Exfiltration Over Alternative Protocol - HTTP/json/,67
+exfiltration/Exfiltration Over Alternative Protocol - ICMP/json/,59
+exfiltration/Exfiltration Over Alternative Protocol - SMTP/json/,60
+exfiltration/Exfiltration via Encrypted FTP/json/,95
+exfiltration/IcedID Botnet HTTP PUT/json/,65
+exfiltration/MAZE FTP Upload/json/,57
+exfiltration/Network-Based Data Transfer in Small Chunks/json/,61
+exfiltration/Text Based Data Exfiltration using DNS subdomains/json/,59
+impact/Akira Ransomware drop Files with .akira Extension and Ransomnote/json/,87
+impact/Azure AD - Delete user via Azure AD PowerShell/json/,126
+impact/Azure AD - Delete user via Azure CLI/json/,84
+impact/Change User Password - Windows/json/,90
+impact/Configure LegalNoticeCaption and LegalNoticeText registry keys to display ransom message/json/,65
+impact/Data Encrypt Using DiskCryptor/json/,60
+impact/Data Encrypted with GPG4Win/json/,77
+impact/Delete User - Windows/json/,82
+impact/Disable System Restore Through Registry/json/,77
+impact/ESXi - Avoslocker enumerates VMs and forcefully kills VMs/json/,75
+impact/ESXi - Terminates VMs using pkill/json/,72
+impact/Logoff System - Windows/json/,58
+impact/Modify VSS Service Permissions/json/,83
+impact/Overwrite deleted data on C drive/json/,62
+impact/PureLocker Ransom Note/json/,72
+impact/Remove Account From Domain Admin Group/json/,77
+impact/Replace Desktop Wallpaper/json/,88
+impact/Windows - Delete Backup Files/json/,189
+impact/Windows - Delete Volume Shadow Copies via WMI with PowerShell/json/,78
+impact/Windows - Delete Volume Shadow Copies via WMI/json/,75
+impact/Windows - Delete Volume Shadow Copies/json/,56
+impact/Windows - Disable Windows Recovery Console Repair/json/,57
+impact/Windows - Disable the SR scheduled task/json/,75
+impact/Windows - Overwrite file with SysInternals SDelete/json/,142
+impact/Windows - Stop service by killing process/json/,83
+impact/Windows - Stop service using Service Controller/json/,72
+impact/Windows - Stop service using net.exe/json/,61
+impact/Windows - vssadmin Resize Shadowstorage Volume/json/,75
+impact/Windows - wbadmin Delete Windows Backup Catalog/json/,86
+impact/Windows - wbadmin Delete systemstatebackup/json/,74
+initial-access/Activate Guest Account/json/,81
+initial-access/Azure Persistence Automation Runbook Created or Modified/json/,53
+initial-access/Create local account with admin privileges/json/,104
+initial-access/Download Macro-Enabled Phishing Attachment/json/,59
+initial-access/Enable Guest account with RDP capability and admin privileges/json/,108
+initial-access/Octopus Scanner Malware Open Source Supply Chain/json/,62
+initial-access/Running Chrome VPN Extensions via the Registry 2 vpn extension/json/,148
+initial-access/USB Malware Spread Simulation/json/,55
+initial-access/Use PsExec to elevate to NT Authority\SYSTEM account/json/,149
+initial-access/WinPwn - Loot local Credentials - Safetykatz/json/,84
+initial-access/WinPwn - Loot local Credentials - powerhell kittie/json/,86
+initial-access/Word spawned a command shell and used an IP address in the command line/json/,127
+lateral-movement/Changing RDP Port to Non Standard Port via Command_Prompt/json/,92
+lateral-movement/Changing RDP Port to Non Standard Port via Powershell/json/,70
+lateral-movement/Copy and Execute File with PsExec/json/,104
+lateral-movement/Deploy 7-Zip Using Chocolatey/json/,76
+lateral-movement/Disable NLA for RDP via Command Prompt/json/,63
+lateral-movement/Enable Windows Remote Management/json/,69
+lateral-movement/Execute command writing output to local Admin Share/json/,67
+lateral-movement/Exfiltration Over SMB over QUIC (NET USE)/json/,85
+lateral-movement/Exfiltration Over SMB over QUIC (New-SmbMapping)/json/,85
+lateral-movement/Invoke-WMIExec Pass the Hash/json/,56
+lateral-movement/Map Admin Share PowerShell/json/,75
+lateral-movement/Map admin share/json/,64
+lateral-movement/PDQ Deploy RAT/json/,79
+lateral-movement/PowerShell Lateral Movement Using Excel Application Object/json/,57
+lateral-movement/PowerShell Lateral Movement using MMC20/json/,69
+lateral-movement/RDP to DomainController/json/,124
+lateral-movement/Radmin Viewer Utility/json/,61
+lateral-movement/Remote Code Execution with PS Credentials Using Invoke-Command/json/,77
+lateral-movement/Rubeus Kerberos Pass The Ticket/json/,82
+lateral-movement/WinRM Access with Evil-WinRM/json/,120
+lateral-movement/crackmapexec Pass the Hash/json/,82
+persistence/Adding custom debugger for Windows Error Reporting/json/,57
+persistence/Append malicious start-process cmdlet/json/,155
+persistence/Application Shim Installation/json/,72
+persistence/Atbroker.exe (AT) Executes Arbitrary Command via Registry Key/json/,64
+persistence/Attaches Command Prompt as a Debugger to a List of Target Processes/json/,94
+persistence/Auto-start application on user logon/json/,82
+persistence/Azure AD - Create a new user via Azure CLI/json/,63
+persistence/Azure AD - Create a new user/json/,144
+persistence/Bits download using desktopimgdownldr.exe (cmd)/json/,71
+persistence/Bitsadmin Download (PowerShell)/json/,80
+persistence/Bitsadmin Download (cmd)/json/,69
+persistence/COM Hijacking with RunDLL32 (Local Server Switch)/json/,74
+persistence/COM hijacking via TreatAs/json/,96
+persistence/Change Default File Association/json/,62
+persistence/Code Executed Via Excel Add-in File (XLL)/json/,154
+persistence/Create Symbolic Link From osk.exe to cmd.exe/json/,61
+persistence/Create a new Domain Account using PowerShell/json/,61
+persistence/Create a new Windows admin user via .NET/json/,204
+persistence/Create a new Windows admin user/json/,77
+persistence/Create a new Windows domain admin user/json/,84
+persistence/Create a new account similar to ANONYMOUS LOGON/json/,61
+persistence/Create a new user in PowerShell/json/,101
+persistence/Create a new user in a command prompt/json/,81
+persistence/Create registry persistence via AppCert DLL/json/,83
+persistence/GlobalFlags in Image File Execution Options/json/,99
+persistence/Google Chrome Load Unpacked Extension With Command Line/json/,101
+persistence/HKCU - Persistence using CommandProcessor AutoRun key (Without Elevation)/json/,68
+persistence/HKLM - Persistence using CommandProcessor AutoRun key (With Elevation)/json/,87
+persistence/IFEO Add Debugger/json/,85
+persistence/IFEO Global Flags/json/,79
+persistence/Injecting a Macro into the Word Normal.dotm Template for Persistence via PowerShell/json/,77
+persistence/Install Additional Authentication Packages/json/,58
+persistence/Install AppInit Shim/json/,116
+persistence/Install IIS Module using AppCmd.exe/json/,68
+persistence/Install IIS Module using PowerShell Cmdlet New-WebGlobalModule/json/,79
+persistence/Install MS Exchange Transport Agent Persistence/json/,58
+persistence/Install Outlook Home Page Persistence/json/,46
+persistence/Install and Register Password Filter DLL/json/,132
+persistence/Load custom DLL on mstsc execution/json/,82
+persistence/Modify Terminal Services DLL Path/json/,60
+persistence/Netsh Helper DLL Registration/json/,76
+persistence/New shim database files created in the default shim database directory/json/,58
+persistence/Office Application Startup - Outlook as a C2/json/,55
+persistence/Office Application Startup Test Persistence (HKCU)/json/,54
+persistence/Persist, Download, & Execute/json/,89
+persistence/Persistence using automatic execution of custom DLL during RDP session/json/,58
+persistence/Persistence via WMI Event Subscription - ActiveScriptEventConsumer/json/,91
+persistence/Persistence via WMI Event Subscription - CommandLineEventConsumer/json/,97
+persistence/Persistent Code Execution Via Excel Add-in File (XLL)/json/,71
+persistence/Persistent Code Execution Via Excel VBA Add-in File (XLAM)/json/,78
+persistence/Persistent Code Execution Via PowerPoint VBA Add-in File (PPAM)/json/,79
+persistence/Persistent Code Execution Via Word Add-in File (WLL)/json/,68
+persistence/Powershell Execute COM Object/json/,59
+persistence/Registry key creation and-or modification events for SDB/json/,97
+persistence/Replace binary of sticky keys/json/,71
+persistence/Set Arbitrary Binary as Screensaver/json/,73
+persistence/Simulate Patching termsrv.dll/json/,71
+persistence/WMI Invoke-CimMethod Start Process/json/,56
+persistence/Web Shell Written to Disk/json/,68
+persistence/Windows MOFComp.exe Load MOF File/json/,78
+privilege-escalation/Access Token Manipulation/json/,94
+privilege-escalation/Add Executable Shortcut Link to User Startup Folder/json/,84
+privilege-escalation/Add Federation to Azure AD/json/,44
+privilege-escalation/Add Port Monitor persistence in Registry/json/,76
+privilege-escalation/Add a driver/json/,51
+privilege-escalation/Add persistance via Recycle bin/json/,66
+privilege-escalation/Admin Account Manipulate/json/,70
+privilege-escalation/Allowing custom application to execute during new RDP logon session/json/,261
+privilege-escalation/At.exe Scheduled task/json/,50
+privilege-escalation/Authentication Package/json/,85
+privilege-escalation/Azure - adding service principal to Azure role in subscription/json/,66
+privilege-escalation/Azure - adding user to Azure role in subscription/json/,66
+privilege-escalation/Azure AD - Add Company Administrator Role to a user/json/,80
+privilege-escalation/Azure AD - adding permission to application/json/,52
+privilege-escalation/Azure AD - adding service principal to Azure AD role/json/,76
+privilege-escalation/Azure AD - adding user to Azure AD role/json/,49
+privilege-escalation/Azure AD Application Hijacking - App Registration/json/,79
+privilege-escalation/Azure AD Application Hijacking - Service Principal/json/,52
+privilege-escalation/Bad Potato/json/,57
+privilege-escalation/Change Startup Folder - HKCU Modify User Shell Folders Startup Value/json/,63
+privilege-escalation/Change Startup Folder - HKLM Modify User Shell Folders Common Startup Value/json/,81
+privilege-escalation/Create a new time provider/json/,105
+privilege-escalation/Create shortcut to cmd in startup folders/json/,89
+privilege-escalation/Creating Boot Verification Program Key for application execution during successful boot/json/,79
+privilege-escalation/Dirty Vanity process Injection/json/,65
+privilege-escalation/Domain Account and Group Manipulate/json/,163
+privilege-escalation/Domain Password Policy Check: Common Password Use/json/,70
+privilege-escalation/Domain Password Policy Check: No Lowercase Character in Password/json/,67
+privilege-escalation/Domain Password Policy Check: No Number in Password/json/,55
+privilege-escalation/Domain Password Policy Check: No Special Character in Password/json/,69
+privilege-escalation/Domain Password Policy Check: No Uppercase Character in Password/json/,62
+privilege-escalation/Domain Password Policy Check: Only Two Character Classes/json/,132
+privilege-escalation/Domain Password Policy Check: Short Password/json/,42
+privilege-escalation/Driver Installation Using pnputil.exe/json/,90
+privilege-escalation/EXO - Full access mailbox permission granted to a user/json/,46
+privilege-escalation/EarlyBird APC Queue Injection in Go/json/,64
+privilege-escalation/Edit an existing time provider/json/,103
+privilege-escalation/HKCU - Policy Settings Explorer Run Key/json/,58
+privilege-escalation/HKLM - Add atomic_test key to launch executable as part of user setup/json/,84
+privilege-escalation/HKLM - Add malicious StubPath value to existing Active Setup Entry/json/,83
+privilege-escalation/HKLM - Append Command to Winlogon Userinit KEY Value/json/,51
+privilege-escalation/HKLM - Modify default System Shell - Winlogon Shell KEY Value/json/,85
+privilege-escalation/HKLM - Policy Settings Explorer Run Key/json/,60
+privilege-escalation/HKLM - re-execute Internet Explorer Core Fonts' StubPath payload by decreasing version number/json/,84
+privilege-escalation/Import XML Schedule Task with Hidden Attribute/json/,55
+privilege-escalation/Injection SID-History with mimikatz/json/,48
+privilege-escalation/Juicy Potato/json/,80
+privilege-escalation/Launch NSudo Executable/json/,76
+privilege-escalation/Leverage Virtual Channels to execute custom DLL during successful RDP session/json/,82
+privilege-escalation/LockBit Black - Modify Group policy settings -Powershell/json/,92
+privilege-escalation/LockBit Black - Modify Group policy settings -cmd/json/,84
+privilege-escalation/Modify BootExecute Value/json/,86
+privilege-escalation/Modify Fax service to run PowerShell/json/,83
+privilege-escalation/Modify HKLM:\System\CurrentControlSet\Control\Lsa Security Support Provider configuration in registry/json/,83
+privilege-escalation/Modify HKLM:\System\CurrentControlSet\Control\Lsa\OSConfig Security Support Provider configuration in registry/json/,74
+privilege-escalation/Modify Service to Run Arbitrary Binary (Powershell)/json/,63
+privilege-escalation/Named pipe client impersonation/json/,65
+privilege-escalation/Parent PID Spoofing - Spawn from Current Process/json/,84
+privilege-escalation/Parent PID Spoofing - Spawn from New Process/json/,44
+privilege-escalation/Parent PID Spoofing - Spawn from Specified Process/json/,90
+privilege-escalation/Parent PID Spoofing - Spawn from svchost.exe/json/,87
+privilege-escalation/Parent PID Spoofing using PowerShell/json/,109
+privilege-escalation/Password Change on Directory Service Restore Mode (DSRM) Account/json/,54
+privilege-escalation/Persistence by modifying Windows Terminal profile/json/,48
+privilege-escalation/Portable Executable Injection/json/,65
+privilege-escalation/PowerShell Modify A Scheduled Task/json/,57
+privilege-escalation/PowerShell Registry RunOnce/json/,85
+privilege-escalation/Powershell Cmdlet Scheduled Task/json/,50
+privilege-escalation/Print Processors/json/,99
+privilege-escalation/Process Hollowing in Go using CreateProcessW WinAPI/json/,63
+privilege-escalation/Process Hollowing in Go using CreateProcessW and CreatePipe WinAPIs/json/,59
+privilege-escalation/Process Hollowing using PowerShell/json/,54
+privilege-escalation/Process Injection via C#/json/,50
+privilege-escalation/Process Injection via Extra Window Memory (EWM) x64 executable/json/,89
+privilege-escalation/Process Injection via mavinject.exe/json/,57
+privilege-escalation/Process Injection with Go using CreateThread WinAPI (Natively)/json/,55
+privilege-escalation/Process Injection with Go using CreateThread WinAPI/json/,62
+privilege-escalation/Process Injection with Go using EtwpCreateEtwThread WinAPI/json/,58
+privilege-escalation/Process Injection with Go using UuidFromStringA WinAPI/json/,65
+privilege-escalation/Process injection ListPlanting/json/,57
+privilege-escalation/Read-Write-Execute process Injection/json/,46
+privilege-escalation/Reg Key Run/json/,48
+privilege-escalation/Reg Key RunOnce/json/,81
+privilege-escalation/Remote Process Injection with Go using CreateRemoteThread WinAPI (Natively)/json/,75
+privilege-escalation/Remote Process Injection with Go using CreateRemoteThread WinAPI/json/,66
+privilege-escalation/Remote Process Injection with Go using NtQueueApcThreadEx WinAPI/json/,117
+privilege-escalation/Remote Process Injection with Go using RtlCreateUserThread WinAPI/json/,60
+privilege-escalation/Remote Service Installation CMD/json/,49
+privilege-escalation/RunPE via VBA/json/,131
+privilege-escalation/Scheduled Task ("Ghost Task") via Registry Key Manipulation/json/,47
+privilege-escalation/Scheduled Task Executing Base64 Encoded Commands From Registry/json/,56
+privilege-escalation/Scheduled Task Startup Script/json/,45
+privilege-escalation/Scheduled task Local/json/,48
+privilege-escalation/Scheduled task Remote/json/,52
+privilege-escalation/Section View Injection/json/,59
+privilege-escalation/Service Installation CMD/json/,53
+privilege-escalation/Service Installation PowerShell/json/,77
+privilege-escalation/Shellcode execution via VBA/json/,45
+privilege-escalation/Shortcut Modification/json/,85
+privilege-escalation/Simulate - Post BEC persistence via user password reset followed by user added to company administrator role/json/,70
+privilege-escalation/Snake Malware Kernel Driver Comadmin/json/,74
+privilege-escalation/Suspicious bat file run from startup Folder/json/,55
+privilege-escalation/Suspicious jse file run from startup Folder/json/,83
+privilege-escalation/Suspicious vbs file run from startup Folder/json/,57
+privilege-escalation/SystemBC Malware-as-a-Service Registry/json/,81
+privilege-escalation/Task Scheduler via VBA/json/,54
+privilege-escalation/Thread Execution Hijacking/json/,63
+privilege-escalation/TinyTurla backdoor service w64time/json/,70
+privilege-escalation/UUID custom process Injection/json/,153
+privilege-escalation/WMI Invoke-CimMethod Scheduled Task/json/,60
+privilege-escalation/WinPwn - Get SYSTEM shell - Bind System Shell using UsoClient DLL load technique/json/,66
+privilege-escalation/WinPwn - Get SYSTEM shell - Pop System Shell using Token Manipulation technique/json/,61
+privilege-escalation/Winlogon HKLM Shell Key Persistence - PowerShell/json/,54
+privilege-escalation/Winlogon HKLM Userinit Key Persistence - PowerShell/json/,96
+privilege-escalation/Winlogon Notify Key Logon Persistence - PowerShell/json/,54
+privilege-escalation/Winlogon Shell Key Persistence - PowerShell/json/,55
+privilege-escalation/Winlogon Userinit Key Persistence - PowerShell/json/,80
+privilege-escalation/`SeDebugPrivilege` token duplication/json/,58
+privilege-escalation/secedit used to create a Run key in the HKLM Hive/json/,79
+reconnaissance/Enumerate PlugNPlay Camera/json/,95

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T10:18:08Z","2024-10-28T12:18:08Z","T1562.001","51","Delete Microsoft Defender ASR Rules - InTune","Server002","System.Object[]","server002\admin_test","eea0a6c2-84e9-4e8c-a242-ac585d28d0d1","4616","0"

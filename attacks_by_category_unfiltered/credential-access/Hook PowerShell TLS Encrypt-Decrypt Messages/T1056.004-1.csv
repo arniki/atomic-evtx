@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T18:57:45Z","2024-10-22T21:57:45Z","T1056.004","1","Hook PowerShell TLS Encrypt/Decrypt Messages","Server002","System.Object[]","server002\admin_test","de1934ea-1fbf-425b-8795-65fb27dd7e33","5220","0"

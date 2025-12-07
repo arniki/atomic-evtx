@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T20:04:20Z","2024-10-27T22:04:20Z","T1552.004","10","ADFS token signing and encryption certificates theft - Remote","Server002","System.Object[]","server002\admin_test","cab413d8-9e4a-4b8d-9b84-c985bd73a442","6972","0"

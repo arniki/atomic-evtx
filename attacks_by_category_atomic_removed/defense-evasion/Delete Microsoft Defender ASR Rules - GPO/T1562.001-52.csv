@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T10:21:35Z","2024-10-28T12:21:35Z","T1562.001","52","Delete Microsoft Defender ASR Rules - GPO","Server002","System.Object[]","server002\admin_test","0e7b8a4b-2ca5-4743-a9f9-96051abb6e50","4888","0"

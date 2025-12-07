@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T14:56:27Z","2024-10-24T17:56:27Z","T1112","13","Disable Windows Notification Center","Server002","System.Object[]","server002\admin_test","c0d6d67f-1f63-42cc-95c0-5fd6b20082ad","5388","0"

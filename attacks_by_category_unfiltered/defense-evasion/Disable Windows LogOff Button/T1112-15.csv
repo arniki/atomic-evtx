@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T15:03:15Z","2024-10-24T18:03:15Z","T1112","15","Disable Windows LogOff Button","Server002","System.Object[]","server002\admin_test","e246578a-c24d-46a7-9237-0213ff86fb0c","4636","0"

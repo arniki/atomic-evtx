@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T12:17:17Z","2024-10-23T15:17:17Z","T1059.003","3","Suspicious Execution via Windows Command Shell","Server002","System.Object[]","server002\admin_test","d0eb3597-a1b3-4d65-b33b-2cda8d397f20","6884","0"

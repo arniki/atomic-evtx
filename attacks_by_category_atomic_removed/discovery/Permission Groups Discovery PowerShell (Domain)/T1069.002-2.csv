@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T13:04:27Z","2024-10-23T16:04:27Z","T1069.002","2","Permission Groups Discovery PowerShell (Domain)","Server002","System.Object[]","server002\admin_test","6d5d8c96-3d2a-4da9-9d6d-9a9d341899a7","6696","0"

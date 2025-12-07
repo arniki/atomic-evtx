@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T13:34:08Z","2024-10-23T16:34:08Z","T1069.002","8","Adfind - Query Active Directory Groups","Server002","System.Object[]","server002\admin_test","48ddc687-82af-40b7-8472-ff1e742e8274","1688","1"

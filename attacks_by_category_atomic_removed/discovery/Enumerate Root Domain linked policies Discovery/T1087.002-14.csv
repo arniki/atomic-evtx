@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T21:33:17Z","2024-10-24T00:33:17Z","T1087.002","14","Enumerate Root Domain linked policies Discovery","Server002","System.Object[]","server002\admin_test","00c652e2-0750-4ca6-82ff-0204684a6fe4","5080","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T13:46:26Z","2024-10-26T16:46:26Z","T1218.004","8","InstallUtil evasive invocation","Server002","System.Object[]","server002\admin_test","559e6d06-bb42-4307-bff7-3b95a8254bad","6932","0"

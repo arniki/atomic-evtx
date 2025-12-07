@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T19:57:55Z","2024-10-20T22:57:55Z","T1003.002","7","WinPwn - Loot local Credentials - Dump SAM-File for NTLM Hashes","Server002","System.Object[]","server002\admin_test","0c0f5f06-166a-4f4d-bb4a-719df9a01dbb","1856","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T12:52:04Z","2024-10-27T14:52:04Z","T1543.003","3","Service Installation PowerShell","Server002","System.Object[]","server002\admin_test","491a4af6-a521-4b74-b23b-f7b3f1ee9e77","2516","0"

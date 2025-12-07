@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T22:07:35Z","2024-10-28T00:07:35Z","T1555.003","13","WinPwn - PowerSharpPack - Sharpweb for Browser Credentials","Server002","System.Object[]","server002\admin_test","e5e3d639-6ea8-4408-9ecd-d5a286268ca0","5136","0"

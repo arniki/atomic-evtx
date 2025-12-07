@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T10:51:16Z","2024-10-21T13:51:16Z","T1021.001","1","RDP to DomainController","Server002","System.Object[]","server002\admin_test","355d4632-8cb9-449d-91ce-b566d0253d3e","4620","0"

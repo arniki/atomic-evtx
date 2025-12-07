@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T09:31:35Z","2024-10-21T12:31:35Z","T1018","5","Remote System Discovery - arp","Server002","System.Object[]","server002\admin_test","2d5a61f5-0447-4be4-944a-1f8530ed6574","2284","0"

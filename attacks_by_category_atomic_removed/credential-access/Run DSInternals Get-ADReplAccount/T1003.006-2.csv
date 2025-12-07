@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T20:52:23Z","2024-10-20T23:52:23Z","T1003.006","2","Run DSInternals Get-ADReplAccount","Server002","System.Object[]","server002\admin_test","a0bced08-3fc5-4d8b-93b7-e8344739376e","4688","0"

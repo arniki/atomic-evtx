@@ -1,0 +1,4 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T14:40:57Z","2024-10-28T16:40:57Z","T1569.002","5","Use RemCom to execute a command on a remote host","Server002","System.Object[]","server002\admin_test","a5d8cdeb-be90-43a9-8b26-cc618deac1e0","7064","0"
+"2024-11-02T11:51:31Z","2024-11-02T13:51:31Z","T1569.002","5","Use RemCom to execute a command on a remote host","Server002","System.Object[]","server002\admin_test","a5d8cdeb-be90-43a9-8b26-cc618deac1e0","1716","0"
+"2024-11-02T11:57:49Z","2024-11-02T13:57:49Z","T1569.002","5","Use RemCom to execute a command on a remote host","Server002","System.Object[]","server002\admin_test","a5d8cdeb-be90-43a9-8b26-cc618deac1e0","6884","0"

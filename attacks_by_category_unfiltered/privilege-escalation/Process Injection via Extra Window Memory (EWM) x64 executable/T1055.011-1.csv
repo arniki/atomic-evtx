@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T18:26:56Z","2024-10-22T21:26:56Z","T1055.011","1","Process Injection via Extra Window Memory (EWM) x64 executable","Server002","System.Object[]","server002\admin_test","93ca40d2-336c-446d-bcef-87f14d438018","3688","0"

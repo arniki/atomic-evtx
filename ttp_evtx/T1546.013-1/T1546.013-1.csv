@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T14:49:06Z","2024-10-27T16:49:06Z","T1546.013","1","Append malicious start-process cmdlet","Server002","System.Object[]","server002\admin_test","090e5aa5-32b6-473b-a49b-21e843a56896","6932","0"

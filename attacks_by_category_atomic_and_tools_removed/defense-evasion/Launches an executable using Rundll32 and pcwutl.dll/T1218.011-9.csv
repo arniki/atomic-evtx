@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T16:27:46Z","2024-10-26T19:27:46Z","T1218.011","9","Launches an executable using Rundll32 and pcwutl.dll","Server002","System.Object[]","server002\admin_test","9f5d081a-ee5a-42f9-a04e-b7bdc487e676","3176","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T12:07:55Z","2024-10-27T14:07:55Z","T1530","1","Azure - Enumerate Azure Blobs with MicroBurst","Server002","System.Object[]","server002\admin_test","3dab4bcc-667f-4459-aea7-4162dd2d6590",,

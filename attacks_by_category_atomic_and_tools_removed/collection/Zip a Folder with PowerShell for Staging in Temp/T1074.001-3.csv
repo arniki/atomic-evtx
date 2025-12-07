@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T16:08:57Z","2024-10-23T19:08:57Z","T1074.001","3","Zip a Folder with PowerShell for Staging in Temp","Server002","System.Object[]","server002\admin_test","a57fbe4b-3440-452a-88a7-943531ac872a","3008","0"

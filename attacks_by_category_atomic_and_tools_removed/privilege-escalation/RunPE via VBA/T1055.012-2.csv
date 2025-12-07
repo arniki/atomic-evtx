@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T18:34:11Z","2024-10-22T21:34:11Z","T1055.012","2","RunPE via VBA","Server002","System.Object[]","server002\admin_test","3ad4a037-1598-4136-837c-4027e4fa319b","720","0"

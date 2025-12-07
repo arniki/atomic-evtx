@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T19:40:34Z","2024-10-26T22:40:34Z","T1489","1","Windows - Stop service using Service Controller","Server002","System.Object[]","server002\admin_test","21dfb440-830d-4c86-a3e5-2a491d5a8d04","5676","0"

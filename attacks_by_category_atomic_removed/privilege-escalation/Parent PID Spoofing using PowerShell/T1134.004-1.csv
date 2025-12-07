@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T11:48:46Z","2024-10-25T14:48:46Z","T1134.004","1","Parent PID Spoofing using PowerShell","Server002","System.Object[]","server002\admin_test","069258f4-2162-46e9-9a25-c9c6c56150d2","540","0"

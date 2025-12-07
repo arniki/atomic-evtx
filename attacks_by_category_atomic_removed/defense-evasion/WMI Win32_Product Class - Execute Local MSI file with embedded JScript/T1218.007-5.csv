@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T14:52:29Z","2024-10-26T17:52:29Z","T1218.007","5","WMI Win32_Product Class - Execute Local MSI file with embedded JScript","Server002","System.Object[]","server002\admin_test","882082f0-27c6-4eec-a43c-9aa80bccdb30","7088","0"

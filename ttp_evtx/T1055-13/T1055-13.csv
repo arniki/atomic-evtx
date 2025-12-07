@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T17:58:19Z","2024-10-22T20:58:19Z","T1055","13","UUID custom process Injection","Server002","System.Object[]","server002\admin_test","0128e48e-8c1a-433a-a11a-a5304734f1e1","412","0"

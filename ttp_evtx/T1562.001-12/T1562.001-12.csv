@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T08:08:54Z","2024-10-28T10:08:54Z","T1562.001","12","Uninstall Sysmon","Server002","System.Object[]","server002\admin_test","a316fb2e-5344-470d-91c1-23e15c374edc","3180","0"

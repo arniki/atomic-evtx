@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T17:14:20Z","2024-10-27T19:14:20Z","T1547.014","1","HKLM - Add atomic_test key to launch executable as part of user setup","Server002","System.Object[]","server002\admin_test","deff4586-0517-49c2-981d-bbea24d48d71","4936","0"

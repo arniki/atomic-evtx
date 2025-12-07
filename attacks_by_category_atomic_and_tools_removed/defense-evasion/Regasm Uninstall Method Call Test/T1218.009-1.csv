@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T15:27:04Z","2024-10-26T18:27:04Z","T1218.009","1","Regasm Uninstall Method Call Test","Server002","System.Object[]","server002\admin_test","71bfbfac-60b1-4fc0-ac8b-2cedbbdcb112","5664","0"

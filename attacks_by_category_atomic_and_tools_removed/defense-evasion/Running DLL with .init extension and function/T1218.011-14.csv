@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T16:49:13Z","2024-10-26T19:49:13Z","T1218.011","14","Running DLL with .init extension and function","Server002","System.Object[]","server002\admin_test","2d5029f0-ae20-446f-8811-e7511b58e8b6","1492","0"

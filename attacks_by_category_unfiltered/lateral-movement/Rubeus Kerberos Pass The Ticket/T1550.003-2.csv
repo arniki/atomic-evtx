@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T19:09:55Z","2024-10-27T21:09:55Z","T1550.003","2","Rubeus Kerberos Pass The Ticket","Server002","System.Object[]","server002\admin_test","a2fc4ec5-12c6-4fb4-b661-961f23f359cb","7028","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T14:35:56Z","2024-10-22T17:35:56Z","T1046","6","WinPwn - MS17-10","Server002","System.Object[]","server002\admin_test","97585b04-5be2-40e9-8c31-82157b8af2d6","5884","0"

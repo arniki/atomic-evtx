@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T13:23:27Z","2024-10-21T16:23:27Z","T1036.003","8","Malicious process Masquerading as LSM.exe","Server002","System.Object[]","server002\admin_test","83810c46-f45e-4485-9ab6-8ed0e9e6ed7f","1384","0"

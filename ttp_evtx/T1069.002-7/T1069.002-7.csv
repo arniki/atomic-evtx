@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T13:21:50Z","2024-10-23T16:21:50Z","T1069.002","7","Enumerate Users Not Requiring Pre Auth (ASRepRoast)","Server002","System.Object[]","server002\admin_test","870ba71e-6858-4f6d-895c-bb6237f6121b","6940","0"

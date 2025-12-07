@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T12:16:48Z","2024-10-27T14:16:48Z","T1531","1","Change User Password - Windows","Server002","System.Object[]","server002\admin_test","1b99ef28-f83c-4ec5-8a08-1a56263a5bb2","5324","0"

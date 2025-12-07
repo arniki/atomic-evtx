@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T15:50:50Z","2024-10-26T18:50:50Z","T1218.010","4","Regsvr32 Registering Non DLL","Server002","System.Object[]","server002\admin_test","1ae5ea1f-0a4e-4e54-b2f5-4ac328a7f421","6120","0"

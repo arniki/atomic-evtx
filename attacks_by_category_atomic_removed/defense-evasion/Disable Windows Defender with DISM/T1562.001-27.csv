@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T09:06:27Z","2024-10-28T11:06:27Z","T1562.001","27","Disable Windows Defender with DISM","Server002","System.Object[]","server002\admin_test","871438ac-7d6e-432a-b27d-3e7db69faf58","1504","-2146498548"

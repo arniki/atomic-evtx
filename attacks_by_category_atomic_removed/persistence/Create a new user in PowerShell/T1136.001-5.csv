@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T12:59:32Z","2024-10-25T15:59:32Z","T1136.001","5","Create a new user in PowerShell","Server002","System.Object[]","server002\admin_test","bc8be0ac-475c-4fbf-9b1d-9fffd77afbde","7032","0"

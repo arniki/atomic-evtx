@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T17:28:55Z","2024-10-26T20:28:55Z","T1219","8","NetSupport - RAT Execution","Server002","System.Object[]","server002\admin_test","ecca999b-e0c8-40e8-8416-ad320b146a75","2968","0"

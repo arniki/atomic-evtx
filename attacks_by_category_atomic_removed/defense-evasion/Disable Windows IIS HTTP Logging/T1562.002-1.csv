@@ -1,0 +1,4 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T10:59:51Z","2024-10-28T12:59:51Z","T1562.002","1","Disable Windows IIS HTTP Logging","Server002","System.Object[]","server002\admin_test","69435dcf-c66f-4ec0-a8b1-82beb76b34db","2608","0"
+"2024-11-02T11:39:05Z","2024-11-02T13:39:05Z","T1562.002","1","Disable Windows IIS HTTP Logging","Server002","System.Object[]","server002\admin_test","69435dcf-c66f-4ec0-a8b1-82beb76b34db","6776","0"
+"2024-11-02T11:44:27Z","2024-11-02T13:44:27Z","T1562.002","1","Disable Windows IIS HTTP Logging","Server002","System.Object[]","server002\admin_test","69435dcf-c66f-4ec0-a8b1-82beb76b34db","4660","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T16:34:27Z","2024-10-25T19:34:27Z","T1140","2","Certutil Rename and Decode","Server002","System.Object[]","server002\admin_test","71abc534-3c05-4d0c-80f7-cbe93cb2aa94","712","0"

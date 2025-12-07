@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T17:49:07Z","2024-10-20T20:49:07Z","T1003.001","8","Dump LSASS.exe Memory using Out-Minidump.ps1","Server002","System.Object[]","server002\admin_test","6502c8f0-b775-4dbd-9193-1298f56b6781","1260","0"

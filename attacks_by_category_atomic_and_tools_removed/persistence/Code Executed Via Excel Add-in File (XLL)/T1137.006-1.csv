@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T16:13:05Z","2024-10-25T19:13:05Z","T1137.006","1","Code Executed Via Excel Add-in File (XLL)","Server002","System.Object[]","server002\admin_test","441b1a0f-a771-428a-8af0-e99e4698cda3","6448","0"

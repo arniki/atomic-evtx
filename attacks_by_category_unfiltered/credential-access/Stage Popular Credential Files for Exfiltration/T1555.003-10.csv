@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T21:57:16Z","2024-10-27T23:57:16Z","T1555.003","10","Stage Popular Credential Files for Exfiltration","Server002","System.Object[]","server002\admin_test","f543635c-1705-42c3-b180-efd6dc6e7ee7","3584","0"

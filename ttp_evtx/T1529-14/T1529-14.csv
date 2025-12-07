@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T12:04:16Z","2024-10-27T14:04:16Z","T1529","14","ESXi - Avoslocker enumerates VMs and forcefully kills VMs","Server002","System.Object[]","server002\admin_test","189f7d6e-9442-4160-9bc3-5e4104d93ece","1756","1"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T09:26:34Z","2024-10-21T12:26:34Z","T1018","4","Remote System Discovery - ping sweep","Server002","System.Object[]","server002\admin_test","6db1f57f-d1d5-4223-8a66-55c9c65a9592","5980","0"

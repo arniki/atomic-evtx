@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T07:28:49Z","2024-10-28T09:28:49Z","T1559","4","Cobalt Strike post-exploitation pipe (4.2 and later)","Server002","System.Object[]","server002\admin_test","7a48f482-246f-4aeb-9837-21c271ebf244","5060","0"

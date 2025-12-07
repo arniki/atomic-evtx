@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T21:46:14Z","2024-10-27T00:46:14Z","T1526","1","Azure - Dump Subscription Data with MicroBurst","Server002","System.Object[]","server002\admin_test","1e40bb1d-195e-401e-a86b-c192f55e005c",,

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T21:01:01Z","2024-10-24T00:01:01Z","T1087.002","5","Adfind -Listing password policy","Server002","System.Object[]","server002\admin_test","736b4f53-f400-4c22-855d-1a6b5a551600","5928","1"

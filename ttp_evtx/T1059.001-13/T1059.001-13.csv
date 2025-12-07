@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T20:26:15Z","2024-10-22T23:26:15Z","T1059.001","13","ATHPowerShellCommandLineParameter -Command parameter variations","Server002","System.Object[]","server002\admin_test","686a9785-f99b-41d4-90df-66ed515f81d7","1488","0"

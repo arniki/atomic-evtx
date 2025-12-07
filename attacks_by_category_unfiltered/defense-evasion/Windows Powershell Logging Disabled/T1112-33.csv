@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T16:08:50Z","2024-10-24T19:08:50Z","T1112","33","Windows Powershell Logging Disabled","Server002","System.Object[]","server002\admin_test","95b25212-91a7-42ff-9613-124aca6845a8","6824","0"

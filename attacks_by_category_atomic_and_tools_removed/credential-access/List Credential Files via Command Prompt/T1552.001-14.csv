@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T19:47:48Z","2024-10-27T21:47:48Z","T1552.001","14","List Credential Files via Command Prompt","Server002","System.Object[]","server002\admin_test","b0cdacf6-8949-4ffe-9274-a9643a788e55","6572","1"

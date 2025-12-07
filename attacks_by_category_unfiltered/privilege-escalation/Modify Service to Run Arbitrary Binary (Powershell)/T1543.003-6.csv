@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T13:02:38Z","2024-10-27T15:02:38Z","T1543.003","6","Modify Service to Run Arbitrary Binary (Powershell)","Server002","System.Object[]","server002\admin_test","1f896ce4-8070-4959-8a25-2658856a70c9","6680","0"

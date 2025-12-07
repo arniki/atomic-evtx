@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T11:58:55Z","2024-10-28T13:58:55Z","T1562.004","22","Blackbit - Disable Windows Firewall using netsh firewall","Server002","System.Object[]","server002\admin_test","91f348e6-3760-4997-a93b-2ceee7f254ee","6500","0"

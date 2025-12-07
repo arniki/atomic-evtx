@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T19:20:26Z","2024-10-27T21:20:26Z","T1552.001","5","Access unattend.xml","Server002","System.Object[]","server002\admin_test","367d4004-5fc0-446d-823f-960c74ae52c3","6980","1"

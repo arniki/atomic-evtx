@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T13:19:56Z","2024-10-21T16:19:56Z","T1036.003","7","Masquerading - windows exe running as different windows exe","Server002","System.Object[]","server002\admin_test","c3d24a39-2bfe-4c6a-b064-90cd73896cb0","3404","0"

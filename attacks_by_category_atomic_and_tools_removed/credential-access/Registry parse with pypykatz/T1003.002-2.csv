@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T19:40:08Z","2024-10-20T22:40:08Z","T1003.002","2","Registry parse with pypykatz","Server002","System.Object[]","server002\admin_test","a96872b2-cbf3-46cf-8eb4-27e8c0e85263","5052","1"

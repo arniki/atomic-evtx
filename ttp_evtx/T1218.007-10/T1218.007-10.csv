@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T15:10:33Z","2024-10-26T18:10:33Z","T1218.007","10","Msiexec.exe - Execute the DllUnregisterServer function of a DLL","Server002","System.Object[]","server002\admin_test","ab09ec85-4955-4f9c-b8e0-6851baf4d47f","7116","-2147024770"

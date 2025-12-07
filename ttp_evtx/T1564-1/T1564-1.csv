@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T12:54:32Z","2024-10-28T14:54:32Z","T1564","1","Extract binary files via VBA","Server002","System.Object[]","server002\admin_test","6afe288a-8a8b-4d33-a629-8d03ba9dad3a","6968","0"

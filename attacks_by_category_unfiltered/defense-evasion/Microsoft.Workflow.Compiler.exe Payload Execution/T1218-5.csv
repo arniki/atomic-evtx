@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T21:22:01Z","2024-10-26T00:22:01Z","T1218","5","Microsoft.Workflow.Compiler.exe Payload Execution","Server002","System.Object[]","server002\admin_test","7cbb0f26-a4c1-4f77-b180-a009aa05637e","4244","0"

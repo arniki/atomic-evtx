@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T13:12:30Z","2024-10-24T16:12:30Z","T1106","5","Run Shellcode via Syscall in Go","Server002","System.Object[]","server002\admin_test","ae56083f-28d0-417d-84da-df4242da1f7c","4936","0"

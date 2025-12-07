@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T09:49:50Z","2024-10-28T11:49:50Z","T1562.001","35","Lockbit Black - Use Registry Editor to turn on automatic logon -Powershell","Server002","System.Object[]","server002\admin_test","5e27f36d-5132-4537-b43b-413b0d5eec9a","4948","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T17:54:25Z","2024-10-24T20:54:25Z","T1112","64","Disable Remote Desktop Anti-Alias Setting Through Registry","Server002","System.Object[]","server002\admin_test","61d35188-f113-4334-8245-8c6556d43909","6512","0"

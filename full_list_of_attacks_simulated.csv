@@ -1,0 +1,1065 @@
+Category,TTP ID,Description
+command-and-control,T1001.002-1,Steganographic Tarball Embedding 
+command-and-control,T1001.002-2,Embedded Script in Image Execution via Extract-Invoke-PSImage 
+credential-access,T1003-1,Gsecdump  
+credential-access,T1003-2,Credential Dumping with NPPSpy
+credential-access,T1003-3,Dump svchost.exe to gather RDP credentials 
+credential-access,T1003-4,Retrieve Microsoft IIS Service Account Credentials Using AppCmd (using list)
+credential-access,T1003-5,Retrieve Microsoft IIS Service Account Credentials Using AppCmd (using config)
+credential-access,T1003-6,Dump Credential Manager using keymgr.dll and rundll32.exe
+credential-access,T1003-7,Send NTLM Hash with RPC Test Connection
+credential-access,T1003.001-3,Dump LSASS.exe Memory using direct system calls and API unhooking
+credential-access,T1003.001-4,Dump LSASS.exe Memory using NanoDump
+credential-access,T1003.001-6,Offline Credential Theft With Mimikatz
+credential-access,T1003.001-7,LSASS read with pypykatz
+credential-access,T1003.001-8,Dump LSASS.exe Memory using Out-Minidump.ps1
+credential-access,T1003.001-11,Dump LSASS with createdump.exe from .Net v5
+credential-access,T1003.001-12,Dump LSASS.exe using imported Microsoft DLLs 
+credential-access,T1003.001-13,Dump LSASS.exe using lolbin rdrleakdiag.exe
+credential-access,T1003.001-14,Dump LSASS.exe Memory through Silent Process Exit
+credential-access,T1003.002-1,"Registry dump of SAM, creds, and secrets"
+credential-access,T1003.002-2,Registry parse with pypykatz
+credential-access,T1003.002-3,esentutl.exe SAM copy
+credential-access,T1003.002-4,PowerDump Hashes and Usernames from Registry 
+credential-access,T1003.002-5,dump volume shadow copy hives with certutil
+credential-access,T1003.002-6,dump volume shadow copy hives with System.IO.File
+credential-access,T1003.002-7,WinPwn - Loot local Credentials - Dump SAM-File for NTLM Hashes
+credential-access,T1003.002-8,"Dumping of SAM, creds, and secrets(Reg Export)"
+credential-access,T1003.003-1,Create Volume Shadow Copy with vssadmin 
+credential-access,T1003.003-2,Copy NTDS.dit from Volume Shadow Copy 
+credential-access,T1003.003-3,Dump Active Directory Database with NTDSUtil 
+credential-access,T1003.003-4,Create Volume Shadow Copy with WMI 
+credential-access,T1003.003-5,Create Volume Shadow Copy remotely with WMI
+credential-access,T1003.003-6,Create Volume Shadow Copy remotely (WMI) with esentutl
+credential-access,T1003.003-7,Create Volume Shadow Copy with Powershell 
+credential-access,T1003.003-8,Create Symlink to Volume Shadow Copy 
+credential-access,T1003.003-9,Create Volume Shadow Copy with diskshadow 
+credential-access,T1003.004-1,Dumping LSA Secrets
+credential-access,T1003.004-2,Dump Kerberos Tickets from LSA using dumper.ps1
+credential-access,T1003.005-1,Cached Credential Dump via Cmdkey
+credential-access,T1003.006-1,DCSync (Active Directory)
+credential-access,T1003.006-2,Run DSInternals Get-ADReplAccount
+collection,T1005-1,Search files of interest and save them to a single zip file (Windows)
+defense-evasion,T1006-1,Read volume boot sector via DOS device path (PowerShell) 
+discovery,T1007-1,System Service Discovery
+discovery,T1007-2,System Service Discovery - net.exe
+discovery,T1010-1,List Process Main Windows - C# .NET
+discovery,T1012-1,Query Registry 
+discovery,T1012-2,Query Registry with Powershell cmdlets
+discovery,T1012-3,Enumerate COM Objects in Registry with Powershell
+discovery,T1012-4,Reg query for AlwaysInstallElevated status 
+discovery,T1016-2,List Windows Firewall Rules
+discovery,T1016-4,System Network Configuration Discovery (TrickBot Style) 
+discovery,T1016-5,List Open Egress Ports
+discovery,T1016-6,Adfind - Enumerate Active Directory Subnet Objects
+discovery,T1016-7,Qakbot Recon 
+discovery,T1016-9,DNS Server Discovery Using nslookup
+discovery,T1016.002-1,Enumerate Stored Wi-Fi Profiles And Passwords via netsh
+discovery,T1018-1,Remote System Discovery - net
+discovery,T1018-2,Remote System Discovery - net group Domain Computers
+discovery,T1018-3,Remote System Discovery - nltest
+discovery,T1018-4,Remote System Discovery - ping sweep 
+discovery,T1018-5,Remote System Discovery - arp
+discovery,T1018-8,Remote System Discovery - nslookup
+discovery,T1018-9,Remote System Discovery - adidnsdump
+discovery,T1018-10,Adfind - Enumerate Active Directory Computer Objects
+discovery,T1018-11,Adfind - Enumerate Active Directory Domain Controller Objects
+discovery,T1018-16,Enumerate domain computers within Active Directory using DirectorySearcher
+discovery,T1018-17,Enumerate Active Directory Computers with Get-AdComputer 
+discovery,T1018-18,Enumerate Active Directory Computers with ADSISearcher 
+discovery,T1018-20,Get-WmiObject to Enumerate Domain Controllers
+discovery,T1018-21,Remote System Discovery - net group Domain Controller
+discovery,T1018-22,Enumerate Remote Hosts with Netscan
+exfiltration,T1020-1,IcedID Botnet HTTP PUT
+exfiltration,T1020-2,Exfiltration via Encrypted FTP
+lateral-movement,T1021.001-1,RDP to DomainController
+lateral-movement,T1021.001-2,Changing RDP Port to Non Standard Port via Powershell 
+lateral-movement,T1021.001-3,Changing RDP Port to Non Standard Port via Command_Prompt 
+lateral-movement,T1021.001-4,Disable NLA for RDP via Command Prompt
+lateral-movement,T1021.002-1,Map admin share
+lateral-movement,T1021.002-2,Map Admin Share PowerShell
+lateral-movement,T1021.002-3,Copy and Execute File with PsExec 
+lateral-movement,T1021.002-4,Execute command writing output to local Admin Share
+lateral-movement,T1021.003-1,PowerShell Lateral Movement using MMC20
+lateral-movement,T1021.003-2,PowerShell Lateral Movement Using Excel Application Object
+lateral-movement,T1021.006-1,Enable Windows Remote Management
+lateral-movement,T1021.006-2,Remote Code Execution with PS Credentials Using Invoke-Command
+lateral-movement,T1021.006-3,WinRM Access with Evil-WinRM
+defense-evasion,T1027-2,Execute base64-encoded PowerShell
+defense-evasion,T1027-3,Execute base64-encoded PowerShell from Windows Registry 
+defense-evasion,T1027-4,Execution from Compressed File
+defense-evasion,T1027-5,DLP Evasion via Sensitive Data in VBA Macro over email
+defense-evasion,T1027-6,DLP Evasion via Sensitive Data in VBA Macro over HTTP
+defense-evasion,T1027-7,Obfuscated Command in PowerShell
+defense-evasion,T1027-9,Snake Malware Encrypted crmlog file
+defense-evasion,T1027-10,Execution from Compressed JScript File
+defense-evasion,T1027.004-1,Compile After Delivery using csc.exe
+defense-evasion,T1027.004-2,Dynamic C# Compile
+defense-evasion,T1027.006-1,HTML Smuggling Remote Payload
+defense-evasion,T1027.007-1,Dynamic API Resolution-Ninja-syscall
+exfiltration,T1030-2,Network-Based Data Transfer in Small Chunks 
+discovery,T1033-1,System Owner-User Discovery
+discovery,T1033-4,User Discovery With Env Vars PowerShell Script
+discovery,T1033-5,GetCurrent User with PowerShell Script
+discovery,T1033-6,System Discovery - SocGholish whoami
+discovery,T1033-7,System Owner-User Discovery Using Command Prompt 
+defense-evasion,T1036-1,System File Copied to Unusual Location 
+defense-evasion,T1036-2,Malware Masquerading and Execution from Zip File
+defense-evasion,T1036.003-1,Masquerading as Windows LSASS process
+defense-evasion,T1036.003-3,Masquerading - cscript.exe running as notepad.exe 
+defense-evasion,T1036.003-4,Masquerading - wscript.exe running as svchost.exe 
+defense-evasion,T1036.003-5,Masquerading - powershell.exe running as taskhostw.exe 
+defense-evasion,T1036.003-6,Masquerading - non-windows exe running as windows exe
+defense-evasion,T1036.003-7,Masquerading - windows exe running as different windows exe 
+defense-evasion,T1036.003-8,Malicious process Masquerading as LSM.exe
+defense-evasion,T1036.003-9,File Extension Masquerading
+defense-evasion,T1036.004-1,Creating W32Time similar named service using schtasks
+defense-evasion,T1036.004-2,Creating W32Time similar named service using sc
+defense-evasion,T1036.005-2,Masquerade as a built-in system executable
+collection,T1039-2,Copy a sensitive File over Administrative share with Powershell 
+discovery,T1040-4,Packet Capture Windows Command Prompt
+discovery,T1040-5,Windows Internal Packet Capture
+discovery,T1040-6,Windows Internal pktmon capture
+discovery,T1040-7,Windows Internal pktmon set filter
+discovery,T1040-16,PowerShell Network Sniffing
+exfiltration,T1041-1,C2 Data Exfiltration
+exfiltration,T1041-2,Text Based Data Exfiltration using DNS subdomains
+discovery,T1046-3,Port Scan NMap for Windows
+discovery,T1046-4,Port Scan using python
+discovery,T1046-5,WinPwn - spoolvulnscan
+discovery,T1046-6,WinPwn - MS17-10
+discovery,T1046-7,WinPwn - bluekeep
+discovery,T1046-8,WinPwn - fruit
+discovery,T1046-10,Port-Scanning -24 Subnet with PowerShell
+discovery,T1046-11,Remote Desktop Services Discovery via PowerShell 
+execution,T1047-1,WMI Reconnaissance Users
+execution,T1047-2,WMI Reconnaissance Processes
+execution,T1047-3,WMI Reconnaissance Software
+execution,T1047-4,WMI Reconnaissance List Remote Services
+execution,T1047-5,WMI Execute Local Process
+execution,T1047-6,WMI Execute Remote Process
+execution,T1047-7,Create a Process using WMI Query and an Encoded Command
+execution,T1047-8,Create a Process using obfuscated Win32_Process 
+execution,T1047-10,Application uninstall using WMIC
+exfiltration,T1048-3,DNSExfiltration (doh) 
+exfiltration,T1048.002-1,Exfiltrate data HTTPS using curl windows 
+exfiltration,T1048.003-2,Exfiltration Over Alternative Protocol - ICMP 
+exfiltration,T1048.003-4,Exfiltration Over Alternative Protocol - HTTP 
+exfiltration,T1048.003-5,Exfiltration Over Alternative Protocol - SMTP 
+exfiltration,T1048.003-6,MAZE FTP Upload
+exfiltration,T1048.003-7,Exfiltration Over Alternative Protocol - FTP - Rclone
+discovery,T1049-1,System Network Connections Discovery
+discovery,T1049-2,System Network Connections Discovery with PowerShell 
+discovery,T1049-4,System Discovery using SharpView
+privilege-escalation,T1053.002-1,At.exe Scheduled task
+privilege-escalation,T1053.005-1,Scheduled Task Startup Script
+privilege-escalation,T1053.005-2,Scheduled task Local
+privilege-escalation,T1053.005-3,Scheduled task Remote
+privilege-escalation,T1053.005-4,Powershell Cmdlet Scheduled Task
+privilege-escalation,T1053.005-5,Task Scheduler via VBA
+privilege-escalation,T1053.005-6,WMI Invoke-CimMethod Scheduled Task
+privilege-escalation,T1053.005-7,Scheduled Task Executing Base64 Encoded Commands From Registry
+privilege-escalation,T1053.005-8,Import XML Schedule Task with Hidden Attribute
+privilege-escalation,T1053.005-9,PowerShell Modify A Scheduled Task
+privilege-escalation,T1053.005-10,"Scheduled Task (""Ghost Task"") via Registry Key Manipulation"
+privilege-escalation,T1055-1,Shellcode execution via VBA
+privilege-escalation,T1055-3,Section View Injection
+privilege-escalation,T1055-4,Dirty Vanity process Injection
+privilege-escalation,T1055-5,Read-Write-Execute process Injection
+privilege-escalation,T1055-6,Process Injection with Go using UuidFromStringA WinAPI
+privilege-escalation,T1055-7,Process Injection with Go using EtwpCreateEtwThread WinAPI
+privilege-escalation,T1055-8,Remote Process Injection with Go using RtlCreateUserThread WinAPI
+privilege-escalation,T1055-9,Remote Process Injection with Go using CreateRemoteThread WinAPI
+privilege-escalation,T1055-10,Remote Process Injection with Go using CreateRemoteThread WinAPI (Natively) 
+privilege-escalation,T1055-11,Process Injection with Go using CreateThread WinAPI
+privilege-escalation,T1055-12,Process Injection with Go using CreateThread WinAPI (Natively)
+privilege-escalation,T1055-13,UUID custom process Injection
+privilege-escalation,T1055.001-1,Process Injection via mavinject.exe
+privilege-escalation,T1055.001-2,WinPwn - Get SYSTEM shell - Bind System Shell using UsoClient DLL load technique
+privilege-escalation,T1055.002-1,Portable Executable Injection
+privilege-escalation,T1055.003-1,Thread Execution Hijacking
+privilege-escalation,T1055.004-1,Process Injection via C#
+privilege-escalation,T1055.004-2,EarlyBird APC Queue Injection in Go 
+privilege-escalation,T1055.004-3,Remote Process Injection with Go using NtQueueApcThreadEx WinAPI
+privilege-escalation,T1055.011-1,Process Injection via Extra Window Memory (EWM) x64 executable 
+privilege-escalation,T1055.012-1,Process Hollowing using PowerShell
+privilege-escalation,T1055.012-2,RunPE via VBA
+privilege-escalation,T1055.012-3,Process Hollowing in Go using CreateProcessW WinAPI
+privilege-escalation,T1055.012-4,Process Hollowing in Go using CreateProcessW and CreatePipe WinAPIs 
+privilege-escalation,T1055.015-1,Process injection ListPlanting
+credential-access,T1056.002-2,PowerShell - Prompt User for Password 
+credential-access,T1056.004-1,Hook PowerShell TLS Encrypt-Decrypt Messages
+discovery,T1057-2,Process Discovery - tasklist
+discovery,T1057-3,Process Discovery - Get-Process
+discovery,T1057-4,Process Discovery - get-wmiObject
+discovery,T1057-5,Process Discovery - wmic process
+discovery,T1057-6,Discover Specific Process - tasklist
+discovery,T1057-7,Process Discovery - Process Hacker
+discovery,T1057-8,Process Discovery - PC Hunter
+execution,T1059-1,AutoIt Script Execution
+execution,T1059.001-2,Run BloodHound from local disk
+execution,T1059.001-6,Powershell MsXml COM object - with prompt
+execution,T1059.001-7,Powershell XML requests
+execution,T1059.001-11,NTFS Alternate Data Stream Access
+execution,T1059.001-12,PowerShell Session Creation and Use
+execution,T1059.001-13,ATHPowerShellCommandLineParameter -Command parameter variations
+execution,T1059.001-14,ATHPowerShellCommandLineParameter -Command parameter variations with encoded arguments
+execution,T1059.001-15,ATHPowerShellCommandLineParameter -EncodedCommand parameter variations
+execution,T1059.001-16,ATHPowerShellCommandLineParameter -EncodedCommand parameter variations with encoded arguments
+execution,T1059.001-17,PowerShell Command Execution
+execution,T1059.001-21,SOAPHound - Dump BloodHound Data
+execution,T1059.001-22,SOAPHound - Build Cache
+execution,T1059.003-1,Create and Execute Batch Script
+execution,T1059.003-2,Writes text to a file and displays it.
+execution,T1059.003-3,Suspicious Execution via Windows Command Shell 
+execution,T1059.003-4,Simulate BlackByte Ransomware Print Bombing
+execution,T1059.003-5,Command Prompt read contents from CMD file and execute 
+execution,T1059.003-6,Command prompt writing script to file then executes it
+execution,T1059.005-2,Encoded VBS code execution
+execution,T1059.005-3,Extract Memory via VBA
+execution,T1059.007-2,JScript execution to gather local computer information via wscript 
+discovery,T1069.001-2,Basic Permission Groups Discovery Windows (Local) 
+discovery,T1069.001-3,Permission Groups Discovery PowerShell (Local)
+discovery,T1069.001-4,SharpHound3 - LocalAdmin
+discovery,T1069.001-5,Wmic Group Discovery
+discovery,T1069.001-6,WMIObject Group Discovery
+discovery,T1069.002-1,Basic Permission Groups Discovery Windows (Domain) 
+discovery,T1069.002-2,Permission Groups Discovery PowerShell (Domain)
+discovery,T1069.002-3,Elevated group enumeration using net group (Domain)
+discovery,T1069.002-7,Enumerate Users Not Requiring Pre Auth (ASRepRoast)
+discovery,T1069.002-8,Adfind - Query Active Directory Groups 
+discovery,T1069.002-9,Enumerate Active Directory Groups with Get-AdGroup 
+discovery,T1069.002-10,Enumerate Active Directory Groups with ADSISearcher 
+discovery,T1069.002-11,Get-ADUser Enumeration using UserAccountControl flags (AS-REP Roasting)
+discovery,T1069.002-14,Active Directory Enumeration with LDIFDE
+defense-evasion,T1070-1,Indicator Removal using FSUtil
+defense-evasion,T1070-2,Indicator Manipulation using FSUtil
+defense-evasion,T1070.001-1,Clear Logs 
+defense-evasion,T1070.001-2,Delete System Logs Using Clear-EventLog
+defense-evasion,T1070.001-3,Clear Event Logs via VBA
+defense-evasion,T1070.003-12,Clear Powershell History by Deleting History File
+defense-evasion,T1070.003-13,Set Custom AddToHistoryHandler to Avoid History File Logging
+defense-evasion,T1070.004-4,Delete a single file - Windows cmd
+defense-evasion,T1070.004-5,Delete an entire folder - Windows cmd
+defense-evasion,T1070.004-6,Delete a single file - Windows PowerShell
+defense-evasion,T1070.004-7,Delete an entire folder - Windows PowerShell
+defense-evasion,T1070.004-9,Delete Prefetch File
+defense-evasion,T1070.004-10,Delete TeamViewer Log Files
+defense-evasion,T1070.005-1,Add Network Share
+defense-evasion,T1070.005-2,Remove Network Share
+defense-evasion,T1070.005-3,Remove Network Share PowerShell
+defense-evasion,T1070.005-4,Disable Administrative Share Creation at Startup 
+defense-evasion,T1070.005-5,Remove Administrative Shares
+defense-evasion,T1070.006-5,Windows - Modify file creation timestamp with PowerShell
+defense-evasion,T1070.006-6,Windows - Modify file last modified timestamp with PowerShell 
+defense-evasion,T1070.006-7,Windows - Modify file last access timestamp with PowerShell 
+defense-evasion,T1070.006-8,Windows - Timestomp a File
+defense-evasion,T1070.006-10,Event Log Manipulations- Time slipping via Powershell
+defense-evasion,T1070.008-1,Copy and Delete Mailbox Data on Windows
+defense-evasion,T1070.008-4,Copy and Modify Mailbox Data on Windows
+command-and-control,T1071-1,Telnet C2 
+command-and-control,T1071.001-1,Malicious User Agents - Powershell
+command-and-control,T1071.001-2,Malicious User Agents - CMD
+command-and-control,T1071.004-1,DNS Large Query Volume
+command-and-control,T1071.004-2,DNS Regular Beaconing
+command-and-control,T1071.004-3,DNS Long Domain Query
+command-and-control,T1071.004-4,DNS C2 
+lateral-movement,T1072-1,Radmin Viewer Utility
+lateral-movement,T1072-2,PDQ Deploy RAT
+lateral-movement,T1072-3,Deploy 7-Zip Using Chocolatey
+collection,T1074.001-1,Stage data from Discovery.bat
+collection,T1074.001-3,Zip a Folder with PowerShell for Staging in Temp 
+initial-access,T1078.001-1,Enable Guest account with RDP capability and admin privileges 
+initial-access,T1078.001-2,Activate Guest Account
+initial-access,T1078.003-1,Create local account with admin privileges 
+initial-access,T1078.003-6,WinPwn - Loot local Credentials - powerhell kittie
+initial-access,T1078.003-7,WinPwn - Loot local Credentials - Safetykatz
+initial-access,T1078.003-13,Use PsExec to elevate to NT Authority\SYSTEM account
+initial-access,T1078.004-2,Azure Persistence Automation Runbook Created or Modified
+discovery,T1082-1,System Information Discovery
+discovery,T1082-7,Hostname Discovery (Windows)
+discovery,T1082-9,Windows MachineGUID Discovery
+discovery,T1082-10,Griffon Recon 
+discovery,T1082-11,Environment variables discovery on windows
+discovery,T1082-14,WinPwn - winPEAS
+discovery,T1082-15,WinPwn - itm4nprivesc
+discovery,T1082-16,WinPwn - Powersploits privesc checks
+discovery,T1082-17,WinPwn - General privesc checks
+discovery,T1082-18,WinPwn - GeneralRecon
+discovery,T1082-19,WinPwn - Morerecon
+discovery,T1082-20,WinPwn - RBCD-Check
+discovery,T1082-21,WinPwn - PowerSharpPack - Watson searching for missing windows patches
+discovery,T1082-22,WinPwn - PowerSharpPack - Sharpup checking common Privesc vectors 
+discovery,T1082-23,WinPwn - PowerSharpPack - Seatbelt
+discovery,T1082-24,Azure Security Scan with SkyArk
+discovery,T1082-27,System Information Discovery with WMIC
+discovery,T1082-28,System Information Discovery
+discovery,T1082-29,Check computer location
+discovery,T1082-30,BIOS Information Discovery through Registry
+discovery,T1082-31,ESXi - VM Discovery using ESXCLI 
+discovery,T1082-32,ESXi - Darkside system information discovery 
+discovery,T1082-34,operating system discovery
+discovery,T1083-1,File and Directory Discovery (cmd.exe)
+discovery,T1083-2,File and Directory Discovery (PowerShell)
+discovery,T1083-5,Simulating MAZE Directory Enumeration
+discovery,T1083-6,Launch DirLister Executable
+discovery,T1083-7,ESXi - Enumerate VMDKs available on an ESXi Host 
+discovery,T1087.001-8,Enumerate all accounts on Windows (Local) 
+discovery,T1087.001-9,Enumerate all accounts via PowerShell (Local) 
+discovery,T1087.001-10,Enumerate logged on users via CMD (Local)
+discovery,T1087.002-1,Enumerate all accounts (Domain)
+discovery,T1087.002-2,Enumerate all accounts via PowerShell (Domain) 
+discovery,T1087.002-3,Enumerate logged on users via CMD (Domain)
+discovery,T1087.002-4,Automated AD Recon (ADRecon)
+discovery,T1087.002-5,Adfind -Listing password policy
+discovery,T1087.002-6,Adfind - Enumerate Active Directory Admins 
+discovery,T1087.002-7,Adfind - Enumerate Active Directory User Objects
+discovery,T1087.002-8,Adfind - Enumerate Active Directory Exchange AD Objects
+discovery,T1087.002-9,Enumerate Default Domain Admin Details (Domain) 
+discovery,T1087.002-10,Enumerate Active Directory for Unconstrained Delegation 
+discovery,T1087.002-12,Enumerate Active Directory Users with ADSISearcher 
+discovery,T1087.002-13,Enumerate Linked Policies In ADSISearcher Discovery 
+discovery,T1087.002-14,Enumerate Root Domain linked policies Discovery 
+discovery,T1087.002-15,WinPwn - generaldomaininfo
+discovery,T1087.002-16,Kerbrute - userenum
+discovery,T1087.002-17,Wevtutil - Discover NTLM Users Remote 
+discovery,T1087.002-18,Suspicious LAPS Attributes Query with Get-ADComputer all properties
+discovery,T1087.002-19,Suspicious LAPS Attributes Query with Get-ADComputer ms-Mcs-AdmPwd property
+discovery,T1087.002-20,Suspicious LAPS Attributes Query with Get-ADComputer all properties and SearchScope
+discovery,T1087.002-21,Suspicious LAPS Attributes Query with adfind all properties
+discovery,T1087.002-22,Suspicious LAPS Attributes Query with adfind ms-Mcs-AdmPwd
+command-and-control,T1090.001-3,portproxy reg key
+command-and-control,T1090.003-1,Psiphon
+command-and-control,T1090.003-2,Tor Proxy Usage - Windows
+initial-access,T1091-1,USB Malware Spread Simulation
+privilege-escalation,T1098-1,Admin Account Manipulate
+privilege-escalation,T1098-2,Domain Account and Group Manipulate
+privilege-escalation,T1098-4,Azure AD - adding user to Azure AD role 
+privilege-escalation,T1098-5,Azure AD - adding service principal to Azure AD role
+privilege-escalation,T1098-6,Azure - adding user to Azure role in subscription 
+privilege-escalation,T1098-7,Azure - adding service principal to Azure role in subscription
+privilege-escalation,T1098-8,Azure AD - adding permission to application
+privilege-escalation,T1098-9,Password Change on Directory Service Restore Mode (DSRM) Account 
+privilege-escalation,T1098-10,Domain Password Policy Check: Short Password 
+privilege-escalation,T1098-11,Domain Password Policy Check: No Number in Password
+privilege-escalation,T1098-12,Domain Password Policy Check: No Special Character in Password 
+privilege-escalation,T1098-13,Domain Password Policy Check: No Uppercase Character in Password 
+privilege-escalation,T1098-14,Domain Password Policy Check: No Lowercase Character in Password 
+privilege-escalation,T1098-15,Domain Password Policy Check: Only Two Character Classes
+privilege-escalation,T1098-16,Domain Password Policy Check: Common Password Use
+privilege-escalation,T1098.001-1,Azure AD Application Hijacking - Service Principal
+privilege-escalation,T1098.001-2,Azure AD Application Hijacking - App Registration
+privilege-escalation,T1098.002-1,EXO - Full access mailbox permission granted to a user
+privilege-escalation,T1098.003-1,Azure AD - Add Company Administrator Role to a user
+privilege-escalation,T1098.003-2,Simulate - Post BEC persistence via user password reset followed by user added to company administrator role
+command-and-control,T1105-9,Windows - BITSAdmin BITS Download
+command-and-control,T1105-10,Windows - PowerShell Download
+command-and-control,T1105-11,OSTAP Worming Activity
+command-and-control,T1105-12,svchost writing a file to a UNC path
+command-and-control,T1105-13,Download a File with Windows Defender MpCmdRun.exe
+command-and-control,T1105-15,File Download via PowerShell
+command-and-control,T1105-16,File download with finger.exe on Windows 
+command-and-control,T1105-17,Download a file with IMEWDBLD.exe
+command-and-control,T1105-18,Curl Download File
+command-and-control,T1105-19,Curl Upload File
+command-and-control,T1105-20,Download a file with Microsoft Connection Manager Auto-Download
+command-and-control,T1105-21,MAZE Propagation Script
+command-and-control,T1105-22,Printer Migration Command-Line Tool UNC share folder into a zip file
+command-and-control,T1105-23,Lolbas replace.exe use to copy file 
+command-and-control,T1105-24,Lolbas replace.exe use to copy UNC file
+command-and-control,T1105-25,certreq download 
+command-and-control,T1105-26,Download a file using wscript
+command-and-control,T1105-28,Nimgrab - Transfer Files
+command-and-control,T1105-29,iwr or Invoke Web-Request download
+command-and-control,T1105-30,Arbitrary file download using the Notepad++ GUP.exe binary
+command-and-control,T1105-32,File Download with Sqlcmd.exe
+execution,T1106-1,Execution through API - CreateProcess
+execution,T1106-2,WinPwn - Get SYSTEM shell - Pop System Shell using CreateProcess technique 
+execution,T1106-3,WinPwn - Get SYSTEM shell - Bind System Shell using CreateProcess technique 
+execution,T1106-4,WinPwn - Get SYSTEM shell - Pop System Shell using NamedPipe Impersonation technique
+execution,T1106-5,Run Shellcode via Syscall in Go 
+credential-access,T1110.001-1,Brute Force Credentials of single Active Directory domain users via SMB
+credential-access,T1110.001-2,Brute Force Credentials of single Active Directory domain user via LDAP against domain controller (NTLM or Kerberos)
+credential-access,T1110.001-3,Brute Force Credentials of single Azure AD user
+credential-access,T1110.001-4,Password Brute User using Kerbrute Tool 
+credential-access,T1110.001-8,ESXi - Brute Force Until Account Lockout
+credential-access,T1110.002-1,Password Cracking with Hashcat
+credential-access,T1110.003-1,Password Spray all Domain Users
+credential-access,T1110.003-2,Password Spray (DomainPasswordSpray)
+credential-access,T1110.003-3,Password spray all Active Directory domain users with a single password via LDAP against domain controller (NTLM or Kerberos) 
+credential-access,T1110.003-4,Password spray all Azure AD users with a single password
+credential-access,T1110.003-5,WinPwn - DomainPasswordSpray Attacks
+credential-access,T1110.003-6,Password Spray Invoke-DomainPasswordSpray Light
+credential-access,T1110.003-7,Password Spray Microsoft Online Accounts with MSOLSpray (Azure-O365)
+credential-access,T1110.003-8,Password Spray using Kerbrute Tool
+credential-access,T1110.004-4,Brute Force:Credential Stuffing using Kerbrute Tool 
+defense-evasion,T1112-1,Modify Registry of Current User Profile - cmd
+defense-evasion,T1112-2,Modify Registry of Local Machine - cmd
+defense-evasion,T1112-3,Modify registry to store logon credentials 
+defense-evasion,T1112-4,Use Powershell to Modify registry to store logon credentials 
+defense-evasion,T1112-5,Add domain to Trusted sites Zone 
+defense-evasion,T1112-6,Javascript in registry
+defense-evasion,T1112-7,Change Powershell Execution Policy to Bypass 
+defense-evasion,T1112-8,BlackByte Ransomware Registry Changes - CMD 
+defense-evasion,T1112-9,BlackByte Ransomware Registry Changes - Powershell 
+defense-evasion,T1112-10,Disable Windows Registry Tool
+defense-evasion,T1112-11,Disable Windows CMD application
+defense-evasion,T1112-12,Disable Windows Task Manager application
+defense-evasion,T1112-13,Disable Windows Notification Center
+defense-evasion,T1112-14,Disable Windows Shutdown Button
+defense-evasion,T1112-15,Disable Windows LogOff Button
+defense-evasion,T1112-16,Disable Windows Change Password Feature
+defense-evasion,T1112-17,Disable Windows Lock Workstation Feature
+defense-evasion,T1112-18,Activate Windows NoDesktop Group Policy Feature 
+defense-evasion,T1112-19,Activate Windows NoRun Group Policy Feature 
+defense-evasion,T1112-20,Activate Windows NoFind Group Policy Feature 
+defense-evasion,T1112-21,Activate Windows NoControlPanel Group Policy Feature 
+defense-evasion,T1112-22,Activate Windows NoFileMenu Group Policy Feature 
+defense-evasion,T1112-23,Activate Windows NoClose Group Policy Feature 
+defense-evasion,T1112-24,Activate Windows NoSetTaskbar Group Policy Feature 
+defense-evasion,T1112-25,Activate Windows NoTrayContextMenu Group Policy Feature 
+defense-evasion,T1112-26,Activate Windows NoPropertiesMyDocuments Group Policy Feature 
+defense-evasion,T1112-27,Hide Windows Clock Group Policy Feature 
+defense-evasion,T1112-28,Windows HideSCAHealth Group Policy Feature
+defense-evasion,T1112-29,Windows HideSCANetwork Group Policy Feature
+defense-evasion,T1112-30,Windows HideSCAPower Group Policy Feature
+defense-evasion,T1112-31,Windows HideSCAVolume Group Policy Feature
+defense-evasion,T1112-32,Windows Modify Show Compress Color And Info Tip Registry 
+defense-evasion,T1112-33,Windows Powershell Logging Disabled
+defense-evasion,T1112-34,Windows Add Registry Value to Load Service in Safe Mode without Network 
+defense-evasion,T1112-35,Windows Add Registry Value to Load Service in Safe Mode with Network 
+defense-evasion,T1112-36,Disable Windows Toast Notifications
+defense-evasion,T1112-37,Disable Windows Security Center Notifications
+defense-evasion,T1112-38,Suppress Win Defender Notifications
+defense-evasion,T1112-39,Allow RDP Remote Assistance Feature
+defense-evasion,T1112-40,NetWire RAT Registry Key Creation
+defense-evasion,T1112-41,Ursnif Malware Registry Key Creation
+defense-evasion,T1112-42,Terminal Server Client Connection History Cleared 
+defense-evasion,T1112-43,Disable Windows Error Reporting Settings
+defense-evasion,T1112-44,DisallowRun Execution Of Certain Applications
+defense-evasion,T1112-45,Enabling Restricted Admin Mode via Command_Prompt 
+defense-evasion,T1112-46,Mimic Ransomware - Enable Multiple User Sessions
+defense-evasion,T1112-47,Mimic Ransomware - Allow Multiple RDP Sessions per User 
+defense-evasion,T1112-48,Event Viewer Registry Modification - Redirection URL
+defense-evasion,T1112-49,Event Viewer Registry Modification - Redirection Program
+defense-evasion,T1112-50,Enabling Remote Desktop Protocol via Remote Registry
+defense-evasion,T1112-51,Disable Win Defender Notification
+defense-evasion,T1112-52,Disable Windows OS Auto Update
+defense-evasion,T1112-53,Disable Windows Auto Reboot for current logon user
+defense-evasion,T1112-54,Windows Auto Update Option to Notify before download
+defense-evasion,T1112-55,Do Not Connect To Win Update 
+defense-evasion,T1112-56,Tamper Win Defender Protection
+defense-evasion,T1112-57,Snake Malware Registry Blob
+defense-evasion,T1112-58,Allow Simultaneous Download Registry
+defense-evasion,T1112-59,Modify Internet Zone Protocol Defaults in Current User Registry - cmd
+defense-evasion,T1112-60,Modify Internet Zone Protocol Defaults in Current User Registry - PowerShell
+defense-evasion,T1112-61,Activities To Disable Secondary Authentication Detected By Modified Registry Value.
+defense-evasion,T1112-62,Activities To Disable Microsoft [FIDO Aka Fast IDentity Online] Authentication Detected By Modified Registry Value.
+defense-evasion,T1112-63,Scarab Ransomware Defense Evasion Activities
+defense-evasion,T1112-64,Disable Remote Desktop Anti-Alias Setting Through Registry
+defense-evasion,T1112-65,Disable Remote Desktop Security Settings Through Registry
+defense-evasion,T1112-66,Disabling ShowUI Settings of Windows Error Reporting (WER)
+defense-evasion,T1112-67,Enable Proxy Settings
+defense-evasion,T1112-68,Set-Up Proxy Server
+defense-evasion,T1112-69,RDP Authentication Level Override
+defense-evasion,T1112-70,Enable RDP via Registry (fDenyTSConnections)
+defense-evasion,T1112-71,Disable Windows Prefetch Through Registry
+defense-evasion,T1112-72,Setting Shadow key in Registry for RDP Shadowing
+defense-evasion,T1112-73,Flush Shimcache 
+defense-evasion,T1112-74,Disable Windows Remote Desktop Protocol
+defense-evasion,T1112-75,Enforce Smart Card Authentication Through Registry 
+defense-evasion,T1112-76,Requires the BitLocker PIN for Pre-boot authentication
+defense-evasion,T1112-77,Modify EnableBDEWithNoTPM Registry entry
+defense-evasion,T1112-78,Modify UseTPM Registry entry
+defense-evasion,T1112-79,Modify UseTPMPIN Registry entry
+defense-evasion,T1112-80,Modify UseTPMKey Registry entry
+defense-evasion,T1112-81,Modify UseTPMKeyPIN Registry entry
+defense-evasion,T1112-82,Modify EnableNonTPM Registry entry
+defense-evasion,T1112-83,Modify UsePartialEncryptionKey Registry entry
+defense-evasion,T1112-84,Modify UsePIN Registry entry
+defense-evasion,T1112-85,Abusing Windows TelemetryController Registry Key for Persistence
+defense-evasion,T1112-86,Modify RDP-Tcp Initial Program Registry Entry 
+defense-evasion,T1112-87,Abusing MyComputer Disk Cleanup Path for Persistence
+defense-evasion,T1112-88,Abusing MyComputer Disk Fragmentation Path for Persistence
+defense-evasion,T1112-89,Abusing MyComputer Disk Backup Path for Persistence
+defense-evasion,T1112-90,Adding custom paths for application execution 
+collection,T1113-7,Windows Screencapture 
+collection,T1113-8,Windows Screen Capture (CopyFromScreen)
+collection,T1113-9,Windows Recall Feature Enabled - DisableAIDataAnalysis Value Deleted
+collection,T1114.001-1,Email Collection with PowerShell Get-Inbox
+collection,T1114.002-1,Office365 - Remote Mail Collected
+collection,T1114.003-1,Office365 - Email Forwarding
+collection,T1115-1,Utilize Clipboard to store or execute commands from
+collection,T1115-2,Execute Commands from Clipboard using PowerShell 
+collection,T1115-4,Collect Clipboard Data via VBA
+collection,T1119-1,Automated Collection Command Prompt
+collection,T1119-2,Automated Collection PowerShell
+collection,T1119-3,Recon information for export with PowerShell 
+collection,T1119-4,Recon information for export with Command Prompt
+discovery,T1120-1,Win32_PnPEntity Hardware Inventory
+discovery,T1120-2,WinPwn - printercheck
+discovery,T1120-3,Peripheral Device Discovery via fsutil
+collection,T1123-1,using device audio capture commandlet
+collection,T1123-2,Registry artefact when application use microphone 
+discovery,T1124-1,System Time Discovery
+discovery,T1124-2,System Time Discovery - PowerShell
+discovery,T1124-4,System Time Discovery W32tm as a Delay
+discovery,T1124-5,System Time with Windows time Command 
+collection,T1125-1,Registry artefact when application use webcam 
+defense-evasion,T1127-1,Lolbin Jsc.exe compile javascript to exe 
+defense-evasion,T1127-2,Lolbin Jsc.exe compile javascript to dll 
+defense-evasion,T1127.001-1,MSBuild Bypass Using Inline Tasks (C#) 
+defense-evasion,T1127.001-2,MSBuild Bypass Using Inline Tasks (VB) 
+execution,T1129-1,ESXi - Install a custom VIB on an ESXi host
+command-and-control,T1132.001-3,XOR Encoded data.
+initial-access,T1133-1,Running Chrome VPN Extensions via the Registry 2 vpn extension
+privilege-escalation,T1134.001-1,Named pipe client impersonation
+privilege-escalation,T1134.001-2,`SeDebugPrivilege` token duplication
+privilege-escalation,T1134.001-3,Launch NSudo Executable
+privilege-escalation,T1134.001-4,Bad Potato 
+privilege-escalation,T1134.001-5,Juicy Potato 
+privilege-escalation,T1134.002-1,Access Token Manipulation
+privilege-escalation,T1134.002-2,WinPwn - Get SYSTEM shell - Pop System Shell using Token Manipulation technique
+privilege-escalation,T1134.004-1,Parent PID Spoofing using PowerShell
+privilege-escalation,T1134.004-2,Parent PID Spoofing - Spawn from Current Process
+privilege-escalation,T1134.004-3,Parent PID Spoofing - Spawn from Specified Process
+privilege-escalation,T1134.004-4,Parent PID Spoofing - Spawn from svchost.exe
+privilege-escalation,T1134.004-5,Parent PID Spoofing - Spawn from New Process
+privilege-escalation,T1134.005-1,Injection SID-History with mimikatz
+discovery,T1135-4,Network Share Discovery command prompt
+discovery,T1135-5,Network Share Discovery PowerShell
+discovery,T1135-6,View available share drives
+discovery,T1135-8,PowerView ShareFinder 
+discovery,T1135-9,WinPwn - shareenumeration
+discovery,T1135-10,Network Share Discovery via dir command 
+discovery,T1135-11,Enumerate All Network Shares with SharpShares 
+discovery,T1135-12,Enumerate All Network Shares with Snaffler 
+persistence,T1136.001-4,Create a new user in a command prompt
+persistence,T1136.001-5,Create a new user in PowerShell 
+persistence,T1136.001-8,Create a new Windows admin user 
+persistence,T1136.001-9,Create a new Windows admin user via .NET
+persistence,T1136.002-1,Create a new Windows domain admin user
+persistence,T1136.002-2,Create a new account similar to ANONYMOUS LOGON
+persistence,T1136.002-3,Create a new Domain Account using PowerShell
+persistence,T1136.003-2,Azure AD - Create a new user
+persistence,T1136.003-3,Azure AD - Create a new user via Azure CLI
+persistence,T1137-1,Office Application Startup - Outlook as a C2
+persistence,T1137.001-1,Injecting a Macro into the Word Normal.dotm Template for Persistence via PowerShell 
+persistence,T1137.002-1,Office Application Startup Test Persistence (HKCU) 
+persistence,T1137.004-1,Install Outlook Home Page Persistence
+persistence,T1137.006-1,Code Executed Via Excel Add-in File (XLL)
+persistence,T1137.006-2,Persistent Code Execution Via Excel Add-in File (XLL)
+persistence,T1137.006-3,Persistent Code Execution Via Word Add-in File (WLL)
+persistence,T1137.006-4,Persistent Code Execution Via Excel VBA Add-in File (XLAM) 
+persistence,T1137.006-5,Persistent Code Execution Via PowerPoint VBA Add-in File (PPAM) 
+defense-evasion,T1140-1,Deobfuscate-Decode Files Or Information
+defense-evasion,T1140-2,Certutil Rename and Decode
+persistence,T1176-5,Google Chrome Load Unpacked Extension With Command Line
+credential-access,T1187-1,PetitPotam
+credential-access,T1187-2,WinPwn - PowerSharpPack - Retrieving NTLM Hashes without Touching LSASS
+credential-access,T1187-3,Trigger an authenticated RPC call to a target server with no Sign flag set
+initial-access,T1195-1,Octopus Scanner Malware Open Source Supply Chain
+persistence,T1197-1,Bitsadmin Download (cmd)
+persistence,T1197-2,Bitsadmin Download (PowerShell)
+persistence,T1197-3,"Persist, Download, & Execute"
+persistence,T1197-4,Bits download using desktopimgdownldr.exe (cmd)
+discovery,T1201-6,Examine local password policy - Windows 
+discovery,T1201-7,Examine domain password policy - Windows 
+discovery,T1201-10,Enumerate Active Directory Password Policy with get-addefaultdomainpasswordpolicy
+discovery,T1201-11,Use of SecEdit.exe to export the local security policy (including the password policy)
+defense-evasion,T1202-1,Indirect Command Execution - pcalua.exe
+defense-evasion,T1202-2,Indirect Command Execution - forfiles.exe
+defense-evasion,T1202-3,Indirect Command Execution - conhost.exe
+defense-evasion,T1202-4,Indirect Command Execution - Scriptrunner.exe
+execution,T1204.002-1,OSTap Style Macro Execution
+execution,T1204.002-2,OSTap Payload Download
+execution,T1204.002-3,Maldoc choice flags command execution
+execution,T1204.002-4,OSTAP JS version
+execution,T1204.002-5,Office launching .bat file from AppData 
+execution,T1204.002-6,Excel 4 Macro
+execution,T1204.002-7,Headless Chrome code execution via VBA 
+execution,T1204.002-8,Potentially Unwanted Applications (PUA)
+execution,T1204.002-9,Office Generic Payload Download
+execution,T1204.002-10,LNK Payload Download
+execution,T1204.002-11,Mirror Blast Emulation
+execution,T1204.003-1,Malicious Execution from Mounted ISO Image 
+defense-evasion,T1207-1,DCShadow (Active Directory)
+defense-evasion,T1216-1,SyncAppvPublishingServer Signed Script PowerShell Command Execution 
+defense-evasion,T1216-2,manage-bde.wsf Signed Script Command Execution
+discovery,T1217-5,List Google Chrome - Opera Bookmarks on Windows with powershell
+discovery,T1217-6,List Google Chrome - Edge Chromium Bookmarks on Windows with command prompt 
+discovery,T1217-7,List Mozilla Firefox bookmarks on Windows with command prompt 
+discovery,T1217-8,List Internet Explorer Bookmarks using the command prompt
+discovery,T1217-10,Extract Edge Browsing History
+discovery,T1217-11,Extract chrome Browsing History
+defense-evasion,T1218-1,mavinject - Inject DLL into running process
+defense-evasion,T1218-2,Register-CimProvider - Execute evil dll
+defense-evasion,T1218-3,InfDefaultInstall.exe .inf Execution
+defense-evasion,T1218-4,ProtocolHandler.exe Downloaded a Suspicious File
+defense-evasion,T1218-5,Microsoft.Workflow.Compiler.exe Payload Execution
+defense-evasion,T1218-6,Renamed Microsoft.Workflow.Compiler.exe Payload Executions
+defense-evasion,T1218-7,Invoke-ATHRemoteFXvGPUDisablementCommand base test
+defense-evasion,T1218-8,DiskShadow Command Execution
+defense-evasion,T1218-9,Load Arbitrary DLL via Wuauclt (Windows Update Client)
+defense-evasion,T1218-10,Lolbin Gpscript logon option
+defense-evasion,T1218-11,Lolbin Gpscript startup option
+defense-evasion,T1218-12,Lolbas ie4uinit.exe use as proxy
+defense-evasion,T1218-13,LOLBAS CustomShellHost to Spawn Process
+defense-evasion,T1218-14,Provlaunch.exe Executes Arbitrary Command via Registry Key
+defense-evasion,T1218-15,LOLBAS Msedge to Spawn Process
+defense-evasion,T1218-16,System Binary Proxy Execution - Wlrmdr Lolbin
+defense-evasion,T1218.001-1,Compiled HTML Help Local Payload
+defense-evasion,T1218.001-2,Compiled HTML Help Remote Payload
+defense-evasion,T1218.001-3,Invoke CHM with default Shortcut Command Execution
+defense-evasion,T1218.001-4,Invoke CHM with InfoTech Storage Protocol Handler
+defense-evasion,T1218.001-5,Invoke CHM Simulate Double click
+defense-evasion,T1218.001-6,Invoke CHM with Script Engine and Help Topic
+defense-evasion,T1218.001-7,Invoke CHM Shortcut Command with ITS and Help Topic 
+defense-evasion,T1218.001-8,Decompile Local CHM File
+defense-evasion,T1218.002-1,Control Panel Items
+defense-evasion,T1218.003-1,CMSTP Executing Remote Scriptlet
+defense-evasion,T1218.003-2,CMSTP Executing UAC Bypass
+defense-evasion,T1218.004-1,CheckIfInstallable method call
+defense-evasion,T1218.004-2,InstallHelper method call
+defense-evasion,T1218.004-3,InstallUtil class constructor method call
+defense-evasion,T1218.004-4,InstallUtil Install method call
+defense-evasion,T1218.004-5,InstallUtil Uninstall method call - -U variant
+defense-evasion,T1218.004-6,InstallUtil Uninstall method call - -installtype=notransaction -action=uninstall' variant
+defense-evasion,T1218.004-7,InstallUtil HelpText method call
+defense-evasion,T1218.004-8,InstallUtil evasive invocation
+defense-evasion,T1218.005-2,Mshta executes VBScript to execute malicious command
+defense-evasion,T1218.005-3,Mshta Executes Remote HTML Application (HTA) 
+defense-evasion,T1218.005-4,Invoke HTML Application - Jscript Engine over Local UNC Simulating Lateral Movement 
+defense-evasion,T1218.005-5,Invoke HTML Application - Jscript Engine Simulating Double Click 
+defense-evasion,T1218.005-6,Invoke HTML Application - Direct download from URI
+defense-evasion,T1218.005-7,Invoke HTML Application - JScript Engine with Rundll32 and Inline Protocol Handler 
+defense-evasion,T1218.005-8,Invoke HTML Application - JScript Engine with Inline Protocol Handler
+defense-evasion,T1218.005-9,Invoke HTML Application - Simulate Lateral Movement over UNC Path
+defense-evasion,T1218.005-10,Mshta used to Execute PowerShell
+defense-evasion,T1218.007-1,Msiexec.exe - Execute Local MSI file with embedded JScript 
+defense-evasion,T1218.007-2,Msiexec.exe - Execute Local MSI file with embedded VBScript 
+defense-evasion,T1218.007-3,Msiexec.exe - Execute Local MSI file with an embedded DLL
+defense-evasion,T1218.007-4,Msiexec.exe - Execute Local MSI file with an embedded EXE
+defense-evasion,T1218.007-5,WMI Win32_Product Class - Execute Local MSI file with embedded JScript
+defense-evasion,T1218.007-6,WMI Win32_Product Class - Execute Local MSI file with embedded VBScript
+defense-evasion,T1218.007-7,WMI Win32_Product Class - Execute Local MSI file with an embedded DLL 
+defense-evasion,T1218.007-8,WMI Win32_Product Class - Execute Local MSI file with an embedded EXE 
+defense-evasion,T1218.007-9,Msiexec.exe - Execute the DllRegisterServer function of a DLL 
+defense-evasion,T1218.007-10,Msiexec.exe - Execute the DllUnregisterServer function of a DLL 
+defense-evasion,T1218.007-11,Msiexec.exe - Execute Remote MSI file 
+defense-evasion,T1218.008-1,Odbcconf.exe - Execute Arbitrary DLL
+defense-evasion,T1218.008-2,Odbcconf.exe - Load Response File
+defense-evasion,T1218.009-1,Regasm Uninstall Method Call Test
+defense-evasion,T1218.009-2,Regsvcs Uninstall Method Call Test
+defense-evasion,T1218.010-1,Regsvr32 local COM scriptlet execution
+defense-evasion,T1218.010-3,Regsvr32 local DLL execution
+defense-evasion,T1218.010-4,Regsvr32 Registering Non DLL
+defense-evasion,T1218.010-5,Regsvr32 Silent DLL Install Call DllRegisterServer 
+defense-evasion,T1218.011-3,Rundll32 execute VBscript command using Ordinal number
+defense-evasion,T1218.011-4,Rundll32 advpack.dll Execution
+defense-evasion,T1218.011-5,Rundll32 ieadvpack.dll Execution
+defense-evasion,T1218.011-6,Rundll32 syssetup.dll Execution
+defense-evasion,T1218.011-7,Rundll32 setupapi.dll Execution
+defense-evasion,T1218.011-8,Execution of HTA and VBS Files using Rundll32 and URL.dll
+defense-evasion,T1218.011-9,Launches an executable using Rundll32 and pcwutl.dll
+defense-evasion,T1218.011-10,Execution of non-dll using rundll32.exe
+defense-evasion,T1218.011-11,Rundll32 with Ordinal Value
+defense-evasion,T1218.011-12,Rundll32 with Control_RunDLL
+defense-evasion,T1218.011-13,Rundll32 with desk.cpl
+defense-evasion,T1218.011-14,Running DLL with .init extension and function
+defense-evasion,T1218.011-15,Rundll32 execute command via FileProtocolHandler
+defense-evasion,T1218.011-16,Rundll32 execute payload by calling RouteTheCall 
+command-and-control,T1219-1,TeamViewer Files Detected Test on Windows 
+command-and-control,T1219-2,AnyDesk Files Detected Test on Windows 
+command-and-control,T1219-3,LogMeIn Files Detected Test on Windows 
+command-and-control,T1219-4,GoToAssist Files Detected Test on Windows 
+command-and-control,T1219-5,ScreenConnect Application Download and Install on Windows
+command-and-control,T1219-6,Ammyy Admin Software Execution
+command-and-control,T1219-7,RemotePC Software Execution
+command-and-control,T1219-8,NetSupport - RAT Execution
+command-and-control,T1219-9,UltraViewer - RAT Execution
+command-and-control,T1219-10,UltraVNC Execution 
+command-and-control,T1219-11,MSP360 Connect Execution
+command-and-control,T1219-12,RustDesk Files Detected Test on Windows 
+command-and-control,T1219-13,Splashtop Execution 
+command-and-control,T1219-14,Splashtop Streamer Execution
+defense-evasion,T1220-1,MSXSL Bypass using local files
+defense-evasion,T1220-2,MSXSL Bypass using remote files
+defense-evasion,T1220-3,WMIC bypass using local XSL file 
+defense-evasion,T1220-4,WMIC bypass using remote XSL file 
+defense-evasion,T1221-1,WINWORD Remote Template Injection
+defense-evasion,T1222.001-1,Take ownership using takeown utility
+defense-evasion,T1222.001-2,cacls - Grant permission to specified user or group recursively
+defense-evasion,T1222.001-3,attrib - Remove read-only attribute
+defense-evasion,T1222.001-4,attrib - hide file
+defense-evasion,T1222.001-5,Grant Full Access to folder for Everyone - Ryuk Ransomware Style
+discovery,T1482-2,Windows - Discover domain trusts with nltest
+discovery,T1482-3,Powershell enumerate domains and forests
+discovery,T1482-4,Adfind - Enumerate Active Directory OUs 
+discovery,T1482-5,Adfind - Enumerate Active Directory Trusts 
+discovery,T1482-8,TruffleSnout - Listing AD Infrastructure
+privilege-escalation,T1484.001-1,LockBit Black - Modify Group policy settings -cmd
+privilege-escalation,T1484.001-2,LockBit Black - Modify Group policy settings -Powershell
+privilege-escalation,T1484.002-1,Add Federation to Azure AD
+impact,T1485-1,Windows - Overwrite file with SysInternals SDelete
+impact,T1485-3,Overwrite deleted data on C drive 
+impact,T1486-5,PureLocker Ransom Note
+impact,T1486-8,Data Encrypted with GPG4Win
+impact,T1486-9,Data Encrypt Using DiskCryptor
+impact,T1486-10,Akira Ransomware drop Files with .akira Extension and Ransomnote 
+impact,T1489-1,Windows - Stop service using Service Controller
+impact,T1489-2,Windows - Stop service using net.exe 
+impact,T1489-3,Windows - Stop service by killing process
+impact,T1490-1,Windows - Delete Volume Shadow Copies 
+impact,T1490-2,Windows - Delete Volume Shadow Copies via WMI
+impact,T1490-3,Windows - wbadmin Delete Windows Backup Catalog
+impact,T1490-4,Windows - Disable Windows Recovery Console Repair
+impact,T1490-5,Windows - Delete Volume Shadow Copies via WMI with PowerShell
+impact,T1490-6,Windows - Delete Backup Files
+impact,T1490-7,Windows - wbadmin Delete systemstatebackup
+impact,T1490-8,Windows - Disable the SR scheduled task
+impact,T1490-9,Disable System Restore Through Registry
+impact,T1490-10,Windows - vssadmin Resize Shadowstorage Volume 
+impact,T1490-11,Modify VSS Service Permissions
+impact,T1491.001-1,Replace Desktop Wallpaper
+impact,T1491.001-2,Configure LegalNoticeCaption and LegalNoticeText registry keys to display ransom message
+discovery,T1497.001-5,Detect Virtualization Environment via WMI Manufacturer-Model Listing (Windows)
+persistence,T1505.002-1,Install MS Exchange Transport Agent Persistence 
+persistence,T1505.003-1,Web Shell Written to Disk
+persistence,T1505.004-1,Install IIS Module using AppCmd.exe
+persistence,T1505.004-2,Install IIS Module using PowerShell Cmdlet New-WebGlobalModule
+persistence,T1505.005-1,Simulate Patching termsrv.dll
+persistence,T1505.005-2,Modify Terminal Services DLL Path
+discovery,T1518-1,Find and Display Internet Explorer Browser Version
+discovery,T1518-2,Applications Installed 
+discovery,T1518-4,WinPwn - Dotnetsearch
+discovery,T1518-5,WinPwn - DotNet
+discovery,T1518-6,WinPwn - powerSQL
+discovery,T1518.001-1,Security Software Discovery
+discovery,T1518.001-2,Security Software Discovery - powershell
+discovery,T1518.001-6,Security Software Discovery - Sysmon Service 
+discovery,T1518.001-7,Security Software Discovery - AV Discovery via WMI
+discovery,T1518.001-8,Security Software Discovery - AV Discovery via Get-CimInstance and Get-WmiObject cmdlets
+discovery,T1518.001-9,Security Software Discovery - Windows Defender Enumeration
+discovery,T1518.001-10,Security Software Discovery - Windows Firewall Enumeration
+discovery,T1526-1,Azure - Dump Subscription Data with MicroBurst
+credential-access,T1528-1,Azure - Dump All Azure Key Vaults with Microburst 
+impact,T1529-12,Logoff System - Windows
+impact,T1529-13,ESXi - Terminates VMs using pkill 
+impact,T1529-14,ESXi - Avoslocker enumerates VMs and forcefully kills VMs 
+collection,T1530-1,Azure - Enumerate Azure Blobs with MicroBurst
+collection,T1530-2,Azure - Scan for Anonymous Access to Azure Storage (Powershell)
+impact,T1531-1,Change User Password - Windows
+impact,T1531-2,Delete User - Windows
+impact,T1531-3,Remove Account From Domain Admin Group 
+impact,T1531-7,Azure AD - Delete user via Azure AD PowerShell 
+impact,T1531-8,Azure AD - Delete user via Azure CLI
+credential-access,T1539-1,Steal Firefox Cookies (Windows)
+credential-access,T1539-2,Steal Chrome Cookies (Windows)
+defense-evasion,T1542.001-1,UEFI Persistence via Wpbbin.exe File Creation 
+privilege-escalation,T1543.003-1,Modify Fax service to run PowerShell 
+privilege-escalation,T1543.003-2,Service Installation CMD
+privilege-escalation,T1543.003-3,Service Installation PowerShell
+privilege-escalation,T1543.003-4,TinyTurla backdoor service w64time
+privilege-escalation,T1543.003-5,Remote Service Installation CMD
+privilege-escalation,T1543.003-6,Modify Service to Run Arbitrary Binary (Powershell) 
+persistence,T1546-2,HKLM - Persistence using CommandProcessor AutoRun key (With Elevation) 
+persistence,T1546-3,HKCU - Persistence using CommandProcessor AutoRun key (Without Elevation) 
+persistence,T1546-4,WMI Invoke-CimMethod Start Process
+persistence,T1546-5,Adding custom debugger for Windows Error Reporting
+persistence,T1546-6,Load custom DLL on mstsc execution 
+persistence,T1546-7,Persistence using automatic execution of custom DLL during RDP session
+persistence,T1546.001-1,Change Default File Association
+persistence,T1546.002-1,Set Arbitrary Binary as Screensaver
+persistence,T1546.003-1,Persistence via WMI Event Subscription - CommandLineEventConsumer
+persistence,T1546.003-2,Persistence via WMI Event Subscription - ActiveScriptEventConsumer
+persistence,T1546.003-3,Windows MOFComp.exe Load MOF File
+persistence,T1546.007-1,Netsh Helper DLL Registration
+persistence,T1546.008-1,Attaches Command Prompt as a Debugger to a List of Target Processes 
+persistence,T1546.008-2,Replace binary of sticky keys
+persistence,T1546.008-3,Create Symbolic Link From osk.exe to cmd.exe
+persistence,T1546.008-4,Atbroker.exe (AT) Executes Arbitrary Command via Registry Key
+persistence,T1546.008-5,Auto-start application on user logon
+persistence,T1546.009-1,Create registry persistence via AppCert DLL 
+persistence,T1546.010-1,Install AppInit Shim
+persistence,T1546.011-1,Application Shim Installation
+persistence,T1546.011-2,New shim database files created in the default shim database directory
+persistence,T1546.011-3,Registry key creation and-or modification events for SDB
+persistence,T1546.012-1,IFEO Add Debugger
+persistence,T1546.012-2,IFEO Global Flags
+persistence,T1546.012-3,GlobalFlags in Image File Execution Options 
+persistence,T1546.013-1,Append malicious start-process cmdlet
+persistence,T1546.015-2,Powershell Execute COM Object
+persistence,T1546.015-3,COM Hijacking with RunDLL32 (Local Server Switch)
+persistence,T1546.015-4,COM hijacking via TreatAs
+privilege-escalation,T1547-1,Add a driver
+privilege-escalation,T1547-2,Driver Installation Using pnputil.exe
+privilege-escalation,T1547-3,Leverage Virtual Channels to execute custom DLL during successful RDP session
+privilege-escalation,T1547.001-1,Reg Key Run
+privilege-escalation,T1547.001-2,Reg Key RunOnce
+privilege-escalation,T1547.001-3,PowerShell Registry RunOnce
+privilege-escalation,T1547.001-4,Suspicious vbs file run from startup Folder
+privilege-escalation,T1547.001-5,Suspicious jse file run from startup Folder
+privilege-escalation,T1547.001-6,Suspicious bat file run from startup Folder
+privilege-escalation,T1547.001-7,Add Executable Shortcut Link to User Startup Folder
+privilege-escalation,T1547.001-8,Add persistance via Recycle bin
+privilege-escalation,T1547.001-9,SystemBC Malware-as-a-Service Registry
+privilege-escalation,T1547.001-10,Change Startup Folder - HKLM Modify User Shell Folders Common Startup Value 
+privilege-escalation,T1547.001-11,Change Startup Folder - HKCU Modify User Shell Folders Startup Value
+privilege-escalation,T1547.001-12,HKCU - Policy Settings Explorer Run Key
+privilege-escalation,T1547.001-13,HKLM - Policy Settings Explorer Run Key
+privilege-escalation,T1547.001-14,HKLM - Append Command to Winlogon Userinit KEY Value 
+privilege-escalation,T1547.001-15,HKLM - Modify default System Shell - Winlogon Shell KEY Value
+privilege-escalation,T1547.001-16,secedit used to create a Run key in the HKLM Hive
+privilege-escalation,T1547.001-17,Modify BootExecute Value
+privilege-escalation,T1547.001-18,Allowing custom application to execute during new RDP logon session
+privilege-escalation,T1547.001-19,Creating Boot Verification Program Key for application execution during successful boot
+privilege-escalation,T1547.002-1,Authentication Package 
+privilege-escalation,T1547.003-1,Create a new time provider
+privilege-escalation,T1547.003-2,Edit an existing time provider
+privilege-escalation,T1547.004-1,Winlogon Shell Key Persistence - PowerShell 
+privilege-escalation,T1547.004-2,Winlogon Userinit Key Persistence - PowerShell 
+privilege-escalation,T1547.004-3,Winlogon Notify Key Logon Persistence - PowerShell
+privilege-escalation,T1547.004-4,Winlogon HKLM Shell Key Persistence - PowerShell
+privilege-escalation,T1547.004-5,Winlogon HKLM Userinit Key Persistence - PowerShell
+privilege-escalation,T1547.005-1,Modify HKLM:\System\CurrentControlSet\Control\Lsa Security Support Provider configuration in registry
+privilege-escalation,T1547.005-2,Modify HKLM:\System\CurrentControlSet\Control\Lsa\OSConfig Security Support Provider configuration in registry
+privilege-escalation,T1547.006-4,Snake Malware Kernel Driver Comadmin
+privilege-escalation,T1547.009-1,Shortcut Modification 
+privilege-escalation,T1547.009-2,Create shortcut to cmd in startup folders
+privilege-escalation,T1547.010-1,Add Port Monitor persistence in Registry 
+privilege-escalation,T1547.012-1,Print Processors 
+privilege-escalation,T1547.014-1,HKLM - Add atomic_test key to launch executable as part of user setup
+privilege-escalation,T1547.014-2,HKLM - Add malicious StubPath value to existing Active Setup Entry
+privilege-escalation,T1547.014-3,HKLM - re-execute Internet Explorer Core Fonts' StubPath payload by decreasing version number
+privilege-escalation,T1547.015-1,Persistence by modifying Windows Terminal profile 
+defense-evasion,T1548.002-2,Bypass UAC using Event Viewer (PowerShell) 
+defense-evasion,T1548.002-4,Bypass UAC using Fodhelper - PowerShell 
+defense-evasion,T1548.002-5,Bypass UAC using ComputerDefaults (PowerShell)
+defense-evasion,T1548.002-6,Bypass UAC by Mocking Trusted Directories 
+defense-evasion,T1548.002-7,Bypass UAC using sdclt DelegateExecute
+defense-evasion,T1548.002-8,Disable UAC using reg.exe
+defense-evasion,T1548.002-9,Bypass UAC using SilentCleanup task
+defense-evasion,T1548.002-10,UACME Bypass Method 23
+defense-evasion,T1548.002-11,UACME Bypass Method 31
+defense-evasion,T1548.002-12,UACME Bypass Method 33
+defense-evasion,T1548.002-13,UACME Bypass Method 34
+defense-evasion,T1548.002-14,UACME Bypass Method 39
+defense-evasion,T1548.002-15,UACME Bypass Method 56
+defense-evasion,T1548.002-16,UACME Bypass Method 59
+defense-evasion,T1548.002-17,UACME Bypass Method 61
+defense-evasion,T1548.002-18,WinPwn - UAC Magic
+defense-evasion,T1548.002-19,WinPwn - UAC Bypass ccmstp technique 
+defense-evasion,T1548.002-20,WinPwn - UAC Bypass DiskCleanup technique 
+defense-evasion,T1548.002-21,WinPwn - UAC Bypass DccwBypassUAC technique 
+defense-evasion,T1548.002-22,Disable UAC admin consent prompt via ConsentPromptBehaviorAdmin registry key 
+defense-evasion,T1548.002-23,UAC Bypass with WSReset Registry Modification 
+defense-evasion,T1548.002-24,Disable UAC - Switch to the secure desktop when prompting for elevation via registry key
+defense-evasion,T1548.002-25,Disable UAC notification via registry keys 
+defense-evasion,T1548.002-26,Disable ConsentPromptBehaviorAdmin via registry keys
+lateral-movement,T1550.002-2,crackmapexec Pass the Hash
+lateral-movement,T1550.002-3,Invoke-WMIExec Pass the Hash
+lateral-movement,T1550.003-2,Rubeus Kerberos Pass The Ticket
+credential-access,T1552-2,Search for Passwords in Powershell History 
+credential-access,T1552.001-4,Extracting passwords with findstr
+credential-access,T1552.001-5,Access unattend.xml 
+credential-access,T1552.001-7,WinPwn - sensitivefiles
+credential-access,T1552.001-8,WinPwn - Snaffler
+credential-access,T1552.001-9,WinPwn - powershellsensitive
+credential-access,T1552.001-10,WinPwn - passhunt
+credential-access,T1552.001-11,WinPwn - SessionGopher
+credential-access,T1552.001-12,"WinPwn - Loot local Credentials - AWS, Microsoft Azure, and Google Compute credentials"
+credential-access,T1552.001-13,List Credential Files via PowerShell
+credential-access,T1552.001-14,List Credential Files via Command Prompt 
+credential-access,T1552.002-1,Enumeration for Credentials in Registry
+credential-access,T1552.002-2,Enumeration for PuTTY Credentials in Registry
+credential-access,T1552.004-9,ADFS token signing and encryption certificates theft - Local 
+credential-access,T1552.004-10,ADFS token signing and encryption certificates theft - Remote 
+credential-access,T1552.004-11,CertUtil ExportPFX 
+credential-access,T1552.004-12,Export Root Certificate with Export-PFXCertificate
+credential-access,T1552.004-13,Export Root Certificate with Export-Certificate
+credential-access,T1552.004-14,Export Certificates with Mimikatz
+credential-access,T1552.005-1,Azure - Search Azure AD User Attributes for Passwords 
+credential-access,T1552.005-2,Azure - Dump Azure Instance Metadata from Virtual Machines 
+credential-access,T1552.006-1,GPP Passwords (findstr)
+credential-access,T1552.006-2,GPP Passwords (Get-GPPPassword)
+defense-evasion,T1553.003-1,SIP (Subject Interface Package) Hijacking via Custom DLL
+defense-evasion,T1553.004-5,Install root CA on Windows
+defense-evasion,T1553.004-6,Install root CA on Windows with certutil
+defense-evasion,T1553.004-7,Add Root Certificate to CurrentUser Certificate Store
+defense-evasion,T1553.006-1,Code Signing Policy Modification
+credential-access,T1555-1,Extract Windows Credential Manager via VBA 
+credential-access,T1555-2,Dump credentials from Windows Credential Manager With PowerShell [windows Credentials]
+credential-access,T1555-3,Dump credentials from Windows Credential Manager With PowerShell [web Credentials]
+credential-access,T1555-4,Enumerate credentials from Windows Credential Manager using vaultcmd.exe [Windows Credentials]
+credential-access,T1555-5,Enumerate credentials from Windows Credential Manager using vaultcmd.exe [Web Credentials]
+credential-access,T1555-6,WinPwn - Loot local Credentials - lazagne
+credential-access,T1555-7,WinPwn - Loot local Credentials - Wifi Credentials
+credential-access,T1555-8,WinPwn - Loot local Credentials - Decrypt Teamviewer Passwords
+credential-access,T1555.003-3,LaZagne - Credentials from Browser
+credential-access,T1555.003-4,Simulating access to Chrome Login Data 
+credential-access,T1555.003-5,Simulating access to Opera Login Data 
+credential-access,T1555.003-6,Simulating access to Windows Firefox Login Data
+credential-access,T1555.003-7,Simulating access to Windows Edge Login Data
+credential-access,T1555.003-8,Decrypt Mozilla Passwords with Firepwd.py
+credential-access,T1555.003-10,Stage Popular Credential Files for Exfiltration 
+credential-access,T1555.003-11,WinPwn - BrowserPwn
+credential-access,T1555.003-12,WinPwn - Loot local Credentials - mimi-kittenz
+credential-access,T1555.003-13,WinPwn - PowerSharpPack - Sharpweb for Browser Credentials
+credential-access,T1555.003-15,WebBrowserPassView - Credentials from Browser
+credential-access,T1555.003-16,BrowserStealer (Chrome - Firefox - Microsoft Edge)
+credential-access,T1555.003-17,Dump Chrome Login Data with esentutl 
+credential-access,T1555.004-1,Access Saved Credentials via VaultCmd
+persistence,T1556.002-1,Install and Register Password Filter DLL 
+persistence,T1556.002-2,Install Additional Authentication Packages
+credential-access,T1558.001-2,Crafting Active Directory golden tickets with Rubeus
+credential-access,T1558.002-1,Crafting Active Directory silver tickets with mimikatz
+credential-access,T1558.003-1,Request for service tickets
+credential-access,T1558.003-2,Rubeus kerberoast 
+credential-access,T1558.003-3,Extract all accounts in use as SPN using setspn 
+credential-access,T1558.003-4,Request A Single Ticket via PowerShell 
+credential-access,T1558.003-5,Request All Tickets via PowerShell
+credential-access,T1558.003-6,WinPwn - Kerberoasting
+credential-access,T1558.003-7,WinPwn - PowerSharpPack - Kerberoasting Using Rubeus
+credential-access,T1558.004-1,Rubeus asreproast 
+credential-access,T1558.004-3,WinPwn - PowerSharpPack - Kerberoasting Using Rubeus
+execution,T1559-1,Cobalt Strike Artifact Kit pipe
+execution,T1559-2,Cobalt Strike Lateral Movement (psexec_psh) pipe 
+execution,T1559-3,Cobalt Strike SSH (postex_ssh) pipe
+execution,T1559-4,Cobalt Strike post-exploitation pipe (4.2 and later)
+execution,T1559-5,Cobalt Strike post-exploitation pipe (before 4.2) 
+execution,T1559.002-2,Execute PowerShell script via Word DDE 
+collection,T1560-1,Compress Data for Exfiltration With PowerShell 
+collection,T1560.001-1,Compress Data for Exfiltration With Rar 
+collection,T1560.001-2,Compress Data and lock with password for Exfiltration with winrar
+collection,T1560.001-3,Compress Data and lock with password for Exfiltration with winzip
+collection,T1560.001-4,Compress Data and lock with password for Exfiltration with 7zip
+collection,T1560.001-10,ESXi - Remove Syslog remote
+defense-evasion,T1562.001-11,Unload Sysmon Filter Driver
+defense-evasion,T1562.001-12,Uninstall Sysmon 
+defense-evasion,T1562.001-14,AMSI Bypass - Remove AMSI Provider Reg Key
+defense-evasion,T1562.001-15,Disable Arbitrary Security Windows Service
+defense-evasion,T1562.001-16,Tamper with Windows Defender ATP PowerShell 
+defense-evasion,T1562.001-17,Tamper with Windows Defender Command Prompt 
+defense-evasion,T1562.001-18,Tamper with Windows Defender Registry
+defense-evasion,T1562.001-19,Disable Microsoft Office Security Features
+defense-evasion,T1562.001-20,Remove Windows Defender Definition Files
+defense-evasion,T1562.001-21,Stop and Remove Arbitrary Security Windows Service
+defense-evasion,T1562.001-22,Uninstall Crowdstrike Falcon on Windows
+defense-evasion,T1562.001-23,Tamper with Windows Defender Evade Scanning -Folder
+defense-evasion,T1562.001-24,Tamper with Windows Defender Evade Scanning -Extension
+defense-evasion,T1562.001-25,Tamper with Windows Defender Evade Scanning -Process
+defense-evasion,T1562.001-26,office-365-Disable-AntiPhishRule
+defense-evasion,T1562.001-27,Disable Windows Defender with DISM
+defense-evasion,T1562.001-28,Disable Defender Using NirSoft AdvancedRun
+defense-evasion,T1562.001-29,Kill antimalware protected processes using Backstab 
+defense-evasion,T1562.001-30,WinPwn - Kill the event log services for stealth 
+defense-evasion,T1562.001-31,Tamper with Windows Defender ATP using Aliases - PowerShell 
+defense-evasion,T1562.001-32,LockBit Black - Disable Privacy Settings Experience Using Registry -cmd
+defense-evasion,T1562.001-33,LockBit Black - Use Registry Editor to turn on automatic logon -cmd 
+defense-evasion,T1562.001-34,LockBit Black - Disable Privacy Settings Experience Using Registry -Powershell
+defense-evasion,T1562.001-35,Lockbit Black - Use Registry Editor to turn on automatic logon -Powershell 
+defense-evasion,T1562.001-36,Disable Windows Defender with PwSh Disable-WindowsOptionalFeature 
+defense-evasion,T1562.001-37,WMIC Tamper with Windows Defender Evade Scanning Folder
+defense-evasion,T1562.001-38,Delete Windows Defender Scheduled Tasks
+defense-evasion,T1562.001-44,Disable Hypervisor-Enforced Code Integrity (HVCI)
+defense-evasion,T1562.001-45,AMSI Bypass - Override AMSI via COM
+defense-evasion,T1562.001-48,Tamper with Windows Defender Registry - Reg.exe
+defense-evasion,T1562.001-49,Tamper with Windows Defender Registry - Powershell
+defense-evasion,T1562.001-51,Delete Microsoft Defender ASR Rules - InTune
+defense-evasion,T1562.001-52,Delete Microsoft Defender ASR Rules - GPO
+defense-evasion,T1562.001-53,AMSI Bypass - Create AMSIEnable Reg Key
+defense-evasion,T1562.002-1,Disable Windows IIS HTTP Logging
+defense-evasion,T1562.002-2,Disable Windows IIS HTTP Logging via PowerShell
+defense-evasion,T1562.002-3,Kill Event Log Service Threads
+defense-evasion,T1562.002-4,Impair Windows Audit Log Policy
+defense-evasion,T1562.002-5,Clear Windows Audit Policy Config
+defense-evasion,T1562.002-6,Disable Event Logging with wevtutil
+defense-evasion,T1562.002-7,Makes Eventlog blind with Phant0m
+defense-evasion,T1562.003-11,Disable Windows Command Line Auditing using reg.exe
+defense-evasion,T1562.003-12,Disable Windows Command Line Auditing using Powershell Cmdlet
+defense-evasion,T1562.004-1,Disable Microsoft Defender Firewall
+defense-evasion,T1562.004-2,Disable Microsoft Defender Firewall via Registry 
+defense-evasion,T1562.004-3,Allow SMB and RDP on Microsoft Defender Firewall
+defense-evasion,T1562.004-4,Opening ports for proxy - HARDRAIN 
+defense-evasion,T1562.004-5,Open a local port through Windows Firewall to any profile
+defense-evasion,T1562.004-6,Allow Executable Through Firewall Located in Non-Standard Location
+defense-evasion,T1562.004-20,LockBit Black - Unusual Windows firewall registry modification -cmd 
+defense-evasion,T1562.004-21,LockBit Black - Unusual Windows firewall registry modification -Powershell 
+defense-evasion,T1562.004-22,Blackbit - Disable Windows Firewall using netsh firewall
+defense-evasion,T1562.004-23,ESXi - Disable Firewall via Esxcli 
+defense-evasion,T1562.004-24,Set a firewall rule using New-NetFirewallRule 
+defense-evasion,T1562.006-5,Disable Powershell ETW Provider - Windows 
+defense-evasion,T1562.006-6,Disable .NET Event Tracing for Windows Via Registry (cmd) 
+defense-evasion,T1562.006-7,Disable .NET Event Tracing for Windows Via Registry (powershell) 
+defense-evasion,T1562.006-8,LockBit Black - Disable the ETW Provider of Windows Defender -cmd
+defense-evasion,T1562.006-9,LockBit Black - Disable the ETW Provider of Windows Defender -Powershell
+defense-evasion,T1562.008-2,Azure - Eventhub Deletion
+defense-evasion,T1562.008-3,Office 365 - Exchange Audit Log Disabled
+defense-evasion,T1562.008-9,Office 365 - Set Audit Bypass For a Mailbox 
+defense-evasion,T1562.009-1,Safe Mode Boot
+defense-evasion,T1562.010-2,ESXi - Change VIB acceptance level to CommunitySupported via ESXCLI
+defense-evasion,T1564-1,Extract binary files via VBA
+defense-evasion,T1564-2,Create a Hidden User Called $ 
+defense-evasion,T1564-3,Create an Administratoruser (with a space on the end)
+defense-evasion,T1564-4,Create and Hide a Service with sc.exe
+defense-evasion,T1564-5,Command Execution with NirCmd
+defense-evasion,T1564.001-3,Create Windows System File with Attrib 
+defense-evasion,T1564.001-4,Create Windows Hidden File with Attrib 
+defense-evasion,T1564.001-8,Hide Files Through Registry
+defense-evasion,T1564.001-9,Create Windows Hidden File with powershell 
+defense-evasion,T1564.001-10,Create Windows System File with powershell 
+defense-evasion,T1564.002-3,Create Hidden User in Registry
+defense-evasion,T1564.003-1,Hidden Window 
+defense-evasion,T1564.003-2,Headless Browser Accessing Mockbin
+defense-evasion,T1564.003-3,Hidden Window-Conhost Execution
+defense-evasion,T1564.004-2,Store file in Alternate Data Stream (ADS)
+defense-evasion,T1564.004-3,Create ADS command prompt
+defense-evasion,T1564.004-4,Create ADS PowerShell
+defense-evasion,T1564.004-5,Create Hidden Directory via $index_allocation
+defense-evasion,T1564.006-1,Register Portable Virtualbox
+defense-evasion,T1564.006-2,Create and start VirtualBox virtual machine 
+defense-evasion,T1564.006-3,Create and start Hyper-V virtual machine 
+initial-access,T1566.001-1,Download Macro-Enabled Phishing Attachment
+initial-access,T1566.001-2,Word spawned a command shell and used an IP address in the command line
+exfiltration,T1567.002-1,Exfiltrate data with rclone to cloud Storage - Mega (Windows)
+exfiltration,T1567.003-1,Exfiltrate data with HTTP POST to text storage sites - pastebin.com (Windows)
+execution,T1569.002-2,Use PsExec to execute a command on a remote host
+execution,T1569.002-4,BlackCat pre-encryption cmds with Lateral Movement 
+execution,T1569.002-5,Use RemCom to execute a command on a remote host
+execution,T1569.002-6,Snake Malware Service Create
+execution,T1569.002-7,Modifying ACL of Service Control Manager via SDET
+execution,T1569.002-8,Pipe Creation - PsExec Tool Execution From Suspicious Locations 
+lateral-movement,T1570-1,Exfiltration Over SMB over QUIC (New-SmbMapping) 
+lateral-movement,T1570-2,Exfiltration Over SMB over QUIC (NET USE)
+command-and-control,T1571-1,Testing usage of uncommonly used port with PowerShell
+command-and-control,T1572-1,DNS over HTTPS Large Query Volume 
+command-and-control,T1572-2,DNS over HTTPS Regular Beaconing
+command-and-control,T1572-3,DNS over HTTPS Long Domain Query 
+command-and-control,T1572-4,Run ngrok 
+defense-evasion,T1574.001-1,DLL Search Order Hijacking - amsi.dll 
+defense-evasion,T1574.001-2,Phantom Dll Hijacking - WinAppXRT.dll
+defense-evasion,T1574.002-1,DLL Side-Loading using the Notepad++ GUP.exe binary
+defense-evasion,T1574.002-2,DLL Side-Loading using the dotnet startup hook environment variable 
+defense-evasion,T1574.002-3,"DLL Search Order Hijacking,DLL Sideloading Of KeyScramblerIE.DLL Via KeyScrambler.EXE"
+defense-evasion,T1574.009-1,Execution of program.exe as service with unquoted service path 
+defense-evasion,T1574.011-1,Service Registry Permissions Weakness
+defense-evasion,T1574.011-2,Service ImagePath Change with reg.exe
+defense-evasion,T1574.012-1,User scope COR_PROFILER
+defense-evasion,T1574.012-2,System Scope COR_PROFILER
+defense-evasion,T1574.012-3,Registry-free process scope COR_PROFILER
+discovery,T1580-2,AWS - EC2 Security Group Enumeration 
+reconnaissance,T1592.001-1,Enumerate PlugNPlay Camera
+credential-access,T1606.002-1,Golden SAML
+discovery,T1614.001-2,Discover System Language with chcp
+discovery,T1614.001-7,Discover System Language with dism.exe
+discovery,T1614.001-8,Discover System Language by Windows API Query
+discovery,T1615-1,Display group policy information via gpresult 
+discovery,T1615-2,Get-DomainGPO to display group policy information via PowerView
+discovery,T1615-3,WinPwn - GPOAudit
+discovery,T1615-4,WinPwn - GPORemoteAccessPolicy
+discovery,T1615-5,MSFT Get-GPO Cmdlet
+discovery,T1622-1,Detect a Debugger Presence in the Machine
+discovery,T1652-1,Device Driver Discovery
+discovery,T1654-1,Get-EventLog To Enumerate Windows Security Log 
+discovery,T1654-2,Enumerate Windows Security Log via WevtUtil 

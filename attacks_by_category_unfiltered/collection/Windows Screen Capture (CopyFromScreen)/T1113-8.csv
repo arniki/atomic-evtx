@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T20:49:26Z","2024-10-24T23:49:26Z","T1113","8","Windows Screen Capture (CopyFromScreen)","Server002","System.Object[]","server002\admin_test","e9313014-985a-48ef-80d9-cde604ffc187","4684","0"

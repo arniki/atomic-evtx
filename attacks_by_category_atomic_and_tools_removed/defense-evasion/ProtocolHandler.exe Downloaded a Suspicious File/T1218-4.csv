@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T21:18:35Z","2024-10-26T00:18:35Z","T1218","4","ProtocolHandler.exe Downloaded a Suspicious File","Server002","System.Object[]","server002\admin_test","db020456-125b-4c8b-a4a7-487df8afb5a2","1452","1"

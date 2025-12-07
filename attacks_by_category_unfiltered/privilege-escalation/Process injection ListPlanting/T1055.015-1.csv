@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T18:45:18Z","2024-10-22T21:45:18Z","T1055.015","1","Process injection ListPlanting","Server002","System.Object[]","server002\admin_test","4f3c7502-b111-4dfe-8a6e-529307891a59","776","0"

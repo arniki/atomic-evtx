@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T18:30:06Z","2024-10-25T21:30:06Z","T1204.003","1","Malicious Execution from Mounted ISO Image","Server002","System.Object[]","server002\admin_test","e9795c8d-42aa-4ed4-ad80-551ed793d006","2704","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T16:43:46Z","2024-10-26T19:43:46Z","T1218.011","13","Rundll32 with desk.cpl","Server002","System.Object[]","server002\admin_test","83a95136-a496-423c-81d3-1c6750133917",,

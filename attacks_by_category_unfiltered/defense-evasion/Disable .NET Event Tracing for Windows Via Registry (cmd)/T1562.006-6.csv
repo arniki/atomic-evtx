@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T12:13:37Z","2024-10-28T14:13:37Z","T1562.006","6","Disable .NET Event Tracing for Windows Via Registry (cmd)","Server002","System.Object[]","server002\admin_test","8a4c33be-a0d3-434a-bee6-315405edbd5b","6368","0"

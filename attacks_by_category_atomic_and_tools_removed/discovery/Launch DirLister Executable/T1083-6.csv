@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T19:05:36Z","2024-10-23T22:05:36Z","T1083","6","Launch DirLister Executable","Server002","System.Object[]","server002\admin_test","c5bec457-43c9-4a18-9a24-fe151d8971b7","4292","0"

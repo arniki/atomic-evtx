@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T19:10:59Z","2024-10-26T22:10:59Z","T1484.002","1","Add Federation to Azure AD","Server002","System.Object[]","server002\admin_test","8906c5d0-3ee5-4f63-897a-f6cafd3fdbb7","1612","1"

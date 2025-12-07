@@ -1,0 +1,4 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T18:38:27Z","2024-10-27T20:38:27Z","T1548.002","21","WinPwn - UAC Bypass DccwBypassUAC technique","Server002","System.Object[]","server002\admin_test","2b61977b-ae2d-4ae4-89cb-5c36c89586be","4112","0"
+"2024-11-02T11:28:46Z","2024-11-02T13:28:46Z","T1548.002","21","WinPwn - UAC Bypass DccwBypassUAC technique","Server002","System.Object[]","server002\admin_test","2b61977b-ae2d-4ae4-89cb-5c36c89586be","6380","0"
+"2024-11-02T12:14:42Z","2024-11-02T14:14:42Z","T1548.002","21","WinPwn - UAC Bypass DccwBypassUAC technique","Server002","System.Object[]","server002\admin_test","2b61977b-ae2d-4ae4-89cb-5c36c89586be","4956","0"

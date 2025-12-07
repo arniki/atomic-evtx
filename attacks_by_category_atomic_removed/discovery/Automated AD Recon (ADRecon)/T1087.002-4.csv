@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T20:57:27Z","2024-10-23T23:57:27Z","T1087.002","4","Automated AD Recon (ADRecon)","Server002","System.Object[]","server002\admin_test","95018438-454a-468c-a0fa-59c800149b59","4544","0"

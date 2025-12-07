@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T10:25:49Z","2024-10-25T13:25:49Z","T1120","3","Peripheral Device Discovery via fsutil","Server002","System.Object[]","server002\admin_test","424e18fd-48b8-4201-8d3a-bf591523a686","5444","0"

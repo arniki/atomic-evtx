@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T18:42:07Z","2024-10-25T21:42:07Z","T1216","2","manage-bde.wsf Signed Script Command Execution","Server002","System.Object[]","server002\admin_test","2a8f2d3c-3dec-4262-99dd-150cb2a4d63a","2816","1"

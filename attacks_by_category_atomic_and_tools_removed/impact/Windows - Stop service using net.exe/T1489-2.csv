@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T19:43:58Z","2024-10-26T22:43:58Z","T1489","2","Windows - Stop service using net.exe","Server002","System.Object[]","server002\admin_test","41274289-ec9c-4213-bea4-e43c4aa57954","5856","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T13:05:28Z","2024-10-24T16:05:28Z","T1106","3","WinPwn - Get SYSTEM shell - Bind System Shell using CreateProcess technique","Server002","System.Object[]","server002\admin_test","7ec5b74e-8289-4ff2-a162-b6f286a33abd","6880","1"

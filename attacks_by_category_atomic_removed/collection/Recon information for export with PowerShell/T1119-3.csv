@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T10:12:06Z","2024-10-25T13:12:06Z","T1119","3","Recon information for export with PowerShell","Server002","System.Object[]","server002\admin_test","c3f6d794-50dd-482f-b640-0384fbb7db26","2852","0"

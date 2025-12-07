@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T18:26:46Z","2024-10-23T21:26:46Z","T1082","27","System Information Discovery with WMIC","Server002","System.Object[]","server002\admin_test","8851b73a-3624-4bf7-8704-aa312411565c","6448","1"

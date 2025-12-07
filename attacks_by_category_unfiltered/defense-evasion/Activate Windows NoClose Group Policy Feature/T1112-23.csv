@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T15:31:01Z","2024-10-24T18:31:01Z","T1112","23","Activate Windows NoClose Group Policy Feature","Server002","System.Object[]","server002\admin_test","12f50e15-dbc6-478b-a801-a746e8ba1723","5756","0"

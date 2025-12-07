@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T12:25:08Z","2024-10-21T15:25:08Z","T1030","2","Network-Based Data Transfer in Small Chunks","Server002","System.Object[]","server002\admin_test","f0287b58-f4bc-40f6-87eb-692e126e7f8f","4384","1"

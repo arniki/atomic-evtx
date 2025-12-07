@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T14:12:01Z","2024-10-24T17:12:01Z","T1110.004","4","Brute Force:Credential Stuffing using Kerbrute Tool","Server002","System.Object[]","server002\admin_test","4852c630-87a9-409b-bb5e-5dc12c9ebcde","2128","0"

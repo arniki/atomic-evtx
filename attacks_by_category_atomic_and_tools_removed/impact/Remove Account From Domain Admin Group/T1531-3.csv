@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T12:23:47Z","2024-10-27T14:23:47Z","T1531","3","Remove Account From Domain Admin Group","Server002","System.Object[]","server002\admin_test","43f71395-6c37-498e-ab17-897d814a0947","3024","0"

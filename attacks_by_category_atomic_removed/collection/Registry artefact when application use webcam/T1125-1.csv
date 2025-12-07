@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T10:51:48Z","2024-10-25T13:51:48Z","T1125","1","Registry artefact when application use webcam","Server002","System.Object[]","server002\admin_test","6581e4a7-42e3-43c5-a0d2-5a0d62f9702a","6992","0"

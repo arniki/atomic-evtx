@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T11:43:47Z","2024-10-21T14:43:47Z","T1027","3","Execute base64-encoded PowerShell from Windows Registry","Server002","System.Object[]","server002\admin_test","450e7218-7915-4be4-8b9b-464a49eafcec","3936","0"

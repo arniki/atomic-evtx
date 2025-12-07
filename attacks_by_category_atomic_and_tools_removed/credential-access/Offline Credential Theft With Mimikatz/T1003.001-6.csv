@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T17:40:12Z","2024-10-20T20:40:12Z","T1003.001","6","Offline Credential Theft With Mimikatz","Server002","System.Object[]","server002\admin_test","453acf13-1dbd-47d7-b28a-172ce9228023",,

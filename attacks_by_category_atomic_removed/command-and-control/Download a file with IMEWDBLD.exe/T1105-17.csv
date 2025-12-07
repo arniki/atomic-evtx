@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T11:45:17Z","2024-10-24T14:45:17Z","T1105","17","Download a file with IMEWDBLD.exe","Server002","System.Object[]","server002\admin_test","1a02df58-09af-4064-a765-0babe1a0d1e2","1644","0"

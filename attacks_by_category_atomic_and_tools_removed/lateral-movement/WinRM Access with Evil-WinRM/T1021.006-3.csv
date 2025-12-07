@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T11:36:45Z","2024-10-21T14:36:45Z","T1021.006","3","WinRM Access with Evil-WinRM","Server002","System.Object[]","server002\admin_test","efe86d95-44c4-4509-ae42-7bfd9d1f5b3d","4392","0"

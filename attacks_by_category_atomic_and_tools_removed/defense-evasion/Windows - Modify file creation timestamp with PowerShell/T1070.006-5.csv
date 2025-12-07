@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T15:01:07Z","2024-10-23T18:01:07Z","T1070.006","5","Windows - Modify file creation timestamp with PowerShell","Server002","System.Object[]","server002\admin_test","b3b2c408-2ff0-4a33-b89b-1cb46a9e6a9c","4168","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T19:27:07Z","2024-10-25T22:27:07Z","T1218","2","Register-CimProvider - Execute evil dll","Server002","System.Object[]","server002\admin_test","ad2c17ed-f626-4061-b21e-b9804a6f3655","6380","-2147217400"

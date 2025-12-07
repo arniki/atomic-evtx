@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T13:01:03Z","2024-10-23T16:01:03Z","T1069.002","1","Basic Permission Groups Discovery Windows (Domain)","Server002","System.Object[]","server002\admin_test","dd66d77d-8998-48c0-8024-df263dc2ce5d","3548","2"

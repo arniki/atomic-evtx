@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T11:45:03Z","2024-10-28T13:45:03Z","T1562.004","5","Open a local port through Windows Firewall to any profile","Server002","System.Object[]","server002\admin_test","9636dd6e-7599-40d2-8eee-ac16434f35ed","2584","0"

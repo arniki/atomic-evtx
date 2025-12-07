@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T16:13:34Z","2024-10-26T19:13:34Z","T1218.011","5","Rundll32 ieadvpack.dll Execution","Server002","System.Object[]","server002\admin_test","5e46a58e-cbf6-45ef-a289-ed7754603df9","6788","0"

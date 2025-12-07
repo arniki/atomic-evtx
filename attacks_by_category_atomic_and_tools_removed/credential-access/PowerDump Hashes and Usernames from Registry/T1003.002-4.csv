@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T19:47:18Z","2024-10-20T22:47:18Z","T1003.002","4","PowerDump Hashes and Usernames from Registry","Server002","System.Object[]","server002\admin_test","804f28fc-68fc-40da-b5a2-e9d0bce5c193","5248","0"

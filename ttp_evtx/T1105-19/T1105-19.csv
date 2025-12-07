@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T11:52:09Z","2024-10-24T14:52:09Z","T1105","19","Curl Upload File","Server002","System.Object[]","server002\admin_test","635c9a38-6cbf-47dc-8615-3810bc1167cf","2184","0"

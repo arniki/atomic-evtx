@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T19:37:30Z","2024-10-27T21:37:30Z","T1552.001","11","WinPwn - SessionGopher","Server002","System.Object[]","server002\admin_test","c9dc9de3-f961-4284-bd2d-f959c9f9fda5","5688","0"

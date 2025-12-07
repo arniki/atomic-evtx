@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T09:39:52Z","2024-10-24T12:39:52Z","T1098","4","Azure AD - adding user to Azure AD role","Server002","System.Object[]","server002\admin_test","0e65ae27-5385-46b4-98ac-607a8ee82261","3324","0"

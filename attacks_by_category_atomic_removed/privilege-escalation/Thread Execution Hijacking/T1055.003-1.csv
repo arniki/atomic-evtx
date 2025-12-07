@@ -1,0 +1,4 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T18:12:31Z","2024-10-22T21:12:31Z","T1055.003","1","Thread Execution Hijacking","Server002","System.Object[]","server002\admin_test","578025d5-faa9-4f6d-8390-aae527d503e1","568","0"
+"2024-11-02T10:19:14Z","2024-11-02T12:19:14Z","T1055.003","1","Thread Execution Hijacking","Server002","System.Object[]","server002\admin_test","578025d5-faa9-4f6d-8390-aae527d503e1","4900","0"
+"2024-11-02T10:27:21Z","2024-11-02T12:27:21Z","T1055.003","1","Thread Execution Hijacking","Server002","System.Object[]","server002\admin_test","578025d5-faa9-4f6d-8390-aae527d503e1","5864","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T11:14:25Z","2024-10-24T14:14:25Z","T1098.003","2","Simulate - Post BEC persistence via user password reset followed by user added to company administrator role","Server002","System.Object[]","server002\admin_test","14f3af20-61f1-45b8-ad31-4637815f3f44","5972","0"

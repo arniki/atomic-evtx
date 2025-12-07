@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T20:14:42Z","2024-10-27T22:14:42Z","T1552.004","13","Export Root Certificate with Export-Certificate","Server002","System.Object[]","server002\admin_test","78b274f8-acb0-428b-b1f7-7b0d0e73330a","5724","0"

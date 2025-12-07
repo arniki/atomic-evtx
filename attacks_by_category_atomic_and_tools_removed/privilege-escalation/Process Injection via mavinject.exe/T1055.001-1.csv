@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T18:02:04Z","2024-10-22T21:02:04Z","T1055.001","1","Process Injection via mavinject.exe","Server002","System.Object[]","server002\admin_test","74496461-11a1-4982-b439-4d87a550d254","4288","0"

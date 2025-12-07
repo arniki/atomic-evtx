@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T13:03:39Z","2024-10-21T16:03:39Z","T1036.003","3","Masquerading - cscript.exe running as notepad.exe","Server002","System.Object[]","server002\admin_test","3a2a578b-0a01-46e4-92e3-62e2859b42f0","2496","1"

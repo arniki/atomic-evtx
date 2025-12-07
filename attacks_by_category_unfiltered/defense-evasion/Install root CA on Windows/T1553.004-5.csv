@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T20:43:38Z","2024-10-27T22:43:38Z","T1553.004","5","Install root CA on Windows","Server002","System.Object[]","server002\admin_test","76f49d86-5eb1-461a-a032-a480f86652f1","7028","0"

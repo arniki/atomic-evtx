@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T20:29:12Z","2024-10-20T23:29:12Z","T1003.003","8","Create Symlink to Volume Shadow Copy","Server002","System.Object[]","server002\admin_test","21748c28-2793-4284-9e07-d6d028b66702","1392","1"

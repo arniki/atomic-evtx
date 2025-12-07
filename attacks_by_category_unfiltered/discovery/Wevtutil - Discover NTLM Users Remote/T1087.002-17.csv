@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T21:44:40Z","2024-10-24T00:44:40Z","T1087.002","17","Wevtutil - Discover NTLM Users Remote","Server002","System.Object[]","server002\admin_test","b8a563d4-a836-4993-a74e-0a19b8481bfe","6788","0"

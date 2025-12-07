@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T12:58:11Z","2024-10-28T14:58:11Z","T1564","2","Create a Hidden User Called ""$""","Server002","System.Object[]","server002\admin_test","2ec63cc2-4975-41a6-bf09-dffdfb610778","2448","0"

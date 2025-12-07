@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T18:33:59Z","2024-10-25T21:33:59Z","T1207","1","DCShadow (Active Directory)","Server002","System.Object[]","server002\admin_test","0f4c5eb0-98a0-4496-9c3d-656b4f2bc8f6","848","0"

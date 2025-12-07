@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T15:41:13Z","2024-10-24T18:41:13Z","T1112","26","Activate Windows NoPropertiesMyDocuments Group Policy Feature","Server002","System.Object[]","server002\admin_test","20fc9daa-bd48-4325-9aff-81b967a84b1d","5148","0"

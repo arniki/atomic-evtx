@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T12:23:55Z","2024-10-25T15:23:55Z","T1135","5","Network Share Discovery PowerShell","Server002","System.Object[]","server002\admin_test","1b0814d1-bb24-402d-9615-1b20c50733fb","6668","0"

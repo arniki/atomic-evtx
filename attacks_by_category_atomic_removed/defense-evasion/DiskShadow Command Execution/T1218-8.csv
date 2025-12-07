@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T21:34:53Z","2024-10-26T00:34:53Z","T1218","8","DiskShadow Command Execution","Server002","System.Object[]","server002\admin_test","0e1483ba-8f0c-425d-b8c6-42736e058eaa","4448","0"

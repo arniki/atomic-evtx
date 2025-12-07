@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T18:19:03Z","2024-10-26T21:19:03Z","T1222.001","1","Take ownership using takeown utility","Server002","System.Object[]","server002\admin_test","98d34bb4-6e75-42ad-9c41-1dae7dc6a001","5036","0"

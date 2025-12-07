@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T12:38:19Z","2024-10-27T14:38:19Z","T1539","2","Steal Chrome Cookies (Windows)","Server002","System.Object[]","server002\admin_test","26a6b840-4943-4965-8df5-ef1f9a282440","2460","0"

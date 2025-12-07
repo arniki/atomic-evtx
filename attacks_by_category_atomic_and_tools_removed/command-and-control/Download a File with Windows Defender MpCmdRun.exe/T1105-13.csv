@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T11:35:04Z","2024-10-24T14:35:04Z","T1105","13","Download a File with Windows Defender MpCmdRun.exe","Server002","System.Object[]","server002\admin_test","815bef8b-bf91-4b67-be4c-abe4c2a94ccc",,

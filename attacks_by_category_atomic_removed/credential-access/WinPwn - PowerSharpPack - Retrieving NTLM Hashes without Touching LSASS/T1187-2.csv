@@ -1,0 +1,3 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T16:45:47Z","2024-10-25T19:45:47Z","T1187","2","WinPwn - PowerSharpPack - Retrieving NTLM Hashes without Touching LSASS","Server002","System.Object[]","server002\admin_test","7f06b25c-799e-40f1-89db-999c9cc84317","4648","0"
+"2024-11-02T11:10:34Z","2024-11-02T13:10:34Z","T1187","2","WinPwn - PowerSharpPack - Retrieving NTLM Hashes without Touching LSASS","Server002","System.Object[]","server002\admin_test","7f06b25c-799e-40f1-89db-999c9cc84317","6876","0"

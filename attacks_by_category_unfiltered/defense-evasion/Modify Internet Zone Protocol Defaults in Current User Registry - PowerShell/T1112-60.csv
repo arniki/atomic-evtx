@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T17:40:31Z","2024-10-24T20:40:31Z","T1112","60","Modify Internet Zone Protocol Defaults in Current User Registry - PowerShell","Server002","System.Object[]","server002\admin_test","b1a4d687-ba52-4057-81ab-757c3dc0d3b5","4748","0"

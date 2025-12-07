@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T12:07:34Z","2024-10-25T15:07:34Z","T1134.004","4","Parent PID Spoofing - Spawn from svchost.exe","Server002","System.Object[]","server002\admin_test","e9f2b777-3123-430b-805d-5cedc66ab591","1308","0"

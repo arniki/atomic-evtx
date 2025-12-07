@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T18:37:47Z","2024-10-22T21:37:47Z","T1055.012","3","Process Hollowing in Go using CreateProcessW WinAPI","Server002","System.Object[]","server002\admin_test","c8f98fe1-c89b-4c49-a7e3-d60ee4bc2f5a","5100","0"

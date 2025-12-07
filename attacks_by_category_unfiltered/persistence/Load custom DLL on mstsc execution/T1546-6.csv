@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T13:19:44Z","2024-10-27T15:19:44Z","T1546","6","Load custom DLL on mstsc execution","Server002","System.Object[]","server002\admin_test","2db7852e-5a32-4ec7-937f-f4e027881700","3632","0"

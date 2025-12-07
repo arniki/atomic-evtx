@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T18:46:12Z","2024-10-23T21:46:12Z","T1082","32","ESXi - Darkside system information discovery","Server002","System.Object[]","server002\admin_test","f89812e5-67d1-4f49-86fa-cbc6609ea86a","4180","1"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T17:31:46Z","2024-10-23T20:31:46Z","T1082","9","Windows MachineGUID Discovery","Server002","System.Object[]","server002\admin_test","224b4daf-db44-404e-b6b2-f4d1f0126ef8","5532","0"

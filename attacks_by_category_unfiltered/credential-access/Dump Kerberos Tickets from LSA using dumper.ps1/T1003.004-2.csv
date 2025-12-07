@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T20:39:54Z","2024-10-20T23:39:54Z","T1003.004","2","Dump Kerberos Tickets from LSA using dumper.ps1","Server002","System.Object[]","server002\admin_test","2dfa3bff-9a27-46db-ab75-7faefdaca732","5484","0"

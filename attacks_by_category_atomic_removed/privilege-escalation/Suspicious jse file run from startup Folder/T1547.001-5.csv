@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T15:26:53Z","2024-10-27T17:26:53Z","T1547.001","5","Suspicious jse file run from startup Folder","Server002","System.Object[]","server002\admin_test","dade9447-791e-4c8f-b04b-3a35855dfa06","3576","0"

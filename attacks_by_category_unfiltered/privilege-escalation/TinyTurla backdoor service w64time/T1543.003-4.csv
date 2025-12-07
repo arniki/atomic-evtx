@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T12:55:31Z","2024-10-27T14:55:31Z","T1543.003","4","TinyTurla backdoor service w64time","Server002","System.Object[]","server002\admin_test","ef0581fd-528e-4662-87bc-4c2affb86940","3128","0"

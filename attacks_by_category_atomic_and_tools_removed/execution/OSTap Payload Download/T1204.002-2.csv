@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T17:44:50Z","2024-10-25T20:44:50Z","T1204.002","2","OSTap Payload Download","Server002","System.Object[]","server002\admin_test","3f3af983-118a-4fa1-85d3-ba4daa739d80","1260","0"

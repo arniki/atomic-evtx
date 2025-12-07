@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T14:57:43Z","2024-10-23T17:57:43Z","T1070.005","5","Remove Administrative Shares","Server002","System.Object[]","server002\admin_test","4299eff5-90f1-4446-b2f3-7f4f5cfd5d62","6980","0"

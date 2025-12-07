@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T19:15:01Z","2024-10-22T22:15:01Z","T1057","3","Process Discovery - Get-Process","Server002","System.Object[]","server002\admin_test","3b3809b6-a54b-4f5b-8aff-cb51f2e97b34","560","0"

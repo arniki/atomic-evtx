@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T15:32:26Z","2024-10-22T18:32:26Z","T1048","3","DNSExfiltration (doh)","Server002","System.Object[]","server002\admin_test","c943d285-ada3-45ca-b3aa-7cd6500c6a48","640","0"

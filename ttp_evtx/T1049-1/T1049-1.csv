@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T15:57:59Z","2024-10-22T18:57:59Z","T1049","1","System Network Connections Discovery","Server002","System.Object[]","server002\admin_test","0940a971-809a-48f1-9c4d-b1d785e96ee5","1648","0"

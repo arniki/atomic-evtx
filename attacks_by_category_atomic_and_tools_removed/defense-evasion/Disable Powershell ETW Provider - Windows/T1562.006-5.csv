@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T12:10:01Z","2024-10-28T14:10:01Z","T1562.006","5","Disable Powershell ETW Provider - Windows","Server002","System.Object[]","server002\admin_test","6f118276-121d-4c09-bb58-a8fb4a72ee84","7148","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T20:01:20Z","2024-10-20T23:01:20Z","T1003.002","8","Dumping of SAM, creds, and secrets(Reg Export)","Server002","System.Object[]","server002\admin_test","21df41be-cdd8-4695-a650-c3981113aa3c","5016","1"

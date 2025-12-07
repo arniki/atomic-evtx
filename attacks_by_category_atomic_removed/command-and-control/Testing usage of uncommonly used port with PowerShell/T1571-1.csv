@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T15:07:31Z","2024-10-28T17:07:31Z","T1571","1","Testing usage of uncommonly used port with PowerShell","Server002","System.Object[]","server002\admin_test","21fe622f-8e53-4b31-ba83-6d333c2583f4","5072","0"

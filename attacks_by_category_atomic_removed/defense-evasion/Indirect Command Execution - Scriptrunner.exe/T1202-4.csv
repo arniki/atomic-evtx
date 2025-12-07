@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T17:37:50Z","2024-10-25T20:37:50Z","T1202","4","Indirect Command Execution - Scriptrunner.exe","Server002","System.Object[]","server002\admin_test","0fd14730-6226-4f5e-8d67-43c65f1be940","4140","0"

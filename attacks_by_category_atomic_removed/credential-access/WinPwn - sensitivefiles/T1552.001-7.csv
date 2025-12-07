@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T19:23:46Z","2024-10-27T21:23:46Z","T1552.001","7","WinPwn - sensitivefiles","Server002","System.Object[]","server002\admin_test","114dd4e3-8d1c-4ea7-bb8d-8d8f6aca21f0","2172","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T14:18:30Z","2024-10-22T17:18:30Z","T1041","2","Text Based Data Exfiltration using DNS subdomains","Server002","System.Object[]","server002\admin_test","c9207f3e-213d-4cc7-ad2a-7697a7237df9","5440","0"

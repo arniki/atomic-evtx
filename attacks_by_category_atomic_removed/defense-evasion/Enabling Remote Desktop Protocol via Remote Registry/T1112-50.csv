@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T17:06:38Z","2024-10-24T20:06:38Z","T1112","50","Enabling Remote Desktop Protocol via Remote Registry","Server002","System.Object[]","server002\admin_test","e3ad8e83-3089-49ff-817f-e52f8c948090","5104","0"

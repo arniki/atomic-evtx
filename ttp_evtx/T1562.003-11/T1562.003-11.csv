@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T11:24:43Z","2024-10-28T13:24:43Z","T1562.003","11","Disable Windows Command Line Auditing using reg.exe","Server002","System.Object[]","server002\admin_test","1329d5ab-e10e-4e5e-93d1-4d907eb656e5","5556","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T20:47:11Z","2024-10-27T22:47:11Z","T1553.004","6","Install root CA on Windows with certutil","Server002","System.Object[]","server002\admin_test","5fdb1a7a-a93c-4fbe-aa29-ddd9ef94ed1f","6904","0"

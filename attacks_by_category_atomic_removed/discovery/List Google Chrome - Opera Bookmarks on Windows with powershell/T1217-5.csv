@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T18:51:06Z","2024-10-25T21:51:06Z","T1217","5","List Google Chrome / Opera Bookmarks on Windows with powershell","Server002","System.Object[]","server002\admin_test","faab755e-4299-48ec-8202-fc7885eb6545","1680","0"

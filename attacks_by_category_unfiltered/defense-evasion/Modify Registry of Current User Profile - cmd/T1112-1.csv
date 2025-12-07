@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T14:15:31Z","2024-10-24T17:15:31Z","T1112","1","Modify Registry of Current User Profile - cmd","Server002","System.Object[]","server002\admin_test","1324796b-d0f6-455a-b4ae-21ffee6aa6b9","7120","0"

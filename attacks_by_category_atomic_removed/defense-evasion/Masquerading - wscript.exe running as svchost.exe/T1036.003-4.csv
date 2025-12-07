@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T13:07:17Z","2024-10-21T16:07:17Z","T1036.003","4","Masquerading - wscript.exe running as svchost.exe","Server002","System.Object[]","server002\admin_test","24136435-c91a-4ede-9da1-8b284a1c1a23","4188","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T13:56:56Z","2024-10-26T16:56:56Z","T1218.005","3","Mshta Executes Remote HTML Application (HTA)","Server002","System.Object[]","server002\admin_test","c4b97eeb-5249-4455-a607-59f95485cb45","4156","0"

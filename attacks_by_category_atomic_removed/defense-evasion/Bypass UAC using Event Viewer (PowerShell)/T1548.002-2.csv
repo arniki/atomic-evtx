@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T17:30:08Z","2024-10-27T19:30:08Z","T1548.002","2","Bypass UAC using Event Viewer (PowerShell)","Server002","System.Object[]","server002\admin_test","a6ce9acf-842a-4af6-8f79-539be7608e2b","3328","0"

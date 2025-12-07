@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T16:59:50Z","2024-10-24T19:59:50Z","T1112","48","Event Viewer Registry Modification - Redirection URL","Server002","System.Object[]","server002\admin_test","6174be7f-5153-4afd-92c5-e0c3b7cdb5ae","3468","0"

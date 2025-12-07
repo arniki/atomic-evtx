@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T17:34:25Z","2024-10-25T20:34:25Z","T1202","3","Indirect Command Execution - conhost.exe","Server002","System.Object[]","server002\admin_test","cf3391e0-b482-4b02-87fc-ca8362269b29","6836","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T11:51:54Z","2024-10-28T13:51:54Z","T1562.004","20","LockBit Black - Unusual Windows firewall registry modification -cmd","Server002","System.Object[]","server002\admin_test","a4651931-ebbb-4cde-9363-ddf3d66214cb","6832","0"

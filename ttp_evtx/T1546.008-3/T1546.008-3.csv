@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T13:54:20Z","2024-10-27T15:54:20Z","T1546.008","3","Create Symbolic Link From osk.exe to cmd.exe","Server002","System.Object[]","server002\admin_test","51ef369c-5e87-4f33-88cd-6d61be63edf2","6812","0"

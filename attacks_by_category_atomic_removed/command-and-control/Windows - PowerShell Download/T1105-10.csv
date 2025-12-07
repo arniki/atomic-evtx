@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T11:24:55Z","2024-10-24T14:24:55Z","T1105","10","Windows - PowerShell Download","Server002","System.Object[]","server002\admin_test","42dc4460-9aa6-45d3-b1a6-3955d34e1fe8","5348","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T20:55:13Z","2024-10-26T23:55:13Z","T1505.005","1","Simulate Patching termsrv.dll","Server002","System.Object[]","server002\admin_test","0b2eadeb-4a64-4449-9d43-3d999f4a317b","3560","0"

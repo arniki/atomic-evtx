@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T10:54:47Z","2024-10-21T13:54:47Z","T1021.001","2","Changing RDP Port to Non Standard Port via Powershell","Server002","System.Object[]","server002\admin_test","2f840dd4-8a2e-4f44-beb3-6b2399ea3771","5408","0"

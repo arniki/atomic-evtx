@@ -1,0 +1,3 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T12:03:20Z","2024-10-23T15:03:20Z","T1059.001","21","SOAPHound - Dump BloodHound Data","Server002","System.Object[]","server002\admin_test","6a5b2a50-d037-4879-bf01-43d4d6cbf73f","4936","0"
+"2024-11-02T10:34:15Z","2024-11-02T12:34:15Z","T1059.001","21","SOAPHound - Dump BloodHound Data","Server002","System.Object[]","server002\admin_test","6a5b2a50-d037-4879-bf01-43d4d6cbf73f","5704","0"

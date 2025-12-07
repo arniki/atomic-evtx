@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T22:56:11Z","2024-10-28T00:56:11Z","T1558.003","2","Rubeus kerberoast","Server002","System.Object[]","server002\admin_test","14625569-6def-4497-99ac-8e7817105b55","4876","0"

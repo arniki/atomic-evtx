@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T17:24:16Z","2024-10-20T20:24:16Z","T1003","7","Send NTLM Hash with RPC Test Connection","Server002","System.Object[]","server002\admin_test","0b207037-813c-4444-ac3f-b597cf280a67","2532","0"

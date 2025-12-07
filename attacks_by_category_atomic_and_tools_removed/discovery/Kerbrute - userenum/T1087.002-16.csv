@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T21:41:17Z","2024-10-24T00:41:17Z","T1087.002","16","Kerbrute - userenum","Server002","System.Object[]","server002\admin_test","f450461c-18d1-4452-9f0d-2c42c3f08624","3192","0"

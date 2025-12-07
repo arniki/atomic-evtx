@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T14:29:09Z","2024-10-22T17:29:09Z","T1046","4","Port Scan using python","Server002","System.Object[]","server002\admin_test","6ca45b04-9f15-4424-b9d3-84a217285a5c","6116","0"

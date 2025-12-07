@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T17:43:53Z","2024-10-27T19:43:53Z","T1548.002","6","Bypass UAC by Mocking Trusted Directories","Server002","System.Object[]","server002\admin_test","f7a35090-6f7f-4f64-bb47-d657bf5b10c1","5656","0"

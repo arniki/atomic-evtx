@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T20:23:15Z","2024-10-24T23:23:15Z","T1112","85","Abusing Windows TelemetryController Registry Key for Persistence","Server002","System.Object[]","server002\admin_test","4469192c-2d2d-4a3a-9758-1f31d937a92b","5504","0"

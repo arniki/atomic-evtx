@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T15:46:10Z","2024-10-28T17:46:10Z","T1574.009","1","Execution of program.exe as service with unquoted service path","Server002","System.Object[]","server002\admin_test","2770dea7-c50f-457b-84c4-c40a47460d9f","5452","2"

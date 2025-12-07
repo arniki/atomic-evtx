@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T11:10:31Z","2024-10-28T13:10:31Z","T1562.002","4","Impair Windows Audit Log Policy","Server002","System.Object[]","server002\admin_test","5102a3a7-e2d7-4129-9e45-f483f2e0eea8","5504","0"

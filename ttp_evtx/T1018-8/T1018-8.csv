@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T09:35:04Z","2024-10-21T12:35:04Z","T1018","8","Remote System Discovery - nslookup","Server002","System.Object[]","server002\admin_test","baa01aaa-5e13-45ec-8a0d-e46c93c9760f","5156","0"

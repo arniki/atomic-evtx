@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T18:31:41Z","2024-10-27T20:31:41Z","T1548.002","19","WinPwn - UAC Bypass ccmstp technique","Server002","System.Object[]","server002\admin_test","f3c145f9-3c8d-422c-bd99-296a17a8f567","4416","0"

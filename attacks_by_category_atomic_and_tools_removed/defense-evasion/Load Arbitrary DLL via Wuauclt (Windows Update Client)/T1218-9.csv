@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T21:38:39Z","2024-10-26T00:38:39Z","T1218","9","Load Arbitrary DLL via Wuauclt (Windows Update Client)","Server002","System.Object[]","server002\admin_test","49fbd548-49e9-4bb7-94a6-3769613912b8","2512","-2147024770"

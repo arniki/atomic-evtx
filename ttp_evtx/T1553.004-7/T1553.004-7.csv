@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T20:50:37Z","2024-10-27T22:50:37Z","T1553.004","7","Add Root Certificate to CurrentUser Certificate Store","Server002","System.Object[]","server002\admin_test","ca20a3f1-42b5-4e21-ad3f-1049199ec2e0","5028","0"

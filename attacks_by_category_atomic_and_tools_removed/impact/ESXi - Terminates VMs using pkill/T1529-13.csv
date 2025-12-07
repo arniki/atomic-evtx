@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T12:00:40Z","2024-10-27T14:00:40Z","T1529","13","ESXi - Terminates VMs using pkill","Server002","System.Object[]","server002\admin_test","987c9b4d-a637-42db-b1cb-e9e242c3991b","6304","1"

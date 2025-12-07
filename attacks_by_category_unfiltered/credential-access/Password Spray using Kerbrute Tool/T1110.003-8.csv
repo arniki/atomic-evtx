@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T14:07:42Z","2024-10-24T17:07:42Z","T1110.003","8","Password Spray using Kerbrute Tool","Server002","System.Object[]","server002\admin_test","c6f25ec3-6475-47a9-b75d-09ac593c5ecb","7160","0"

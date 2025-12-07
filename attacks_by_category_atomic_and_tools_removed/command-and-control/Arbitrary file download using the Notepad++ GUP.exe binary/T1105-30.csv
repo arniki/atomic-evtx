@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T12:32:08Z","2024-10-24T15:32:08Z","T1105","30","Arbitrary file download using the Notepad++ GUP.exe binary","Server002","System.Object[]","server002\admin_test","66ee226e-64cb-4dae-80e3-5bf5763e4a51","6772","-1073741515"

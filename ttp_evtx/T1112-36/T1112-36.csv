@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T16:19:04Z","2024-10-24T19:19:04Z","T1112","36","Disable Windows Toast Notifications","Server002","System.Object[]","server002\admin_test","003f466a-6010-4b15-803a-cbb478a314d7","5436","0"

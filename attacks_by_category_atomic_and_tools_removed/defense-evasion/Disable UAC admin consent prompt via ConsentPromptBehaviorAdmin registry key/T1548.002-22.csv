@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T18:41:59Z","2024-10-27T20:41:59Z","T1548.002","22","Disable UAC admin consent prompt via ConsentPromptBehaviorAdmin registry key","Server002","System.Object[]","server002\admin_test","251c5936-569f-42f4-9ac2-87a173b9e9b8","3480","0"

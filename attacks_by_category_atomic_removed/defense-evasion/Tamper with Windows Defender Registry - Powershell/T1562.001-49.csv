@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T10:14:31Z","2024-10-28T12:14:31Z","T1562.001","49","Tamper with Windows Defender Registry - Powershell","Server002","System.Object[]","server002\admin_test","a72cfef8-d252-48b3-b292-635d332625c3","4176","0"

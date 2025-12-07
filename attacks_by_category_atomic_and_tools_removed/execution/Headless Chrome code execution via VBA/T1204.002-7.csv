@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T18:09:56Z","2024-10-25T21:09:56Z","T1204.002","7","Headless Chrome code execution via VBA","Server002","System.Object[]","server002\admin_test","a19ee671-ed98-4e9d-b19c-d1954a51585a","2084","0"

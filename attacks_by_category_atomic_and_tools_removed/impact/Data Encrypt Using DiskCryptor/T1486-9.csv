@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T19:33:50Z","2024-10-26T22:33:50Z","T1486","9","Data Encrypt Using DiskCryptor","Server002","System.Object[]","server002\admin_test","44b68e11-9da2-4d45-a0d9-893dabd60f30","3000","1"

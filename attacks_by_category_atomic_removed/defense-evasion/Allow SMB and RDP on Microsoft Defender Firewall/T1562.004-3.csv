@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T11:38:12Z","2024-10-28T13:38:12Z","T1562.004","3","Allow SMB and RDP on Microsoft Defender Firewall","Server002","System.Object[]","server002\admin_test","d9841bf8-f161-4c73-81e9-fd773a5ff8c1","5600","0"

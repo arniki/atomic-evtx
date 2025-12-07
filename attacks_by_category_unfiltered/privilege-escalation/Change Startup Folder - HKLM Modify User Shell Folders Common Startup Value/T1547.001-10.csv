@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T15:44:12Z","2024-10-27T17:44:12Z","T1547.001","10","Change Startup Folder - HKLM Modify User Shell Folders Common Startup Value","Server002","System.Object[]","server002\admin_test","acfef903-7662-447e-a391-9c91c2f00f7b","5012","0"

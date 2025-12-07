@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T15:29:15Z","2024-10-23T18:29:15Z","T1071.001","1","Malicious User Agents - Powershell","Server002","System.Object[]","server002\admin_test","81c13829-f6c9-45b8-85a6-053366d55297","2476","0"

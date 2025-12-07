@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T13:55:17Z","2024-10-23T16:55:17Z","T1069.002","14","Active Directory Enumeration with LDIFDE","Server002","System.Object[]","server002\admin_test","22cf8cb9-adb1-4e8c-80ca-7c723dfc8784","6712","1"

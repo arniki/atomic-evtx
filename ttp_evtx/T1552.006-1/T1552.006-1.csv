@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T20:30:41Z","2024-10-27T22:30:41Z","T1552.006","1","GPP Passwords (findstr)","Server002","System.Object[]","server002\admin_test","870fe8fb-5e23-4f5f-b89d-dd7fe26f3b5f","5556","1"

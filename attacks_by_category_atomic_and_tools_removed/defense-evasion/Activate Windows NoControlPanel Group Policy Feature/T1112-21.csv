@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T15:24:12Z","2024-10-24T18:24:12Z","T1112","21","Activate Windows NoControlPanel Group Policy Feature","Server002","System.Object[]","server002\admin_test","a450e469-ba54-4de1-9deb-9023a6111690","5024","0"

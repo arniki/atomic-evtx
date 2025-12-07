@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T16:34:57Z","2024-10-26T19:34:57Z","T1218.011","11","Rundll32 with Ordinal Value","Server002","System.Object[]","server002\admin_test","9fd5a74b-ba89-482a-8a3e-a5feaa3697b0",,

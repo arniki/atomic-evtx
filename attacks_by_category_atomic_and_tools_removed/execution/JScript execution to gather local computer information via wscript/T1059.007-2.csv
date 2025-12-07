@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T12:38:20Z","2024-10-23T15:38:20Z","T1059.007","2","JScript execution to gather local computer information via wscript","Server002","System.Object[]","server002\admin_test","0709945e-4fec-4c49-9faf-c3c292a74484",,

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T18:47:20Z","2024-10-26T21:47:20Z","T1482","5","Adfind - Enumerate Active Directory Trusts","Server002","System.Object[]","server002\admin_test","15fe436d-e771-4ff3-b655-2dca9ba52834","5492","1"

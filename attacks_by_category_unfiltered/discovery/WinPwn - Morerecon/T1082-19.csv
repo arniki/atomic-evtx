@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T17:59:38Z","2024-10-23T20:59:38Z","T1082","19","WinPwn - Morerecon","Server002","System.Object[]","server002\admin_test","3278b2f6-f733-4875-9ef4-bfed34244f0a","6440","0"

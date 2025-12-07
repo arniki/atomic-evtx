@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T13:30:33Z","2024-10-21T16:30:33Z","T1036.004","1","Creating W32Time similar named service using schtasks","Server002","System.Object[]","server002\admin_test","f9f2fe59-96f7-4a7d-ba9f-a9783200d4c9","5744","0"

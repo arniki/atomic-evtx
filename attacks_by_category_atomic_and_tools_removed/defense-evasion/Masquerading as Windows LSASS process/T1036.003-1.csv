@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T12:58:13Z","2024-10-21T15:58:13Z","T1036.003","1","Masquerading as Windows LSASS process","Server002","System.Object[]","server002\admin_test","5ba5a3d1-cf3c-4499-968a-a93155d1f717",,

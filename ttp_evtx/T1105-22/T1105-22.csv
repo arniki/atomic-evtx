@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T12:02:50Z","2024-10-24T15:02:50Z","T1105","22","Printer Migration Command-Line Tool UNC share folder into a zip file","Server002","System.Object[]","server002\admin_test","49845fc1-7961-4590-a0f0-3dbcf065ae7e","5760","1"

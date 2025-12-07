@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T21:36:45Z","2024-10-27T00:36:45Z","T1518.001","9","Security Software Discovery - Windows Defender Enumeration","Server002","System.Object[]","server002\admin_test","d3415a0e-66ef-429b-acf4-a768876954f6","2252","1"

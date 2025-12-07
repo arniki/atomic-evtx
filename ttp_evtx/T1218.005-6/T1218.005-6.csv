@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T14:13:47Z","2024-10-26T17:13:47Z","T1218.005","6","Invoke HTML Application - Direct download from URI","Server002","System.Object[]","server002\admin_test","39ceed55-f653-48ac-bd19-aceceaf525db","4644","0"

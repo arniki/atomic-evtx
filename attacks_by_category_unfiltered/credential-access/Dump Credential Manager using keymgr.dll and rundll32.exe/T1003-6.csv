@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T17:21:13Z","2024-10-20T20:21:13Z","T1003","6","Dump Credential Manager using keymgr.dll and rundll32.exe","Server002","System.Object[]","server002\admin_test","84113186-ed3c-4d0d-8a3c-8980c86c1f4a","1332","0"

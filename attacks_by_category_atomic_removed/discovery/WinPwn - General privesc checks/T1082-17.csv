@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T17:52:41Z","2024-10-23T20:52:41Z","T1082","17","WinPwn - General privesc checks","Server002","System.Object[]","server002\admin_test","5b6f39a2-6ec7-4783-a5fd-2c54a55409ed","5140","0"

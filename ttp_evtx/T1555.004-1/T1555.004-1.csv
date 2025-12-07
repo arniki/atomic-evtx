@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T22:27:51Z","2024-10-28T00:27:51Z","T1555.004","1","Access Saved Credentials via VaultCmd","Server002","System.Object[]","server002\admin_test","9c2dd36d-5c8b-4b29-8d72-a11b0d5d7439","2040","0"

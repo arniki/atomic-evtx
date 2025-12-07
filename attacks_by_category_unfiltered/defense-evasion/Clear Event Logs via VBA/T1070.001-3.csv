@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T14:12:48Z","2024-10-23T17:12:48Z","T1070.001","3","Clear Event Logs via VBA","Server002","System.Object[]","server002\admin_test","1b682d84-f075-4f93-9a89-8a8de19ffd6e","2236","0"

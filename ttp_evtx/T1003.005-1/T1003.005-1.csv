@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T20:43:24Z","2024-10-20T23:43:24Z","T1003.005","1","Cached Credential Dump via Cmdkey","Server002","System.Object[]","server002\admin_test","56506854-89d6-46a3-9804-b7fde90791f9","5216","0"

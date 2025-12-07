@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T13:10:50Z","2024-10-21T16:10:50Z","T1036.003","5","Masquerading - powershell.exe running as taskhostw.exe","Server002","System.Object[]","server002\admin_test","ac9d0fc3-8aa8-4ab5-b11f-682cd63b40aa",,

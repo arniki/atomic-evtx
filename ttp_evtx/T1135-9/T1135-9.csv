@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T12:38:29Z","2024-10-25T15:38:29Z","T1135","9","WinPwn - shareenumeration","Server002","System.Object[]","server002\admin_test","987901d1-5b87-4558-a6d9-cffcabc638b8","3648","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T15:10:05Z","2024-10-24T18:10:05Z","T1112","17","Disable Windows Lock Workstation Feature","Server002","System.Object[]","server002\admin_test","3dacb0d2-46ee-4c27-ac1b-f9886bf91a56","4056","0"

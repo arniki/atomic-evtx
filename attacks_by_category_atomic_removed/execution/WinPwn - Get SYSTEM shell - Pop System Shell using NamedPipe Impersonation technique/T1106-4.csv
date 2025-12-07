@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T13:08:55Z","2024-10-24T16:08:55Z","T1106","4","WinPwn - Get SYSTEM shell - Pop System Shell using NamedPipe Impersonation technique","Server002","System.Object[]","server002\admin_test","e1f93a06-1649-4f07-89a8-f57279a7d60e","2548","0"

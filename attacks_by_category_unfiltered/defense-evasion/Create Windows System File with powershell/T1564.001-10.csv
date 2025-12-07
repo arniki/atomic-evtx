@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T13:25:44Z","2024-10-28T15:25:44Z","T1564.001","10","Create Windows System File with powershell","Server002","System.Object[]","server002\admin_test","d380c318-0b34-45cb-9dad-828c11891e43","4988","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T18:31:47Z","2024-10-24T21:31:47Z","T1112","75","Enforce Smart Card Authentication Through Registry","Server002","System.Object[]","server002\admin_test","4c4bf587-fe7f-448f-ba8d-1ecec9db88be","4880","0"

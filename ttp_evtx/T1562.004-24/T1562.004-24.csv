@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T12:05:56Z","2024-10-28T14:05:56Z","T1562.004","24","Set a firewall rule using New-NetFirewallRule","Server002","System.Object[]","server002\admin_test","94be7646-25f6-467e-af23-585fb13000c8","4156","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T08:26:06Z","2024-10-28T10:26:06Z","T1562.001","17","Tamper with Windows Defender Command Prompt","Server002","System.Object[]","server002\admin_test","aa875ed4-8935-47e2-b2c5-6ec00ab220d2","3108","0"

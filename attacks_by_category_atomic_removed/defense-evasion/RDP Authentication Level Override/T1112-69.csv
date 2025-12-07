@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T18:11:35Z","2024-10-24T21:11:35Z","T1112","69","RDP Authentication Level Override","Server002","System.Object[]","server002\admin_test","7e7b62e9-5f83-477d-8935-48600f38a3c6","2668","0"

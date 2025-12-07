@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T16:46:01Z","2024-10-22T19:46:01Z","T1053.005","4","Powershell Cmdlet Scheduled Task","Server002","System.Object[]","server002\admin_test","af9fd58f-c4ac-4bf2-a9ba-224b71ff25fd","4984","0"

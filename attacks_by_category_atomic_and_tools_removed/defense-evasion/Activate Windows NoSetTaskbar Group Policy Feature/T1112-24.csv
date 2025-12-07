@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T15:34:25Z","2024-10-24T18:34:25Z","T1112","24","Activate Windows NoSetTaskbar Group Policy Feature","Server002","System.Object[]","server002\admin_test","d29b7faf-7355-4036-9ed3-719bd17951ed","4328","0"

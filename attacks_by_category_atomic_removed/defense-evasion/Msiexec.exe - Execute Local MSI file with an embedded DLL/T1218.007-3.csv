@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T14:45:19Z","2024-10-26T17:45:19Z","T1218.007","3","Msiexec.exe - Execute Local MSI file with an embedded DLL","Server002","System.Object[]","server002\admin_test","628fa796-76c5-44c3-93aa-b9d8214fd568","2688","0"

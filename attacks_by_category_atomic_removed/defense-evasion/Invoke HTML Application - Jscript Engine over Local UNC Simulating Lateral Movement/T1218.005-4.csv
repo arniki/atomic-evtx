@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T14:02:45Z","2024-10-26T17:02:45Z","T1218.005","4","Invoke HTML Application - Jscript Engine over Local UNC Simulating Lateral Movement","Server002","System.Object[]","server002\admin_test","007e5672-2088-4853-a562-7490ddc19447","3560","0"

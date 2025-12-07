@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T13:34:01Z","2024-10-21T16:34:01Z","T1036.004","2","Creating W32Time similar named service using sc","Server002","System.Object[]","server002\admin_test","b721c6ef-472c-4263-a0d9-37f1f4ecff66","5512","0"

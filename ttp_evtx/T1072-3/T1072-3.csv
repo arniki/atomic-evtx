@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T16:02:06Z","2024-10-23T19:02:06Z","T1072","3","Deploy 7-Zip Using Chocolatey","Server002","System.Object[]","server002\admin_test","2169e8b0-2ee7-44cb-8a6e-d816a5db7d8a","6188","0"

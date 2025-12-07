@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T17:16:52Z","2024-10-24T20:16:52Z","T1112","53","Disable Windows Auto Reboot for current logon user","Server002","System.Object[]","server002\admin_test","396f997b-c5f8-4a96-bb2c-3c8795cf459d","4852","0"

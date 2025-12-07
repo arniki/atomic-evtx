@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T19:01:39Z","2024-10-26T22:01:39Z","T1484.001","1","LockBit Black - Modify Group policy settings -cmd","Server002","System.Object[]","server002\admin_test","9ab80952-74ee-43da-a98c-1e740a985f28","2228","0"

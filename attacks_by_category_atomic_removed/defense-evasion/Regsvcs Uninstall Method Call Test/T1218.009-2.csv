@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T15:30:31Z","2024-10-26T18:30:31Z","T1218.009","2","Regsvcs Uninstall Method Call Test","Server002","System.Object[]","server002\admin_test","fd3c1c6a-02d2-4b72-82d9-71c527abb126","3716","0"

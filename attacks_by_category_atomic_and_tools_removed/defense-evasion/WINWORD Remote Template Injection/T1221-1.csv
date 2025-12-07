@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T18:15:37Z","2024-10-26T21:15:37Z","T1221","1","WINWORD Remote Template Injection","Server002","System.Object[]","server002\admin_test","1489e08a-82c7-44ee-b769-51b72d03521d","6292","0"

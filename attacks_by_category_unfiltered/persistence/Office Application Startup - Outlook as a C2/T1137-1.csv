@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T15:58:33Z","2024-10-25T18:58:33Z","T1137","1","Office Application Startup - Outlook as a C2","Server002","System.Object[]","server002\admin_test","bfe6ac15-c50b-4c4f-a186-0fc6b8ba936c","3084","0"

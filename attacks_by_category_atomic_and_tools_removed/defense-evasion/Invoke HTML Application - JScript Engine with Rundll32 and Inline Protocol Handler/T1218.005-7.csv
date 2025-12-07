@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T14:19:17Z","2024-10-26T17:19:17Z","T1218.005","7","Invoke HTML Application - JScript Engine with Rundll32 and Inline Protocol Handler","Server002","System.Object[]","server002\admin_test","e7e3a525-7612-4d68-a5d3-c4649181b8af","5384","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T12:19:18Z","2024-10-24T15:19:18Z","T1105","26","Download a file using wscript","Server002","System.Object[]","server002\admin_test","97116a3f-efac-4b26-8336-b9cb18c45188","1540","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T13:22:16Z","2024-10-28T15:22:16Z","T1564.001","9","Create Windows Hidden File with powershell","Server002","System.Object[]","server002\admin_test","7f66d539-4fbe-4cfa-9a56-4a2bf660c58a","5612","0"

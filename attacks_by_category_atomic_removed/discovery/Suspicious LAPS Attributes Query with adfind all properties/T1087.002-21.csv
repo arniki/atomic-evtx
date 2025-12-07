@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T21:58:41Z","2024-10-24T00:58:41Z","T1087.002","21","Suspicious LAPS Attributes Query with adfind all properties","Server002","System.Object[]","server002\admin_test","abf00f6c-9983-4d9a-afbc-6b1c6c6448e1","1596","0"

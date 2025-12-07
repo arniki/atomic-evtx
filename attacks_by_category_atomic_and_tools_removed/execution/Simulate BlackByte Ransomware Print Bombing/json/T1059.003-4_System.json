@@ -1,0 +1,3 @@
+﻿
+
+{"Event":{"System":{"Provider":{"@Name":"Win32k"},"EventID":{"@Qualifiers":"32768","#text":"243"},"Version":"0","Level":"3","Task":"0","Opcode":"0","Keywords":"0x80000000000000","TimeCreated":{"@SystemTime":"2024-10-23 12:20:49.5639444"},"EventRecordID":"3572","Correlation":null,"Execution":{"@ProcessID":"4","@ThreadID":"276"},"Channel":"System","Computer":"Server002","Security":null},"EventData":{"Data":"","Binary":"00-00-00-00-01-00-00-00-00-00-00-00-F3-00-00-80-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00"}}}

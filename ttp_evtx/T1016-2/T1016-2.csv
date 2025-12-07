@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T08:38:50Z","2024-10-21T11:38:50Z","T1016","2","List Windows Firewall Rules","Server002","System.Object[]","server002\admin_test","038263cb-00f4-4b0a-98ae-0696c67e1752","1956","0"

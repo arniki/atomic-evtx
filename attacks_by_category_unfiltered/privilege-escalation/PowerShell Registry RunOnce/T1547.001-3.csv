@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T15:20:00Z","2024-10-27T17:20:00Z","T1547.001","3","PowerShell Registry RunOnce","Server002","System.Object[]","server002\admin_test","eb44f842-0457-4ddc-9b92-c4caa144ac42","7008","0"

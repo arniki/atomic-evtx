@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T11:30:10Z","2024-10-25T14:30:10Z","T1134.001","3","Launch NSudo Executable","Server002","System.Object[]","server002\admin_test","7be1bc0f-d8e5-4345-9333-f5f67d742cb9","4524","0"

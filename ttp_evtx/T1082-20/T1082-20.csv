@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T18:03:06Z","2024-10-23T21:03:06Z","T1082","20","WinPwn - RBCD-Check","Server002","System.Object[]","server002\admin_test","dec6a0d8-bcaf-4c22-9d48-2aee59fb692b","6576","0"

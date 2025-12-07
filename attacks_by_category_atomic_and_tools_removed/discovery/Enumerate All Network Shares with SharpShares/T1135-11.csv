@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T12:47:40Z","2024-10-25T15:47:40Z","T1135","11","Enumerate All Network Shares with SharpShares","Server002","System.Object[]","server002\admin_test","d1fa2a69-b0a2-4e8a-9112-529b00c19a41","6868","0"

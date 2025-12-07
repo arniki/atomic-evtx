@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T13:27:09Z","2024-10-21T16:27:09Z","T1036.003","9","File Extension Masquerading","Server002","System.Object[]","server002\admin_test","c7fa0c3b-b57f-4cba-9118-863bf4e653fc","4500","0"

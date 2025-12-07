@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T16:30:48Z","2024-10-27T18:30:48Z","T1547.004","1","Winlogon Shell Key Persistence - PowerShell","Server002","System.Object[]","server002\admin_test","bf9f9d65-ee4d-4c3e-a843-777d04f19c38","7016","0"

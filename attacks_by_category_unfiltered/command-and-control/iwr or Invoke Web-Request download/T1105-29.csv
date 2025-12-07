@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T12:28:08Z","2024-10-24T15:28:08Z","T1105","29","iwr or Invoke Web-Request download","Server002","System.Object[]","server002\admin_test","c01cad7f-7a4c-49df-985e-b190dcf6a279","5540","0"

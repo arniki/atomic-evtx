@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T07:53:30Z","2024-10-28T09:53:30Z","T1560.001","3","Compress Data and lock with password for Exfiltration with winzip","Server002","System.Object[]","server002\admin_test","01df0353-d531-408d-a0c5-3161bf822134","4016","0"

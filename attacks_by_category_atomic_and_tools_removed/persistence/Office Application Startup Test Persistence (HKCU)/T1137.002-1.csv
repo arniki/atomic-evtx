@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T16:05:57Z","2024-10-25T19:05:57Z","T1137.002","1","Office Application Startup Test Persistence (HKCU)","Server002","System.Object[]","server002\admin_test","c3e35b58-fe1c-480b-b540-7600fb612563","1108","0"

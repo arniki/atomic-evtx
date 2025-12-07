@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T14:54:24Z","2024-10-23T17:54:24Z","T1070.005","4","Disable Administrative Share Creation at Startup","Server002","System.Object[]","server002\admin_test","99c657aa-ebeb-4179-a665-69288fdd12b8","2160","0"

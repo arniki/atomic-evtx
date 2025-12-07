@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T13:07:20Z","2024-10-25T16:07:20Z","T1136.001","9","Create a new Windows admin user via .NET","Server002","System.Object[]","server002\admin_test","2170d9b5-bacd-4819-a952-da76dae0815f","5792","0"

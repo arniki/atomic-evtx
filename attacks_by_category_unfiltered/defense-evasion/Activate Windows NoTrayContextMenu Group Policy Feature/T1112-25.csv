@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T15:37:51Z","2024-10-24T18:37:51Z","T1112","25","Activate Windows NoTrayContextMenu Group Policy Feature","Server002","System.Object[]","server002\admin_test","4d72d4b1-fa7b-4374-b423-0fe326da49d2","4592","0"

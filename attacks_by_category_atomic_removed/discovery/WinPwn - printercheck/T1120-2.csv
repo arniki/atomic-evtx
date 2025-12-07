@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T10:22:21Z","2024-10-25T13:22:21Z","T1120","2","WinPwn - printercheck","Server002","System.Object[]","server002\admin_test","cb6e76ca-861e-4a7f-be08-564caa3e6f75","5036","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T16:20:58Z","2024-10-28T18:20:58Z","T1614.001","2","Discover System Language with chcp","Server002","System.Object[]","server002\admin_test","d91473ca-944e-477a-b484-0e80217cd789","6776","0"

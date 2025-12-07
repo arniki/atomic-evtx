@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T14:30:06Z","2024-10-23T17:30:06Z","T1070.004","6","Delete a single file - Windows PowerShell","Server002","System.Object[]","server002\admin_test","9dee89bd-9a98-4c4f-9e2d-4256690b0e72","4356","0"

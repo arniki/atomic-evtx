@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T11:54:18Z","2024-10-21T14:54:18Z","T1027","6","DLP Evasion via Sensitive Data in VBA Macro over HTTP","Server002","System.Object[]","server002\admin_test","e2d85e66-cb66-4ed7-93b1-833fc56c9319","5848","0"

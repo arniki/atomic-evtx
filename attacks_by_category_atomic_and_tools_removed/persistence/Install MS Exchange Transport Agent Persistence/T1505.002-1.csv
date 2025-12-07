@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T20:41:19Z","2024-10-26T23:41:19Z","T1505.002","1","Install MS Exchange Transport Agent Persistence","Server002","System.Object[]","server002\admin_test","43e92449-ff60-46e9-83a3-1a38089df94d","1532","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T08:19:22Z","2024-10-28T10:19:22Z","T1562.001","15","Disable Arbitrary Security Windows Service","Server002","System.Object[]","server002\admin_test","a1230893-56ac-4c81-b644-2108e982f8f5","6492","1060"

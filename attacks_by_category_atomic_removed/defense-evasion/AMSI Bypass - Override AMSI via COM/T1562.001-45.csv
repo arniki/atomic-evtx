@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T10:07:48Z","2024-10-28T12:07:48Z","T1562.001","45","AMSI Bypass - Override AMSI via COM","Server002","System.Object[]","server002\admin_test","17538258-5699-4ff1-92d1-5ac9b0dc21f5","3812","0"

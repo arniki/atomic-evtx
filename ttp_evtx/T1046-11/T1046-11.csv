@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T14:51:50Z","2024-10-22T17:51:50Z","T1046","11","Remote Desktop Services Discovery via PowerShell","Server002","System.Object[]","server002\admin_test","9e55750e-4cbf-4013-9627-e9a045b541bf","5060","0"

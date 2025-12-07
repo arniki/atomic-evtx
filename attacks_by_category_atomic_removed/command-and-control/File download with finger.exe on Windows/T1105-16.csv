@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T11:41:49Z","2024-10-24T14:41:49Z","T1105","16","File download with finger.exe on Windows","Server002","System.Object[]","server002\admin_test","5f507e45-8411-4f99-84e7-e38530c45d01","3128","0"

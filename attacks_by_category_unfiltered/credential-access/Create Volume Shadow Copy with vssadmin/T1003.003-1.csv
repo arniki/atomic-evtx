@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T20:04:53Z","2024-10-20T23:04:53Z","T1003.003","1","Create Volume Shadow Copy with vssadmin","Server002","System.Object[]","server002\admin_test","dcebead7-6c28-4b4b-bf3c-79deb1b1fc7f","3532","2"

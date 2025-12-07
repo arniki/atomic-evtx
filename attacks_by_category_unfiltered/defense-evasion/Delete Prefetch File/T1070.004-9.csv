@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T14:37:22Z","2024-10-23T17:37:22Z","T1070.004","9","Delete Prefetch File","Server002","System.Object[]","server002\admin_test","36f96049-0ad7-4a5f-8418-460acaeb92fb","5564","0"

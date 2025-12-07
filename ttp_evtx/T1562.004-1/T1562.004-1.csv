@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T11:31:22Z","2024-10-28T13:31:22Z","T1562.004","1","Disable Microsoft Defender Firewall","Server002","System.Object[]","server002\admin_test","88d05800-a5e4-407e-9b53-ece4174f197f","5576","0"

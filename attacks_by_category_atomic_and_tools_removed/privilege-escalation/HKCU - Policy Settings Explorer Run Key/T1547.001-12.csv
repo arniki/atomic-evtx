@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T15:51:02Z","2024-10-27T17:51:02Z","T1547.001","12","HKCU - Policy Settings Explorer Run Key","Server002","System.Object[]","server002\admin_test","a70faea1-e206-4f6f-8d9a-67379be8f6f1","3400","0"

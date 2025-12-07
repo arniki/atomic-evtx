@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T16:46:15Z","2024-10-24T19:46:15Z","T1112","44","DisallowRun Execution Of Certain Applications","Server002","System.Object[]","server002\admin_test","71db768a-5a9c-4047-b5e7-59e01f188e84","3168","0"

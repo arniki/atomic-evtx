@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T19:54:59Z","2024-10-27T21:54:59Z","T1552.002","2","Enumeration for PuTTY Credentials in Registry","Server002","System.Object[]","server002\admin_test","af197fd7-e868-448e-9bd5-05d1bcd9d9e5","2596","1"

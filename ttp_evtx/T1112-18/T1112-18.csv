@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T15:13:47Z","2024-10-24T18:13:47Z","T1112","18","Activate Windows NoDesktop Group Policy Feature","Server002","System.Object[]","server002\admin_test","93386d41-525c-4a1b-8235-134a628dee17","5512","0"

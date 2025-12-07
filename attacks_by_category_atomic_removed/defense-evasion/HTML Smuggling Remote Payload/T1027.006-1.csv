@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T12:17:57Z","2024-10-21T15:17:57Z","T1027.006","1","HTML Smuggling Remote Payload","Server002","System.Object[]","server002\admin_test","30cbeda4-08d9-42f1-8685-197fad677734","3960","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T16:31:24Z","2024-10-26T19:31:24Z","T1218.011","10","Execution of non-dll using rundll32.exe","Server002","System.Object[]","server002\admin_test","ae3a8605-b26e-457c-b6b3-2702fd335bac","5708","0"

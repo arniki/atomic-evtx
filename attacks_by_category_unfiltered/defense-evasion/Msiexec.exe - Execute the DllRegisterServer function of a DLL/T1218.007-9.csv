@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T15:06:45Z","2024-10-26T18:06:45Z","T1218.007","9","Msiexec.exe - Execute the DllRegisterServer function of a DLL","Server002","System.Object[]","server002\admin_test","0106ffa5-fab6-4c7d-82e3-e6b8867d5e5d","7140","-2147024770"

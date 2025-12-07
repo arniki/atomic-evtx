@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T14:59:09Z","2024-10-22T17:59:09Z","T1047","2","WMI Reconnaissance Processes","Server002","System.Object[]","server002\admin_test","5750aa16-0e59-4410-8b9a-8a47ca2788e2","3728","0"

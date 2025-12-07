@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T20:23:48Z","2024-10-27T22:23:48Z","T1552.005","1","Azure - Search Azure AD User Attributes for Passwords","Server002","System.Object[]","server002\admin_test","ae9b2e3e-efa1-4483-86e2-fae529ab9fb6","1476","0"

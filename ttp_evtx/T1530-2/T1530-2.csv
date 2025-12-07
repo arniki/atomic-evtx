@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T12:13:19Z","2024-10-27T14:13:19Z","T1530","2","Azure - Scan for Anonymous Access to Azure Storage (Powershell)","Server002","System.Object[]","server002\admin_test","146af1f1-b74e-4aa7-9895-505eb559b4b0","2212","0"

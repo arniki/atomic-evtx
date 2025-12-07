@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T09:56:58Z","2024-10-28T11:56:58Z","T1562.001","37","WMIC Tamper with Windows Defender Evade Scanning Folder","Server002","System.Object[]","server002\admin_test","59d386fc-3a4b-41b8-850d-9e3eee24dfe4","1692","0"

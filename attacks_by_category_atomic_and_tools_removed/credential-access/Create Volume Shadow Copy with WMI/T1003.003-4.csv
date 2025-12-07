@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T20:15:08Z","2024-10-20T23:15:08Z","T1003.003","4","Create Volume Shadow Copy with WMI","Server002","System.Object[]","server002\admin_test","224f7de0-8f0a-4a94-b5d8-989b036c86da","2288","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T22:04:11Z","2024-10-28T00:04:11Z","T1555.003","12","WinPwn - Loot local Credentials - mimi-kittenz","Server002","System.Object[]","server002\admin_test","ec1d0b37-f659-4186-869f-31a554891611","5720","0"

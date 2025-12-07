@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T12:35:27Z","2024-10-21T15:35:27Z","T1033","4","User Discovery With Env Vars PowerShell Script","Server002","System.Object[]","server002\admin_test","dcb6cdee-1fb0-4087-8bf8-88cfd136ba51","2764","0"

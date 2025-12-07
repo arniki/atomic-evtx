@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T12:20:49Z","2024-10-23T15:20:49Z","T1059.003","4","Simulate BlackByte Ransomware Print Bombing","Server002","System.Object[]","server002\admin_test","6b2903ac-8f36-450d-9ad5-b220e8a2dcb9","5608","0"

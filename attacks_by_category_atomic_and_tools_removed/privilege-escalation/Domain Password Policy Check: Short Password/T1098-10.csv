@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T10:11:43Z","2024-10-24T13:11:43Z","T1098","10","Domain Password Policy Check: Short Password","Server002","System.Object[]","server002\admin_test","fc5f9414-bd67-4f5f-a08e-e5381e29cbd1","1176","0"

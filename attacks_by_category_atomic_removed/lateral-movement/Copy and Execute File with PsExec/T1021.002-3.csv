@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T11:12:48Z","2024-10-21T14:12:48Z","T1021.002","3","Copy and Execute File with PsExec","Server002","System.Object[]","server002\admin_test","0eb03d41-79e4-4393-8e57-6344856be1cf",,

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T09:29:31Z","2024-10-28T11:29:31Z","T1562.001","32","LockBit Black - Disable Privacy Settings Experience Using Registry -cmd","Server002","System.Object[]","server002\admin_test","d6d22332-d07d-498f-aea0-6139ecb7850e","3128","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T13:24:46Z","2024-10-24T16:24:46Z","T1110.001","3","Brute Force Credentials of single Azure AD user","Server002","System.Object[]","server002\admin_test","5a51ef57-299e-4d62-8e11-2d440df55e69","4364","0"

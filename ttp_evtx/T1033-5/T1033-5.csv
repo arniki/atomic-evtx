@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T12:38:49Z","2024-10-21T15:38:49Z","T1033","5","GetCurrent User with PowerShell Script","Server002","System.Object[]","server002\admin_test","1392bd0f-5d5a-429e-81d9-eb9d4d4d5b3b","2020","0"

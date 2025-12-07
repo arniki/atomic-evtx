@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T16:24:28Z","2024-10-28T18:24:28Z","T1614.001","7","Discover System Language with dism.exe","Server002","System.Object[]","server002\admin_test","69f625ba-938f-4900-bdff-82ada3df5d9c","6700","0"

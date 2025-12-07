@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T20:11:45Z","2024-10-20T23:11:45Z","T1003.003","3","Dump Active Directory Database with NTDSUtil","Server002","System.Object[]","server002\admin_test","2364e33d-ceab-4641-8468-bfb1d7cc2723","3388","1"

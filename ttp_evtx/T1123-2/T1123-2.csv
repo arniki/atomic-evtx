@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T10:32:41Z","2024-10-25T13:32:41Z","T1123","2","Registry artefact when application use microphone","Server002","System.Object[]","server002\admin_test","7a21cce2-6ada-4f7c-afd9-e1e9c481e44a","7048","0"

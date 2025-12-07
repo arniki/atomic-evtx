@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T13:41:04Z","2024-10-21T16:41:04Z","T1039","2","Copy a sensitive File over Administrative share with Powershell","Server002","System.Object[]","server002\admin_test","7762e120-5879-44ff-97f8-008b401b9a98","1372","0"

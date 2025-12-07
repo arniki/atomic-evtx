@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T20:37:50Z","2024-10-26T23:37:50Z","T1497.001","5","Detect Virtualization Environment via WMI Manufacturer/Model Listing (Windows)","Server002","System.Object[]","server002\admin_test","4a41089a-48e0-47aa-82cb-5b81a463bc78","6736","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T20:53:49Z","2024-10-23T23:53:49Z","T1087.002","3","Enumerate logged on users via CMD (Domain)","Server002","System.Object[]","server002\admin_test","161dcd85-d014-4f5e-900c-d3eaae82a0f7","4824","1"

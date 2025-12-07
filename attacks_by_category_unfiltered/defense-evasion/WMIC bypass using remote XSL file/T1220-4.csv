@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T18:12:13Z","2024-10-26T21:12:13Z","T1220","4","WMIC bypass using remote XSL file","Server002","System.Object[]","server002\admin_test","7f5be499-33be-4129-a560-66021f379b9b","4776","1"

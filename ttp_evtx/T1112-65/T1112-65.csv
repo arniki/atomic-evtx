@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T17:57:49Z","2024-10-24T20:57:49Z","T1112","65","Disable Remote Desktop Security Settings Through Registry","Server002","System.Object[]","server002\admin_test","4b81bcfa-fb0a-45e9-90c2-e3efe5160140","5884","0"

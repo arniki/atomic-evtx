@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T18:38:40Z","2024-10-25T21:38:40Z","T1216","1","SyncAppvPublishingServer Signed Script PowerShell Command Execution","Server002","System.Object[]","server002\admin_test","275d963d-3f36-476c-8bef-a2a3960ee6eb","6872","1"

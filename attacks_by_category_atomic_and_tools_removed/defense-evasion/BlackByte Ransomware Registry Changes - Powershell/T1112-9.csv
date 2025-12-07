@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T14:42:55Z","2024-10-24T17:42:55Z","T1112","9","BlackByte Ransomware Registry Changes - Powershell","Server002","System.Object[]","server002\admin_test","0b79c06f-c788-44a2-8630-d69051f1123d","5436","0"

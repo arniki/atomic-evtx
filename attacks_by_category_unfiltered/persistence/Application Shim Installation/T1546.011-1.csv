@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T14:12:01Z","2024-10-27T16:12:01Z","T1546.011","1","Application Shim Installation","Server002","System.Object[]","server002\admin_test","9ab27e22-ee62-4211-962b-d36d9a0e6a18","3868","0"

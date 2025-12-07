@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T18:55:53Z","2024-10-27T20:55:53Z","T1548.002","26","Disable ConsentPromptBehaviorAdmin via registry keys","Server002","System.Object[]","server002\admin_test","a768aaa2-2442-475c-8990-69cf33af0f4e","6856","0"

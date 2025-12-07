@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T14:33:51Z","2024-10-28T16:33:51Z","T1569.002","2","Use PsExec to execute a command on a remote host","Server002","System.Object[]","server002\admin_test","873106b7-cfed-454b-8680-fa9f6400431c","3420","1"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T18:22:26Z","2024-10-25T21:22:26Z","T1204.002","10","LNK Payload Download","Server002","System.Object[]","server002\admin_test","581d7521-9c4b-420e-9695-2aec5241167f","6996","0"

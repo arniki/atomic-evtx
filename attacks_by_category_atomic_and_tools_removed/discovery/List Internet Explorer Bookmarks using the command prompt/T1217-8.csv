@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T19:12:30Z","2024-10-25T22:12:30Z","T1217","8","List Internet Explorer Bookmarks using the command prompt","Server002","System.Object[]","server002\admin_test","727dbcdb-e495-4ab1-a6c4-80c7f77aef85","2240","0"

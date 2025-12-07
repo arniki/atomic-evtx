@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T13:28:22Z","2024-10-26T16:28:22Z","T1218.004","3","InstallUtil class constructor method call","Server002","System.Object[]","server002\admin_test","9b7a7cfc-dd2e-43f5-a885-c0a3c270dd93","5924","0"

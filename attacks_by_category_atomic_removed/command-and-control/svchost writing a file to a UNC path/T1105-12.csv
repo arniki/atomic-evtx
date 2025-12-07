@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T11:31:44Z","2024-10-24T14:31:44Z","T1105","12","svchost writing a file to a UNC path","Server002","System.Object[]","server002\admin_test","fa5a2759-41d7-4e13-a19c-e8f28a53566f","5600","0"

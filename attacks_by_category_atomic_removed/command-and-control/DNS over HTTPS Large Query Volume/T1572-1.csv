@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T15:11:26Z","2024-10-28T17:11:26Z","T1572","1","DNS over HTTPS Large Query Volume","Server002","System.Object[]","server002\admin_test","ae9ef4b0-d8c1-49d4-8758-06206f19af0a",,

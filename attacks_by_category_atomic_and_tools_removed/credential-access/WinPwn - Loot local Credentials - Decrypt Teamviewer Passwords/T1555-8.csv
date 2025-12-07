@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T21:22:03Z","2024-10-27T23:22:03Z","T1555","8","WinPwn - Loot local Credentials - Decrypt Teamviewer Passwords","Server002","System.Object[]","server002\admin_test","db965264-3117-4bad-b7b7-2523b7856b92","3716","0"

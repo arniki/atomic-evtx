@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T17:02:32Z","2024-10-20T20:02:32Z","T1001.002","2","Embedded Script in Image Execution via Extract-Invoke-PSImage","Server002","System.Object[]","server002\admin_test","04bb8e3d-1670-46ab-a3f1-5cee64da29b6","368","0"

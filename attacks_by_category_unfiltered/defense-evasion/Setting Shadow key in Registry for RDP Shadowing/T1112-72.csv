@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T18:21:38Z","2024-10-24T21:21:38Z","T1112","72","Setting Shadow key in Registry for RDP Shadowing","Server002","System.Object[]","server002\admin_test","ac494fe5-81a4-4897-af42-e774cf005ecb","5668","0"

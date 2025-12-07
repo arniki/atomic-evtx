@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-11-02T10:15:52Z","2024-11-02T12:15:52Z","T1046","7","WinPwn - bluekeep","Server002","System.Object[]","server002\admin_test","1cca5640-32a9-46e6-b8e0-fabbe2384a73","6572","0"

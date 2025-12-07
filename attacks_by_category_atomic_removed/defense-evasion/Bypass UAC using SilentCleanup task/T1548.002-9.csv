@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T17:54:13Z","2024-10-27T19:54:13Z","T1548.002","9","Bypass UAC using SilentCleanup task","Server002","System.Object[]","server002\admin_test","28104f8a-4ff1-4582-bcf6-699dce156608","7132","1"

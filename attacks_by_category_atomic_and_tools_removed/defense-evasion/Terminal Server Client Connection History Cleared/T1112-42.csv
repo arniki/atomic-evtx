@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T16:39:27Z","2024-10-24T19:39:27Z","T1112","42","Terminal Server Client Connection History Cleared","Server002","System.Object[]","server002\admin_test","3448824b-3c35-4a9e-a8f5-f887f68bea21","4872","0"

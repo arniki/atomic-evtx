@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T14:02:31Z","2024-10-23T17:02:31Z","T1070","2","Indicator Manipulation using FSUtil","Server002","System.Object[]","server002\admin_test","96e86706-6afd-45b6-95d6-108d23eaf2e9","5528","0"

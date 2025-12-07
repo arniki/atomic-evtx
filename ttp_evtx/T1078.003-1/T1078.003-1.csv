@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T16:19:22Z","2024-10-23T19:19:22Z","T1078.003","1","Create local account with admin privileges","Server002","System.Object[]","server002\admin_test","a524ce99-86de-4db6-b4f9-e08f35a47a15","5712","0"

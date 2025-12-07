@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T17:32:04Z","2024-10-22T20:32:04Z","T1055","6","Process Injection with Go using UuidFromStringA WinAPI","Server002","System.Object[]","server002\admin_test","2315ce15-38b6-46ac-a3eb-5e21abef2545","5664","0"

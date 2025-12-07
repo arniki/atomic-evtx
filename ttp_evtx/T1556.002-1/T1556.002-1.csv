@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T22:34:47Z","2024-10-28T00:34:47Z","T1556.002","1","Install and Register Password Filter DLL","Server002","System.Object[]","server002\admin_test","a7961770-beb5-4134-9674-83d7e1fa865c","1820","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T13:39:13Z","2024-10-26T16:39:13Z","T1218.004","6","InstallUtil Uninstall method call - '/installtype=notransaction /action=uninstall' variant","Server002","System.Object[]","server002\admin_test","06d9deba-f732-48a8-af8e-bdd6e4d98c1d","5048","0"

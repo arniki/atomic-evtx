@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T11:21:47Z","2024-10-21T14:21:47Z","T1021.003","1","PowerShell Lateral Movement using MMC20","Server002","System.Object[]","server002\admin_test","6dc74eb1-c9d6-4c53-b3b5-6f50ae339673","4752","0"

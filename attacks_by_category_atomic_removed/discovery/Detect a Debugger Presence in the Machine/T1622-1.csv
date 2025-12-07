@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T16:51:02Z","2024-10-28T18:51:02Z","T1622","1","Detect a Debugger Presence in the Machine","Server002","System.Object[]","server002\admin_test","58bd8c8d-3a1a-4467-a69c-439c75469b07","6016","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T16:49:33Z","2024-10-24T19:49:33Z","T1112","45","Enabling Restricted Admin Mode via Command_Prompt","Server002","System.Object[]","server002\admin_test","fe7974e5-5813-477b-a7bd-311d4f535e83","6876","0"

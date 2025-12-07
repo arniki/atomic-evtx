@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T18:35:04Z","2024-10-27T20:35:04Z","T1548.002","20","WinPwn - UAC Bypass DiskCleanup technique","Server002","System.Object[]","server002\admin_test","1ed67900-66cd-4b09-b546-2a0ef4431a0c","5356","0"

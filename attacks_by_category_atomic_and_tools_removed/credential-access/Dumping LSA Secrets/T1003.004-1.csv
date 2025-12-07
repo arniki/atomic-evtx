@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T20:36:27Z","2024-10-20T23:36:27Z","T1003.004","1","Dumping LSA Secrets","Server002","System.Object[]","server002\admin_test","55295ab0-a703-433b-9ca4-ae13807de12f","5180","1"

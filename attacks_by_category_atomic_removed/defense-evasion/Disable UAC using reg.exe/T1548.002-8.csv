@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T17:50:43Z","2024-10-27T19:50:43Z","T1548.002","8","Disable UAC using reg.exe","Server002","System.Object[]","server002\admin_test","9e8af564-53ec-407e-aaa8-3cb20c3af7f9","6392","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T10:04:13Z","2024-10-28T12:04:13Z","T1562.001","44","Disable Hypervisor-Enforced Code Integrity (HVCI)","Server002","System.Object[]","server002\admin_test","70bd71e6-eba4-4e00-92f7-617911dbe020","1316","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T13:59:50Z","2024-10-24T16:59:50Z","T1110.003","6","Password Spray Invoke-DomainPasswordSpray Light","Server002","System.Object[]","server002\admin_test","b15bc9a5-a4f3-4879-9304-ea0011ace63a","6648","0"

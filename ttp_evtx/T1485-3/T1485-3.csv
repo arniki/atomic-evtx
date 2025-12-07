@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T19:18:15Z","2024-10-26T22:18:15Z","T1485","3","Overwrite deleted data on C drive","Server002","System.Object[]","server002\admin_test","321fd25e-0007-417f-adec-33232252be19",,

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T12:41:10Z","2024-10-24T15:41:10Z","T1106","1","Execution through API - CreateProcess","Server002","System.Object[]","server002\admin_test","99be2089-c52d-4a4a-b5c3-261ee42c8b62","1344","0"

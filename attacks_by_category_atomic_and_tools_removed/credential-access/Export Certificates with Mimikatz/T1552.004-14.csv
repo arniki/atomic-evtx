@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T20:18:19Z","2024-10-27T22:18:19Z","T1552.004","14","Export Certificates with Mimikatz","Server002","System.Object[]","server002\admin_test","290df60e-4b5d-4a5e-b0c7-dc5348ea0c86","5272","1"

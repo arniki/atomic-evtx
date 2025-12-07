@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T22:45:26Z","2024-10-28T00:45:26Z","T1558.001","2","Crafting Active Directory golden tickets with Rubeus","Server002","System.Object[]","server002\admin_test","e42d33cd-205c-4acf-ab59-a9f38f6bad9c","6560","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T16:56:01Z","2024-10-26T19:56:01Z","T1218.011","16","Rundll32 execute payload by calling RouteTheCall","Server002","System.Object[]","server002\admin_test","8a7f56ee-10e7-444c-a139-0109438288eb","5164","0"

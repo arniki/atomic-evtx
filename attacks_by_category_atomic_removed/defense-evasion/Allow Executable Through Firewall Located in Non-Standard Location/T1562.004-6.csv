@@ -1,0 +1,3 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T11:48:29Z","2024-10-28T13:48:29Z","T1562.004","6","Allow Executable Through Firewall Located in Non-Standard Location","Server002","System.Object[]","server002\admin_test","6f5822d2-d38d-4f48-9bfc-916607ff6b8c","5652","0"
+"2024-11-02T11:47:54Z","2024-11-02T13:47:54Z","T1562.004","6","Allow Executable Through Firewall Located in Non-Standard Location","Server002","System.Object[]","server002\admin_test","6f5822d2-d38d-4f48-9bfc-916607ff6b8c","4764","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T14:08:17Z","2024-10-26T17:08:17Z","T1218.005","5","Invoke HTML Application - Jscript Engine Simulating Double Click","Server002","System.Object[]","server002\admin_test","58a193ec-131b-404e-b1ca-b35cf0b18c33","2444","0"

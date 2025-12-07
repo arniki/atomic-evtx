@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T09:02:59Z","2024-10-28T11:02:59Z","T1562.001","26","office-365-Disable-AntiPhishRule","Server002","System.Object[]","server002\admin_test","b9bbae2c-2ba6-4cf3-b452-8e8f908696f3","2184","0"

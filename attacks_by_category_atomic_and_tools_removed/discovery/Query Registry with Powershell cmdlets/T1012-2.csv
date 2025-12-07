@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T08:25:50Z","2024-10-21T11:25:50Z","T1012","2","Query Registry with Powershell cmdlets","Server002","System.Object[]","server002\admin_test","0434d081-bb32-42ce-bcbb-3548e4f2628f","1952","0"

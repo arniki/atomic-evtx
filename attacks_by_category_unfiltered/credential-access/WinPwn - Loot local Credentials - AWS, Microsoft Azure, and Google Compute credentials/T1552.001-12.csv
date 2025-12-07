@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T19:40:52Z","2024-10-27T21:40:52Z","T1552.001","12","WinPwn - Loot local Credentials - AWS, Microsoft Azure, and Google Compute credentials","Server002","System.Object[]","server002\admin_test","aaa87b0e-5232-4649-ae5c-f1724a4b2798","7016","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T08:38:32Z","2024-10-28T10:38:32Z","T1562.001","20","Remove Windows Defender Definition Files","Server002","System.Object[]","server002\admin_test","3d47daaa-2f56-43e0-94cc-caf5d8d52a68","2060","0"

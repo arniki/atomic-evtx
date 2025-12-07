@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T17:02:50Z","2024-10-28T19:02:50Z","T1654","2","Enumerate Windows Security Log via WevtUtil","Server002","System.Object[]","server002\admin_test","fef0ace1-3550-4bf1-a075-9fea55a778dd","6728","0"

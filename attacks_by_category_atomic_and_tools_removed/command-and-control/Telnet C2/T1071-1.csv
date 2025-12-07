@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T15:25:50Z","2024-10-23T18:25:50Z","T1071","1","Telnet C2","Server002","System.Object[]","server002\admin_test","3b0df731-030c-4768-b492-2a3216d90e53","4744","0"

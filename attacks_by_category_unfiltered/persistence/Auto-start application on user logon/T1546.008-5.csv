@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T14:01:27Z","2024-10-27T16:01:27Z","T1546.008","5","Auto-start application on user logon","Server002","System.Object[]","server002\admin_test","7125eba8-7b30-426b-9147-781d152be6fb","4660","0"

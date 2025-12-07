@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T21:10:28Z","2024-10-25T00:10:28Z","T1114.003","1","Office365 - Email Forwarding","Server002","System.Object[]","server002\admin_test","3234117e-151d-4254-9150-3d0bac41e38c","3228","0"

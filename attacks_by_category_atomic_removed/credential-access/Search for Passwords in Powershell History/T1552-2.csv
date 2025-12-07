@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T19:13:20Z","2024-10-27T21:13:20Z","T1552","2","Search for Passwords in Powershell History","Server002","System.Object[]","server002\admin_test","f9c3d0ab-479b-4019-945f-22ace2b1731a","2884","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T22:11:26Z","2024-10-28T00:11:26Z","T1555.003","15","WebBrowserPassView - Credentials from Browser","Server002","System.Object[]","server002\admin_test","e359627f-2d90-4320-ba5e-b0f878155bbe","6824","0"

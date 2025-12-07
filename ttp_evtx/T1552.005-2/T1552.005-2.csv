@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T20:27:11Z","2024-10-27T22:27:11Z","T1552.005","2","Azure - Dump Azure Instance Metadata from Virtual Machines","Server002","System.Object[]","server002\admin_test","cc99e772-4e18-4f1f-b422-c5cdd1bfd7b7","4652","0"

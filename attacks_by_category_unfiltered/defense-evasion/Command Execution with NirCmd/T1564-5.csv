@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T13:08:36Z","2024-10-28T15:08:36Z","T1564","5","Command Execution with NirCmd","Server002","System.Object[]","server002\admin_test","2748ab4a-1e0b-4cf2-a2b0-8ef765bec7be","7032","0"

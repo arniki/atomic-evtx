@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T14:33:38Z","2024-10-23T17:33:38Z","T1070.004","7","Delete an entire folder - Windows PowerShell","Server002","System.Object[]","server002\admin_test","edd779e4-a509-4cba-8dfa-a112543dbfb1","5068","0"

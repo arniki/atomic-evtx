@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T16:09:25Z","2024-10-25T19:09:25Z","T1137.004","1","Install Outlook Home Page Persistence","Server002","System.Object[]","server002\admin_test","7a91ad51-e6d2-4d43-9471-f26362f5738e","3572","0"

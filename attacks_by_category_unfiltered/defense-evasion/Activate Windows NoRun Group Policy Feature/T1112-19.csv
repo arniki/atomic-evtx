@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T15:17:12Z","2024-10-24T18:17:12Z","T1112","19","Activate Windows NoRun Group Policy Feature","Server002","System.Object[]","server002\admin_test","d49ff3cc-8168-4123-b5b3-f057d9abbd55","5696","0"

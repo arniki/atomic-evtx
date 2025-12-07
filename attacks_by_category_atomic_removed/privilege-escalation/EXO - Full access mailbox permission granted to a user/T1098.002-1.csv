@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T11:03:10Z","2024-10-24T14:03:10Z","T1098.002","1","EXO - Full access mailbox permission granted to a user","Server002","System.Object[]","server002\admin_test","17d046be-fdd0-4cbb-b5c7-55c85d9d0714","6240","0"

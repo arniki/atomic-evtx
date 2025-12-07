@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T18:18:58Z","2024-10-25T21:18:58Z","T1204.002","9","Office Generic Payload Download","Server002","System.Object[]","server002\admin_test","5202ee05-c420-4148-bf5e-fd7f7d24850c","5484","0"

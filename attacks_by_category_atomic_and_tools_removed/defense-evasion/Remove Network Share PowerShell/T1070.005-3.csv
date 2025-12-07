@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T14:50:53Z","2024-10-23T17:50:53Z","T1070.005","3","Remove Network Share PowerShell","Server002","System.Object[]","server002\admin_test","0512d214-9512-4d22-bde7-f37e058259b3","3540","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T16:04:44Z","2024-10-27T18:04:44Z","T1547.001","16","secedit used to create a Run key in the HKLM Hive","Server002","System.Object[]","server002\admin_test","14fdc3f1-6fc3-4556-8d36-aa89d9d42d02","2340","1"

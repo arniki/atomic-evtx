@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T20:16:51Z","2024-10-22T23:16:51Z","T1059.001","11","NTFS Alternate Data Stream Access","Server002","System.Object[]","server002\admin_test","8e5c5532-1181-4c1d-bb79-b3a9f5dbd680","1928","0"

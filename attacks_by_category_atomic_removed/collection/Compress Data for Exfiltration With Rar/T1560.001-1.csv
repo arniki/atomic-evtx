@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T07:46:26Z","2024-10-28T09:46:26Z","T1560.001","1","Compress Data for Exfiltration With Rar","Server002","System.Object[]","server002\admin_test","02ea31cb-3b4c-4a2d-9bf1-e4e70ebcf5d0","4500","1"

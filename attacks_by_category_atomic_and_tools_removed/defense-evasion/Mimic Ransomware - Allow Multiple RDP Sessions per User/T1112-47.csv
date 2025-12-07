@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T16:56:16Z","2024-10-24T19:56:16Z","T1112","47","Mimic Ransomware - Allow Multiple RDP Sessions per User","Server002","System.Object[]","server002\admin_test","35727d9e-7a7f-4d0c-a259-dc3906d6e8b9","5712","0"

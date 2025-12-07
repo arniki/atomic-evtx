@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T18:52:15Z","2024-10-22T21:52:15Z","T1056.002","2","PowerShell - Prompt User for Password","Server002","System.Object[]","server002\admin_test","2b162bfd-0928-4d4c-9ec3-4d9f88374b52",,

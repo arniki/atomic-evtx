@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T07:24:31Z","2024-10-28T09:24:31Z","T1559","3","Cobalt Strike SSH (postex_ssh) pipe","Server002","System.Object[]","server002\admin_test","d1f72fa0-5bc2-4b4b-bd1e-43b6e8cfb2e6","6652","0"

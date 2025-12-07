@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T12:10:27Z","2024-10-23T15:10:27Z","T1059.003","1","Create and Execute Batch Script","Server002","System.Object[]","server002\admin_test","9e8894c0-50bd-4525-a96c-d4ac78ece388","6040","0"

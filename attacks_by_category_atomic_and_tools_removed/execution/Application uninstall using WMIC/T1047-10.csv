@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T15:28:28Z","2024-10-22T18:28:28Z","T1047","10","Application uninstall using WMIC","Server002","System.Object[]","server002\admin_test","c510d25b-1667-467d-8331-a56d3e9bc4ff","1660","0"

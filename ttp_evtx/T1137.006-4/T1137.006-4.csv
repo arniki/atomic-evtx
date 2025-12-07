@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T16:24:04Z","2024-10-25T19:24:04Z","T1137.006","4","Persistent Code Execution Via Excel VBA Add-in File (XLAM)","Server002","System.Object[]","server002\admin_test","082141ed-b048-4c86-99c7-2b8da5b5bf48","5220","0"

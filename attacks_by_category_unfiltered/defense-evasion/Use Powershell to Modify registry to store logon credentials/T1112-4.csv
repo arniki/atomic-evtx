@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T14:25:42Z","2024-10-24T17:25:42Z","T1112","4","Use Powershell to Modify registry to store logon credentials","Server002","System.Object[]","server002\admin_test","68254a85-aa42-4312-a695-38b7276307f8","5932","0"

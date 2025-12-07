@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T14:26:13Z","2024-10-28T16:26:13Z","T1567.002","1","Exfiltrate data with rclone to cloud Storage - Mega (Windows)","Server002","System.Object[]","server002\admin_test","8529ee44-279a-4a19-80bf-b846a40dda58","640","0"

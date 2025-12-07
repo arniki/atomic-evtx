@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T18:19:35Z","2024-10-22T21:19:35Z","T1055.004","2","EarlyBird APC Queue Injection in Go","Server002","System.Object[]","server002\admin_test","73785dd2-323b-4205-ab16-bb6f06677e14","4568","0"

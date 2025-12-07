@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T20:37:17Z","2024-10-24T23:37:17Z","T1112","89","Abusing MyComputer Disk Backup Path for Persistence","Server002","System.Object[]","server002\admin_test","599f3b5c-0323-44ed-bb63-4551623bf675","4944","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T11:18:11Z","2024-10-21T14:18:11Z","T1021.002","4","Execute command writing output to local Admin Share","Server002","System.Object[]","server002\admin_test","d41aaab5-bdfe-431d-a3d5-c29e9136ff46","5632","0"

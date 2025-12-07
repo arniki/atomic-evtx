@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T14:29:12Z","2024-10-24T17:29:12Z","T1112","5","Add domain to Trusted sites Zone","Server002","System.Object[]","server002\admin_test","cf447677-5a4e-4937-a82c-e47d254afd57","6860","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T15:42:23Z","2024-10-28T17:42:23Z","T1574.002","3","DLL Search Order Hijacking,DLL Sideloading Of KeyScramblerIE.DLL Via KeyScrambler.EXE","Server002","System.Object[]","server002\admin_test","c095ad8e-4469-4d33-be9d-6f6d1fb21585","4988","0"

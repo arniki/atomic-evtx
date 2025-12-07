@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T07:38:27Z","2024-10-28T09:38:27Z","T1559.002","2","Execute PowerShell script via Word DDE","Server002","System.Object[]","server002\admin_test","47c21fb6-085e-4b0d-b4d2-26d72c3830b3","2856","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T21:23:05Z","2024-10-27T00:23:05Z","T1518.001","2","Security Software Discovery - powershell","Server002","System.Object[]","server002\admin_test","7f566051-f033-49fb-89de-b6bacab730f0","5108","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T15:08:13Z","2024-10-23T18:08:13Z","T1070.006","7","Windows - Modify file last access timestamp with PowerShell","Server002","System.Object[]","server002\admin_test","da627f63-b9bd-4431-b6f8-c5b44d061a62","464","0"

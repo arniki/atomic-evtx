@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T14:23:36Z","2024-10-22T17:23:36Z","T1046","3","Port Scan NMap for Windows","Server002","System.Object[]","server002\admin_test","d696a3cb-d7a8-4976-8eb5-5af4abf2e3df","3240","0"

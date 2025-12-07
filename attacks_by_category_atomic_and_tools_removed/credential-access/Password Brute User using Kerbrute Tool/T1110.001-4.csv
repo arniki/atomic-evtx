@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T13:29:05Z","2024-10-24T16:29:05Z","T1110.001","4","Password Brute User using Kerbrute Tool","Server002","System.Object[]","server002\admin_test","59dbeb1a-79a7-4c2a-baf4-46d0f4c761c4","2620","0"

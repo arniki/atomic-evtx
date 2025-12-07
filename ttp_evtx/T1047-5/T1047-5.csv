@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T15:09:57Z","2024-10-22T18:09:57Z","T1047","5","WMI Execute Local Process","Server002","System.Object[]","server002\admin_test","b3bdfc91-b33e-4c6d-a5c8-d64bee0276b3","3256","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T17:35:32Z","2024-10-22T20:35:32Z","T1055","7","Process Injection with Go using EtwpCreateEtwThread WinAPI","Server002","System.Object[]","server002\admin_test","7362ecef-6461-402e-8716-7410e1566400","2504","0"

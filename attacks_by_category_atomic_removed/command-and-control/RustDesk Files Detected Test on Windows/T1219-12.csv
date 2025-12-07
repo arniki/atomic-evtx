@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T17:45:26Z","2024-10-26T20:45:26Z","T1219","12","RustDesk Files Detected Test on Windows","Server002","System.Object[]","server002\admin_test","f1641ba9-919a-4323-b74f-33372333bf0e","5320","0"

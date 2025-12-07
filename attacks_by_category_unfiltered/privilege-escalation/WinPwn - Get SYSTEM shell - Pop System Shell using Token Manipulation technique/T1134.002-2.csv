@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T11:44:50Z","2024-10-25T14:44:50Z","T1134.002","2","WinPwn - Get SYSTEM shell - Pop System Shell using Token Manipulation technique","Server002","System.Object[]","server002\admin_test","ccf4ac39-ec93-42be-9035-90e2f26bcd92","2860","0"

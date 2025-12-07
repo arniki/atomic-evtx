@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T20:08:21Z","2024-10-26T23:08:21Z","T1490","6","Windows - Delete Backup Files","Server002","System.Object[]","server002\admin_test","6b1dbaf6-cc8a-4ea6-891f-6058569653bf",,

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T16:17:00Z","2024-10-27T18:17:00Z","T1547.001","19","Creating Boot Verification Program Key for application execution during successful boot","Server002","System.Object[]","server002\admin_test","6e1666d5-3f2b-4b9a-80aa-f011322380d4","6980","0"

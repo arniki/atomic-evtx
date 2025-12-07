@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T16:23:52Z","2024-10-27T18:23:52Z","T1547.003","1","Create a new time provider","Server002","System.Object[]","server002\admin_test","df1efab7-bc6d-4b88-8be9-91f55ae017aa","3604","0"

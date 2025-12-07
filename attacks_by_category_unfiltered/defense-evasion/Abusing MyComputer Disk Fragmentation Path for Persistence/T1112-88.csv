@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T20:34:03Z","2024-10-24T23:34:03Z","T1112","88","Abusing MyComputer Disk Fragmentation Path for Persistence","Server002","System.Object[]","server002\admin_test","3235aafe-b49d-451b-a1f1-d979fa65ddaf","5068","0"

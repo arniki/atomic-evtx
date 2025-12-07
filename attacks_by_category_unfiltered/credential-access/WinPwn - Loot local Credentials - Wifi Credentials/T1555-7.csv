@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T21:18:37Z","2024-10-27T23:18:37Z","T1555","7","WinPwn - Loot local Credentials - Wifi Credentials","Server002","System.Object[]","server002\admin_test","afe369c2-b42e-447f-98a3-fb1f4e2b8552","3572","0"

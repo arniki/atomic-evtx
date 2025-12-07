@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T12:51:13Z","2024-10-25T15:51:13Z","T1135","12","Enumerate All Network Shares with Snaffler","Server002","System.Object[]","server002\admin_test","b19d74b7-5e72-450a-8499-82e49e379d1a","4248","0"

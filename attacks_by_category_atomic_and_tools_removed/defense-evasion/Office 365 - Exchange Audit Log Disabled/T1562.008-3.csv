@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T12:35:05Z","2024-10-28T14:35:05Z","T1562.008","3","Office 365 - Exchange Audit Log Disabled","Server002","System.Object[]","server002\admin_test","1ee572f3-056c-4632-a7fc-7e7c42b1543c","5864","0"

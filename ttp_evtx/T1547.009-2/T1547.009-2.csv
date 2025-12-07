@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T17:03:57Z","2024-10-27T19:03:57Z","T1547.009","2","Create shortcut to cmd in startup folders","Server002","System.Object[]","server002\admin_test","cfdc954d-4bb0-4027-875b-a1893ce406f2","2052","0"

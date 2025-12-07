@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T14:08:13Z","2024-10-22T17:08:13Z","T1040","7","Windows Internal pktmon set filter","Server002","System.Object[]","server002\admin_test","855fb8b4-b8ab-4785-ae77-09f5df7bff55","6100","0"

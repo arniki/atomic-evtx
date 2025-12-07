@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T20:08:15Z","2024-10-20T23:08:15Z","T1003.003","2","Copy NTDS.dit from Volume Shadow Copy","Server002","System.Object[]","server002\admin_test","c6237146-9ea6-4711-85c9-c56d263a6b03","4384","0"

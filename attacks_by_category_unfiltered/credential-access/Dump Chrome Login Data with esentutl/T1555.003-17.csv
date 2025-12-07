@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T22:24:27Z","2024-10-28T00:24:27Z","T1555.003","17","Dump Chrome Login Data with esentutl","Server002","System.Object[]","server002\admin_test","70422253-8198-4019-b617-6be401b49fce","6864","-1"

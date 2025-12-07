@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T14:15:30Z","2024-10-27T16:15:30Z","T1546.011","2","New shim database files created in the default shim database directory","Server002","System.Object[]","server002\admin_test","aefd6866-d753-431f-a7a4-215ca7e3f13d","5076","0"

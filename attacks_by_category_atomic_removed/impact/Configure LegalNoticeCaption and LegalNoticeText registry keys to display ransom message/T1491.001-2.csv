@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T20:34:30Z","2024-10-26T23:34:30Z","T1491.001","2","Configure LegalNoticeCaption and LegalNoticeText registry keys to display ransom message","Server002","System.Object[]","server002\admin_test","ffcbfaab-c9ff-470b-928c-f086b326089b","3032","0"

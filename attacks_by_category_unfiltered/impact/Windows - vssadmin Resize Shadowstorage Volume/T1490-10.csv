@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T20:24:11Z","2024-10-26T23:24:11Z","T1490","10","Windows - vssadmin Resize Shadowstorage Volume","Server002","System.Object[]","server002\admin_test","da558b07-69ae-41b9-b9d4-4d98154a7049","6156","0"

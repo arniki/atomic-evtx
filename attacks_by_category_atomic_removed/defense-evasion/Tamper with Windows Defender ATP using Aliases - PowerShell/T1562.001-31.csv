@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T09:26:04Z","2024-10-28T11:26:04Z","T1562.001","31","Tamper with Windows Defender ATP using Aliases - PowerShell","Server002","System.Object[]","server002\admin_test","c531aa6e-9c97-4b29-afee-9b7be6fc8a64","2488","0"

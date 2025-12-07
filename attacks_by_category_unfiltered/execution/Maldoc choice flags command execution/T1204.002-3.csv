@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T17:48:23Z","2024-10-25T20:48:23Z","T1204.002","3","Maldoc choice flags command execution","Server002","System.Object[]","server002\admin_test","0330a5d2-a45a-4272-a9ee-e364411c4b18","6536","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T22:59:39Z","2024-10-28T00:59:39Z","T1558.003","3","Extract all accounts in use as SPN using setspn","Server002","System.Object[]","server002\admin_test","e6f4affd-d826-4871-9a62-6c9004b8fe06","5272","1"

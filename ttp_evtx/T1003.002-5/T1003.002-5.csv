@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T19:50:59Z","2024-10-20T22:50:59Z","T1003.002","5","dump volume shadow copy hives with certutil","Server002","System.Object[]","server002\admin_test","eeb9751a-d598-42d3-b11c-c122d9c3f6c7","3656","1"

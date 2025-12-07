@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T20:04:56Z","2024-10-26T23:04:56Z","T1490","5","Windows - Delete Volume Shadow Copies via WMI with PowerShell","Server002","System.Object[]","server002\admin_test","39a295ca-7059-4a88-86f6-09556c1211e7","6820","0"

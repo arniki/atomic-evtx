@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T14:15:09Z","2024-10-22T17:15:09Z","T1041","1","C2 Data Exfiltration","Server002","System.Object[]","server002\admin_test","d1253f6e-c29b-49dc-b466-2147a6191932","4280","0"

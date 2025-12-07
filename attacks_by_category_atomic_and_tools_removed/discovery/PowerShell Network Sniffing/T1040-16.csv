@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T14:11:37Z","2024-10-22T17:11:37Z","T1040","16","PowerShell Network Sniffing","Server002","System.Object[]","server002\admin_test","9c15a7de-de14-46c3-bc2a-6d94130986ae","5964","0"

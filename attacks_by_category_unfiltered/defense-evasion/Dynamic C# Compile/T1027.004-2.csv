@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T12:14:24Z","2024-10-21T15:14:24Z","T1027.004","2","Dynamic C# Compile","Server002","System.Object[]","server002\admin_test","453614d8-3ba6-4147-acc0-7ec4b3e1faef","4920","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T14:49:42Z","2024-10-24T17:49:42Z","T1112","11","Disable Windows CMD application","Server002","System.Object[]","server002\admin_test","d2561a6d-72bd-408c-b150-13efe1801c2a","2656","0"

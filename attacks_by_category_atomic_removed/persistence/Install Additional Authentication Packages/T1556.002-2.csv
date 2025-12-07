@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T22:38:16Z","2024-10-28T00:38:16Z","T1556.002","2","Install Additional Authentication Packages","Server002","System.Object[]","server002\admin_test","91580da6-bc6e-431b-8b88-ac77180005f2","6304","0"

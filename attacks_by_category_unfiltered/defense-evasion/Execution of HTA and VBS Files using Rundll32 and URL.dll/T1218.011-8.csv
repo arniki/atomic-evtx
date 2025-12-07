@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T16:24:22Z","2024-10-26T19:24:22Z","T1218.011","8","Execution of HTA and VBS Files using Rundll32 and URL.dll","Server002","System.Object[]","server002\admin_test","22cfde89-befe-4e15-9753-47306b37a6e3","5084","0"

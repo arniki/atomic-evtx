@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T20:22:16Z","2024-10-20T23:22:16Z","T1003.003","6","Create Volume Shadow Copy remotely (WMI) with esentutl","Server002","System.Object[]","server002\admin_test","21c7bf80-3e8b-40fa-8f9d-f5b194ff2865","4204","0"

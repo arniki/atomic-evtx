@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T16:52:52Z","2024-10-24T19:52:52Z","T1112","46","Mimic Ransomware - Enable Multiple User Sessions","Server002","System.Object[]","server002\admin_test","39f1f378-ba8a-42b3-96dc-2a6540cfc1e3","2832","0"

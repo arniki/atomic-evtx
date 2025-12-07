@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T08:05:28Z","2024-10-28T10:05:28Z","T1562.001","11","Unload Sysmon Filter Driver","Server002","System.Object[]","server002\admin_test","811b3e76-c41b-430c-ac0d-e2380bfaa164","6856","0"

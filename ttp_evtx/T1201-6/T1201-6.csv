@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T17:09:50Z","2024-10-25T20:09:50Z","T1201","6","Examine local password policy - Windows","Server002","System.Object[]","server002\admin_test","4588d243-f24e-4549-b2e3-e627acc089f6","7028","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T17:14:52Z","2024-10-20T20:14:52Z","T1003","4","Retrieve Microsoft IIS Service Account Credentials Using AppCmd (using list)","Server002","System.Object[]","server002\admin_test","6c7a4fd3-5b0b-4b30-a93e-39411b25d889","3676","0"

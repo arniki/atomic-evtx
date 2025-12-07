@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T17:09:56Z","2024-10-24T20:09:56Z","T1112","51","Disable Win Defender Notification","Server002","System.Object[]","server002\admin_test","12e03af7-79f9-4f95-af48-d3f12f28a260","5660","0"

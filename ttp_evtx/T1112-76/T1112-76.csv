@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T18:35:13Z","2024-10-24T21:35:13Z","T1112","76","Requires the BitLocker PIN for Pre-boot authentication","Server002","System.Object[]","server002\admin_test","26fc7375-a551-4336-90d7-3f2817564304","1244","0"

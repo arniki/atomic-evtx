@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T12:34:37Z","2024-10-27T14:34:37Z","T1539","1","Steal Firefox Cookies (Windows)","Server002","System.Object[]","server002\admin_test","4b437357-f4e9-4c84-9fa6-9bcee6f826aa","5408","0"

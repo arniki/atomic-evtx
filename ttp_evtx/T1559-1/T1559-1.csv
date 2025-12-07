@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T07:16:17Z","2024-10-28T09:16:17Z","T1559","1","Cobalt Strike Artifact Kit pipe","Server002","System.Object[]","server002\admin_test","bd13b9fc-b758-496a-b81a-397462f82c72","4460","0"

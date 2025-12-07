@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T16:56:15Z","2024-10-25T19:56:15Z","T1197","1","Bitsadmin Download (cmd)","Server002","System.Object[]","server002\admin_test","3c73d728-75fb-4180-a12f-6712864d7421","5372","-2147023651"

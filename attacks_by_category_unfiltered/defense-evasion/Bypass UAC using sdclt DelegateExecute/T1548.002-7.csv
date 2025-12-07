@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T17:47:16Z","2024-10-27T19:47:16Z","T1548.002","7","Bypass UAC using sdclt DelegateExecute","Server002","System.Object[]","server002\admin_test","3be891eb-4608-4173-87e8-78b494c029b7","2756","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T16:47:21Z","2024-10-28T18:47:21Z","T1615","5","MSFT Get-GPO Cmdlet","Server002","System.Object[]","server002\admin_test","52778a8f-a10b-41a4-9eae-52ddb74072bf","2460","0"

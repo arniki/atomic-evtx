@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T15:55:04Z","2024-10-24T18:55:04Z","T1112","30","Windows HideSCAPower Group Policy Feature","Server002","System.Object[]","server002\admin_test","8d85a5d8-702f-436f-bc78-fcd9119496fc","4812","0"

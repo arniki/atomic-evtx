@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T16:01:24Z","2024-10-27T18:01:24Z","T1547.001","15","HKLM - Modify default System Shell - Winlogon Shell KEY Value ","Server002","System.Object[]","server002\admin_test","1d958c61-09c6-4d9e-b26b-4130314e520e","7008","0"

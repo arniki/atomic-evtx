@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T17:47:34Z","2024-10-24T20:47:34Z","T1112","62","Activities To Disable Microsoft [FIDO Aka Fast IDentity Online] Authentication Detected By Modified Registry Value.","Server002","System.Object[]","server002\admin_test","ffeddced-bb9f-49c6-97f0-3d07a509bf94","4052","0"

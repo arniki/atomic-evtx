@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T15:23:27Z","2024-10-27T17:23:27Z","T1547.001","4","Suspicious vbs file run from startup Folder","Server002","System.Object[]","server002\admin_test","2cb98256-625e-4da9-9d44-f2e5f90b8bd5","4624","0"

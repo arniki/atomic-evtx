@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T09:10:09Z","2024-10-28T11:10:09Z","T1562.001","28","Disable Defender Using NirSoft AdvancedRun","Server002","System.Object[]","server002\admin_test","81ce22fd-9612-4154-918e-8a1f285d214d","5964","0"

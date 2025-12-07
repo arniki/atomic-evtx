@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T21:51:43Z","2024-10-24T00:51:43Z","T1087.002","19","Suspicious LAPS Attributes Query with Get-ADComputer ms-Mcs-AdmPwd property","Server002","System.Object[]","server002\admin_test","6e85bdf9-7bc4-4259-ac0f-f0cb39964443","6412","0"

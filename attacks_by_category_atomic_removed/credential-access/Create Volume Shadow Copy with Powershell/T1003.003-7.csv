@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T20:25:37Z","2024-10-20T23:25:37Z","T1003.003","7","Create Volume Shadow Copy with Powershell","Server002","System.Object[]","server002\admin_test","542bb97e-da53-436b-8e43-e0a7d31a6c24","3128","0"

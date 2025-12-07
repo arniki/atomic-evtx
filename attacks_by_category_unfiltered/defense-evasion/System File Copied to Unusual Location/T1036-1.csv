@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T12:49:08Z","2024-10-21T15:49:08Z","T1036","1","System File Copied to Unusual Location","Server002","System.Object[]","server002\admin_test","51005ac7-52e2-45e0-bdab-d17c6d4916cd","2844","0"

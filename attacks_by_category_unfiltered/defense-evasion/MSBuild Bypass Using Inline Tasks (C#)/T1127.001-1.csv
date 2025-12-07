@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T11:02:28Z","2024-10-25T14:02:28Z","T1127.001","1","MSBuild Bypass Using Inline Tasks (C#)","Server002","System.Object[]","server002\admin_test","58742c0f-cb01-44cd-a60b-fb26e8871c93","1676","0"

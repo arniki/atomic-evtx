@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T14:46:20Z","2024-10-22T17:46:20Z","T1046","10","Port-Scanning /24 Subnet with PowerShell","Server002","System.Object[]","server002\admin_test","05df2a79-dba6-4088-a804-9ca0802ca8e4",,

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T09:13:47Z","2024-10-28T11:13:47Z","T1562.001","29","Kill antimalware protected processes using Backstab","Server002","System.Object[]","server002\admin_test","24a12b91-05a7-4deb-8d7f-035fa98591bc","4856","0"

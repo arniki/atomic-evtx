@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T17:23:29Z","2024-10-25T20:23:29Z","T1201","11","Use of SecEdit.exe to export the local security policy (including the password policy)","Server002","System.Object[]","server002\admin_test","510cc97f-56ac-4cd3-a198-d3218c23d889","6312","0"

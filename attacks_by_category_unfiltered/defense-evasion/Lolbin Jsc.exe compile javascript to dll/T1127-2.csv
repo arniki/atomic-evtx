@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T10:59:01Z","2024-10-25T13:59:01Z","T1127","2","Lolbin Jsc.exe compile javascript to dll","Server002","System.Object[]","server002\admin_test","3fc9fea2-871d-414d-8ef6-02e85e322b80","5896","0"

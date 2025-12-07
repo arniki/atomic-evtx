@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T12:02:01Z","2024-10-25T15:02:01Z","T1134.004","3","Parent PID Spoofing - Spawn from Specified Process","Server002","System.Object[]","server002\admin_test","cbbff285-9051-444a-9d17-c07cd2d230eb","3080","0"

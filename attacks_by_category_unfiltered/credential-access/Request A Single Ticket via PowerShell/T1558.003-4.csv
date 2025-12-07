@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T23:03:17Z","2024-10-28T01:03:17Z","T1558.003","4","Request A Single Ticket via PowerShell","Server002","System.Object[]","server002\admin_test","988539bc-2ed7-4e62-aec6-7c5cf6680863","7020","0"

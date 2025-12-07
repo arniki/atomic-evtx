@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T19:54:26Z","2024-10-20T22:54:26Z","T1003.002","6","dump volume shadow copy hives with System.IO.File","Server002","System.Object[]","server002\admin_test","9d77fed7-05f8-476e-a81b-8ff0472c64d0","4636","0"

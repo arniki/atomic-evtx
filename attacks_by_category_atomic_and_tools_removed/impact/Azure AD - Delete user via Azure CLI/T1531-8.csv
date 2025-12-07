@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T12:30:57Z","2024-10-27T14:30:57Z","T1531","8","Azure AD - Delete user via Azure CLI","Server002","System.Object[]","server002\admin_test","c955c1c7-3145-4a22-af2d-63eea0d967f0","3596","0"

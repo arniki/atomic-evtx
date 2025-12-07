@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T17:11:48Z","2024-10-20T20:11:48Z","T1003","3","Dump svchost.exe to gather RDP credentials","Server002","System.Object[]","server002\admin_test","d400090a-d8ca-4be0-982e-c70598a23de9","1800","0"

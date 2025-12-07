@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T18:06:27Z","2024-10-23T21:06:27Z","T1082","21","WinPwn - PowerSharpPack - Watson searching for missing windows patches","Server002","System.Object[]","server002\admin_test","07b18a66-6304-47d2-bad0-ef421eb2e107","4628","0"

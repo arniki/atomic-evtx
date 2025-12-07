@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T16:04:30Z","2024-10-26T19:04:30Z","T1218.011","3","Rundll32 execute VBscript command using Ordinal number","Server002","System.Object[]","server002\admin_test","32d1cf1b-cbc2-4c09-8d05-07ec5c83a821",,

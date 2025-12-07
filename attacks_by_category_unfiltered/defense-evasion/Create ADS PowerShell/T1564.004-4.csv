@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T13:55:19Z","2024-10-28T15:55:19Z","T1564.004","4","Create ADS PowerShell","Server002","System.Object[]","server002\admin_test","0045ea16-ed3c-4d4c-a9ee-15e44d1560d1","6732","0"

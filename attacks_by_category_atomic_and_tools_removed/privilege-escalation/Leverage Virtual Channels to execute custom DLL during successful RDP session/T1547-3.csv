@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T15:09:49Z","2024-10-27T17:09:49Z","T1547","3","Leverage Virtual Channels to execute custom DLL during successful RDP session","Server002","System.Object[]","server002\admin_test","fdd45306-74f6-4ade-9a97-0a4895961228","4980","0"

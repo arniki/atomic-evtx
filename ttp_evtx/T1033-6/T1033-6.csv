@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T12:42:20Z","2024-10-21T15:42:20Z","T1033","6","System Discovery - SocGholish whoami","Server002","System.Object[]","server002\admin_test","3d257a03-eb80-41c5-b744-bb37ac7f65c7","1672","0"

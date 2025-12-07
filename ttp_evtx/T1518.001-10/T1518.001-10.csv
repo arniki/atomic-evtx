@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T21:40:14Z","2024-10-27T00:40:14Z","T1518.001","10","Security Software Discovery - Windows Firewall Enumeration","Server002","System.Object[]","server002\admin_test","9dca5a1d-f78c-4a8d-accb-d6de67cfed6b","5472","0"

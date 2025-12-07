@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T07:20:23Z","2024-10-28T09:20:23Z","T1559","2","Cobalt Strike Lateral Movement (psexec_psh) pipe","Server002","System.Object[]","server002\admin_test","830c8b6c-7a70-4f40-b975-8bbe74558acd","5188","0"

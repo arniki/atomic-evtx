@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T11:21:12Z","2024-10-28T13:21:12Z","T1562.002","7","Makes Eventlog blind with Phant0m","Server002","System.Object[]","server002\admin_test","3ddf3d03-f5d6-462a-ad76-2c5ff7b6d741","6500","1"

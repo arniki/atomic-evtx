@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T17:16:40Z","2024-10-26T20:16:40Z","T1219","5","ScreenConnect Application Download and Install on Windows","Server002","System.Object[]","server002\admin_test","4a18cc4e-416f-4966-9a9d-75731c4684c0","6604","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T14:23:11Z","2024-10-23T17:23:11Z","T1070.004","4","Delete a single file - Windows cmd","Server002","System.Object[]","server002\admin_test","861ea0b4-708a-4d17-848d-186c9c7f17e3","5560","0"

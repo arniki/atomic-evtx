@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T15:46:50Z","2024-10-22T18:46:50Z","T1048.003","5","Exfiltration Over Alternative Protocol - SMTP","Server002","System.Object[]","server002\admin_test","ec3a835e-adca-4c7c-88d2-853b69c11bb9","5520","0"

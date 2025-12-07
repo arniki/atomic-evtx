@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T13:48:11Z","2024-10-28T15:48:11Z","T1564.004","2","Store file in Alternate Data Stream (ADS)","Server002","System.Object[]","server002\admin_test","2ab75061-f5d5-4c1a-b666-ba2a50df5b02","5488","0"

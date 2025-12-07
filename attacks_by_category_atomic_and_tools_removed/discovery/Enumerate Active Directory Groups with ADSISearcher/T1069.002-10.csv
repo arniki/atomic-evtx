@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T13:40:52Z","2024-10-23T16:40:52Z","T1069.002","10","Enumerate Active Directory Groups with ADSISearcher","Server002","System.Object[]","server002\admin_test","9f4e344b-8434-41b3-85b1-d38f29d148d0","3784","0"

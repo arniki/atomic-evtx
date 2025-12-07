@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T15:15:13Z","2024-10-23T18:15:13Z","T1070.006","10","Event Log Manipulations- Time slipping via Powershell","Server002","System.Object[]","server002\admin_test","7bcf83bf-f5ef-425c-9d9a-71618ad9ed12","5368","0"

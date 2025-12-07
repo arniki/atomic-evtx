@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T18:04:44Z","2024-10-20T21:04:44Z","T1003.001","13","Dump LSASS.exe using lolbin rdrleakdiag.exe","Server002","System.Object[]","server002\admin_test","47a539d1-61b9-4364-bf49-a68bc2a95ef0","4644","1"

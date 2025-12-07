@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T20:56:20Z","2024-10-24T23:56:20Z","T1114.001","1","Email Collection with PowerShell Get-Inbox","Server002","System.Object[]","server002\admin_test","3f1b5096-0139-4736-9b78-19bcb02bb1cb","2404","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T12:10:49Z","2024-10-21T15:10:49Z","T1027.004","1","Compile After Delivery using csc.exe","Server002","System.Object[]","server002\admin_test","ffcdbd6a-b0e8-487d-927a-09127fe9a206","2572","0"

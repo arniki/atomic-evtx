@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T14:45:22Z","2024-10-27T16:45:22Z","T1546.012","3","GlobalFlags in Image File Execution Options","Server002","System.Object[]","server002\admin_test","13117939-c9b2-4a43-999e-0a543df92f0d","6552","0"

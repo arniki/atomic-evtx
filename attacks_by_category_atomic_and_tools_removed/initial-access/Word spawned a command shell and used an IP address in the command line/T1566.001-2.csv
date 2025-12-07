@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T14:21:27Z","2024-10-28T16:21:27Z","T1566.001","2","Word spawned a command shell and used an IP address in the command line","Server002","System.Object[]","server002\admin_test","cbb6799a-425c-4f83-9194-5447a909d67f","7044","0"

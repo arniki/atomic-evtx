@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T12:47:33Z","2024-10-28T14:47:33Z","T1562.010","2","ESXi - Change VIB acceptance level to CommunitySupported via ESXCLI","Server002","System.Object[]","server002\admin_test","14d55b96-b2f5-428d-8fed-49dc4d9dd616","472","1"

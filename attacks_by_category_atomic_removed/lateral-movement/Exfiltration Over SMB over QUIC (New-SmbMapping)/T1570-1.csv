@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T15:00:38Z","2024-10-28T17:00:38Z","T1570","1","Exfiltration Over SMB over QUIC (New-SmbMapping)","Server002","System.Object[]","server002\admin_test","d8d13303-159e-4f33-89f4-9f07812d016f","5128","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T18:25:05Z","2024-10-24T21:25:05Z","T1112","73","Flush Shimcache","Server002","System.Object[]","server002\admin_test","ecbd533e-b45d-4239-aeff-b857c6f6d68b","4892","0"

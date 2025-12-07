@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T09:19:29Z","2024-10-21T12:19:29Z","T1018","2","Remote System Discovery - net group Domain Computers","Server002","System.Object[]","server002\admin_test","f1bf6c8f-9016-4edf-aff9-80b65f5d711f","1336","2"

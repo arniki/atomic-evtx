@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T20:19:50Z","2024-10-24T23:19:50Z","T1112","84","Modify UsePIN Registry entry","Server002","System.Object[]","server002\admin_test","3ac0b30f-532f-43c6-8f01-fb657aaed7e4","4684","0"

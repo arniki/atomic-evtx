@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T15:13:59Z","2024-10-26T18:13:59Z","T1218.007","11","Msiexec.exe - Execute Remote MSI file","Server002","System.Object[]","server002\admin_test","44a4bedf-ffe3-452e-bee4-6925ab125662","5780","0"

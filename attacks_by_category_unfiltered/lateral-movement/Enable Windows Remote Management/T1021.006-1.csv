@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T11:28:50Z","2024-10-21T14:28:50Z","T1021.006","1","Enable Windows Remote Management","Server002","System.Object[]","server002\admin_test","9059e8de-3d7d-4954-a322-46161880b9cf","5340","0"

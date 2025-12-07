@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T16:52:34Z","2024-10-26T19:52:34Z","T1218.011","15","Rundll32 execute command via FileProtocolHandler","Server002","System.Object[]","server002\admin_test","f3ad3c5b-1db1-45c1-81bf-d3370ebab6c8","4204","0"

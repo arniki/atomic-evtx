@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T15:36:17Z","2024-10-22T18:36:17Z","T1048.002","1","Exfiltrate data HTTPS using curl windows","Server002","System.Object[]","server002\admin_test","1cdf2fb0-51b6-4fd8-96af-77020d5f1bf0","1524","0"

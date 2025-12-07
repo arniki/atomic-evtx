@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T18:58:22Z","2024-10-23T21:58:22Z","T1083","2","File and Directory Discovery (PowerShell)","Server002","System.Object[]","server002\admin_test","2158908e-b7ef-4c21-8a83-3ce4dd05a924","3856","0"

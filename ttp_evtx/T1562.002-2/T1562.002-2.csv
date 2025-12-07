@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T11:03:18Z","2024-10-28T13:03:18Z","T1562.002","2","Disable Windows IIS HTTP Logging via PowerShell","Server002","System.Object[]","server002\admin_test","a957fb0f-1e85-49b2-a211-413366784b1e","3516","0"

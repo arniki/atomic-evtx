@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T14:36:06Z","2024-10-24T17:36:06Z","T1112","7","Change Powershell Execution Policy to Bypass","Server002","System.Object[]","server002\admin_test","f3a6cceb-06c9-48e5-8df8-8867a6814245","4460","0"

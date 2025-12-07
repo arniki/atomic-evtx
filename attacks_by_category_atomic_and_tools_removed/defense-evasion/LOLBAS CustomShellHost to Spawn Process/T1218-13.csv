@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T21:52:48Z","2024-10-26T00:52:48Z","T1218","13","LOLBAS CustomShellHost to Spawn Process","Server002","System.Object[]","server002\admin_test","b1eeb683-90bb-4365-bbc2-2689015782fe","7116","0"

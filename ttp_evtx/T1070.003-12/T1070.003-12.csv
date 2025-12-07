@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T14:16:16Z","2024-10-23T17:16:16Z","T1070.003","12","Clear Powershell History by Deleting History File","Server002","System.Object[]","server002\admin_test","da75ae8d-26d6-4483-b0fe-700e4df4f037","6724","0"

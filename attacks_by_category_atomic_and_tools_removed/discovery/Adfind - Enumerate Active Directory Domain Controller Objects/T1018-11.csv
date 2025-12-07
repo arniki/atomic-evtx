@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T09:49:02Z","2024-10-21T12:49:02Z","T1018","11","Adfind - Enumerate Active Directory Domain Controller Objects","Server002","System.Object[]","server002\admin_test","5838c31e-a0e2-4b9f-b60a-d79d2cb7995e","5840","1"

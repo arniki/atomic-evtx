@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T16:36:02Z","2024-10-28T18:36:02Z","T1615","2","Get-DomainGPO to display group policy information via PowerView","Server002","System.Object[]","server002\admin_test","4e524c4e-0e02-49aa-8df5-93f3f7959b9f","6864","0"

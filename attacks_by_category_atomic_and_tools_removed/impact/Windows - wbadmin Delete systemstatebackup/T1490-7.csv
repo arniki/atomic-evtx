@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T20:13:48Z","2024-10-26T23:13:48Z","T1490","7","Windows - wbadmin Delete systemstatebackup","Server002","System.Object[]","server002\admin_test","584331dd-75bc-4c02-9e0b-17f5fd81c748","6604","-3"

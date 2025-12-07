@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T18:28:28Z","2024-10-24T21:28:28Z","T1112","74","Disable Windows Remote Desktop Protocol","Server002","System.Object[]","server002\admin_test","5f8e36de-37ca-455e-b054-a2584f043c06","6240","0"

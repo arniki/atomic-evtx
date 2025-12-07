@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T18:08:58Z","2024-10-22T21:08:58Z","T1055.002","1","Portable Executable Injection","Server002","System.Object[]","server002\admin_test","578025d5-faa9-4f6d-8390-aae739d503e1","4352","0"

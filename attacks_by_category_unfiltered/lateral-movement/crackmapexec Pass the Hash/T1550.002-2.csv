@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T18:59:20Z","2024-10-27T20:59:20Z","T1550.002","2","crackmapexec Pass the Hash","Server002","System.Object[]","server002\admin_test","eb05b028-16c8-4ad8-adea-6f5b219da9a9","4804","1"

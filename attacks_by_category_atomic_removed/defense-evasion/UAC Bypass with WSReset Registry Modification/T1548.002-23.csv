@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T18:45:27Z","2024-10-27T20:45:27Z","T1548.002","23","UAC Bypass with WSReset Registry Modification","Server002","System.Object[]","server002\admin_test","3b96673f-9c92-40f1-8a3e-ca060846f8d9","6536","0"

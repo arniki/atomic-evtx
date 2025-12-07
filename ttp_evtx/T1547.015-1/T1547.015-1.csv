@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T17:26:35Z","2024-10-27T19:26:35Z","T1547.015","1","Persistence by modifying Windows Terminal profile","Server002","System.Object[]","server002\admin_test","ec5d76ef-82fe-48da-b931-bdb25a62bc65","1612","0"

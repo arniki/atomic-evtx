@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T13:18:57Z","2024-10-25T16:18:57Z","T1136.002","3","Create a new Domain Account using PowerShell","Server002","System.Object[]","server002\admin_test","5a3497a4-1568-4663-b12a-d4a5ed70c7d7","3192","0"

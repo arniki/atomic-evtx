@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T13:15:30Z","2024-10-25T16:15:30Z","T1136.002","2","Create a new account similar to ANONYMOUS LOGON","Server002","System.Object[]","server002\admin_test","dc7726d2-8ccb-4cc6-af22-0d5afb53a548","5620","2"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T21:33:22Z","2024-10-27T00:33:22Z","T1518.001","8","Security Software Discovery - AV Discovery via Get-CimInstance and Get-WmiObject cmdlets","Server002","System.Object[]","server002\admin_test","015cd268-996e-4c32-8347-94c80c6286ee","5092","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T07:42:53Z","2024-10-28T09:42:53Z","T1560","1","Compress Data for Exfiltration With PowerShell","Server002","System.Object[]","server002\admin_test","41410c60-614d-4b9d-b66e-b0192dd9c597","1220","0"

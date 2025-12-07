@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T12:29:40Z","2024-10-28T14:29:40Z","T1562.008","2","Azure - Eventhub Deletion","Server002","System.Object[]","server002\admin_test","5e09bed0-7d33-453b-9bf3-caea32bff719","6428","0"

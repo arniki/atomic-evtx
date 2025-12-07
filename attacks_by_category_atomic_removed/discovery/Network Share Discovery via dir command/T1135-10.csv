@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T12:44:06Z","2024-10-25T15:44:06Z","T1135","10","Network Share Discovery via dir command","Server002","System.Object[]","server002\admin_test","13daa2cf-195a-43df-a8bd-7dd5ffb607b5","4964","1"

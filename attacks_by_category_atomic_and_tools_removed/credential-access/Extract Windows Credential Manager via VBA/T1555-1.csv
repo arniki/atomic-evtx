@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T20:57:30Z","2024-10-27T22:57:30Z","T1555","1","Extract Windows Credential Manager via VBA","Server002","System.Object[]","server002\admin_test","234f9b7c-b53d-4f32-897b-b880a6c9ea7b","6944","0"

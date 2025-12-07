@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T09:30:23Z","2024-10-24T12:30:23Z","T1098","1","Admin Account Manipulate","Server002","System.Object[]","server002\admin_test","5598f7cb-cf43-455e-883a-f6008c5d46af","6692","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T21:06:20Z","2024-10-21T00:06:20Z","T1007","2","System Service Discovery - net.exe","Server002","System.Object[]","server002\admin_test","5f864a3f-8ce9-45c0-812c-bdf7d8aeacc3","5176","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-22T20:06:37Z","2024-10-22T23:06:37Z","T1059.001","7","Powershell XML requests","Server002","System.Object[]","server002\admin_test","4396927f-e503-427b-b023-31049b9b09a6","6084","255"

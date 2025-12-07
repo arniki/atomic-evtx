@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T12:27:27Z","2024-10-25T15:27:27Z","T1135","6","View available share drives","Server002","System.Object[]","server002\admin_test","ab39a04f-0c93-4540-9ff2-83f862c385ae","1852","0"

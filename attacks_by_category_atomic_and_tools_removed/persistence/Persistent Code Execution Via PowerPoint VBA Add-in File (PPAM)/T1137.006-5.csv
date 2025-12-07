@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T16:27:42Z","2024-10-25T19:27:42Z","T1137.006","5","Persistent Code Execution Via PowerPoint VBA Add-in File (PPAM)","Server002","System.Object[]","server002\admin_test","f89e58f9-2b49-423b-ac95-1f3e7cfd8277","2236","0"

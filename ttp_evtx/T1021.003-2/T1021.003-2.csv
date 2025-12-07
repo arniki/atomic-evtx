@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T11:25:22Z","2024-10-21T14:25:22Z","T1021.003","2","PowerShell Lateral Movement Using Excel Application Object","Server002","System.Object[]","server002\admin_test","505f24be-1c11-4694-b614-e01ae1cd2570","4652","0"

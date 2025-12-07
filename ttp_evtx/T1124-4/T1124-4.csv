@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T10:42:49Z","2024-10-25T13:42:49Z","T1124","4","System Time Discovery W32tm as a Delay","Server002","System.Object[]","server002\admin_test","d5d5a6b0-0f92-42d8-985d-47aafa2dd4db","3260","0"

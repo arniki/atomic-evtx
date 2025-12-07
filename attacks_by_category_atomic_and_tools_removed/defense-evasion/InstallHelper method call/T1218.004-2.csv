@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T13:24:53Z","2024-10-26T16:24:53Z","T1218.004","2","InstallHelper method call","Server002","System.Object[]","server002\admin_test","d43a5bde-ae28-4c55-a850-3f4c80573503","2340","0"

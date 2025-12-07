@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T17:37:06Z","2024-10-24T20:37:06Z","T1112","59","Modify Internet Zone Protocol Defaults in Current User Registry - cmd","Server002","System.Object[]","server002\admin_test","c88ef166-50fa-40d5-a80c-e2b87d4180f7","7008","0"

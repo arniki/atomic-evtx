@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T20:26:39Z","2024-10-24T23:26:39Z","T1112","86","Modify RDP-Tcp Initial Program Registry Entry","Server002","System.Object[]","server002\admin_test","c691cee2-8d17-4395-b22f-00644c7f1c2d","5404","0"

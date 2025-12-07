@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T11:27:56Z","2024-10-28T13:27:56Z","T1562.003","12","Disable Windows Command Line Auditing using Powershell Cmdlet","Server002","System.Object[]","server002\admin_test","95f5c72f-6dfe-45f3-a8c1-d8faa07176fa","5776","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T15:54:28Z","2024-10-27T17:54:28Z","T1547.001","13","HKLM - Policy Settings Explorer Run Key","Server002","System.Object[]","server002\admin_test","b5c9a9bc-dda3-4ea0-b16a-add8e81ab75f","6200","0"

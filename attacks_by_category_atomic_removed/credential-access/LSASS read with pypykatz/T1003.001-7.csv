@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T17:46:10Z","2024-10-20T20:46:10Z","T1003.001","7","LSASS read with pypykatz","Server002","System.Object[]","server002\admin_test","c37bc535-5c62-4195-9cc3-0517673171d8","5012","1"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T17:02:57Z","2024-10-25T20:02:57Z","T1197","3","Persist, Download, & Execute","Server002","System.Object[]","server002\admin_test","62a06ec5-5754-47d2-bcfc-123d8314c6ae","5140","-2147023651"

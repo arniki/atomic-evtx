@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T21:53:46Z","2024-10-27T23:53:46Z","T1555.003","8","Decrypt Mozilla Passwords with Firepwd.py","Server002","System.Object[]","server002\admin_test","dc9cd677-c70f-4df5-bd1c-f114af3c2381","2400","0"

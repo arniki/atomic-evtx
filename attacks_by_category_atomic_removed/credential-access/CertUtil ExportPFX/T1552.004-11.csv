@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T20:07:47Z","2024-10-27T22:07:47Z","T1552.004","11","CertUtil ExportPFX","Server002","System.Object[]","server002\admin_test","336b25bf-4514-4684-8924-474974f28137","3600","0"

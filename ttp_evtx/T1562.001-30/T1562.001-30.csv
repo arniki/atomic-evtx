@@ -1,0 +1,3 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T09:17:19Z","2024-10-28T11:17:19Z","T1562.001","30","WinPwn - Kill the event log services for stealth","Server002","System.Object[]","server002\admin_test","7869d7a3-3a30-4d2c-a5d2-f1cd9c34ce66",,
+"2024-11-02T11:35:33Z","2024-11-02T13:35:33Z","T1562.001","30","WinPwn - Kill the event log services for stealth","Server002","System.Object[]","server002\admin_test","7869d7a3-3a30-4d2c-a5d2-f1cd9c34ce66","6968","0"

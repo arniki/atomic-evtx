@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T20:30:38Z","2024-10-24T23:30:38Z","T1112","87","Abusing MyComputer Disk Cleanup Path for Persistence","Server002","System.Object[]","server002\admin_test","f2915249-4485-42e2-96b7-9bf34328d497","2416","0"

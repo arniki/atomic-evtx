@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T08:22:38Z","2024-10-28T10:22:38Z","T1562.001","16","Tamper with Windows Defender ATP PowerShell","Server002","System.Object[]","server002\admin_test","6b8df440-51ec-4d53-bf83-899591c9b5d7","1404","0"

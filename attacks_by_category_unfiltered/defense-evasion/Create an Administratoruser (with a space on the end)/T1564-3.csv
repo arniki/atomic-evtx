@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T13:01:30Z","2024-10-28T15:01:30Z","T1564","3","Create an ""Administrator "" user (with a space on the end)","Server002","System.Object[]","server002\admin_test","5bb20389-39a5-4e99-9264-aeb92a55a85c","5676","0"

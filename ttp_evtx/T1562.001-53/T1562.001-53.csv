@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T10:24:59Z","2024-10-28T12:24:59Z","T1562.001","53","AMSI Bypass - Create AMSIEnable Reg Key","Server002","System.Object[]","server002\admin_test","728eca7b-0444-4f6f-ac36-437e3d751dc0","6000","0"

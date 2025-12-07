@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T07:12:07Z","2024-10-28T09:12:07Z","T1558.004","3","WinPwn - PowerSharpPack - Kerberoasting Using Rubeus","Server002","System.Object[]","server002\admin_test","8c385f88-4d47-4c9a-814d-93d9deec8c71","3400","0"

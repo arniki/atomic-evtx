@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T08:35:23Z","2024-10-21T11:35:23Z","T1012","4","Reg query for AlwaysInstallElevated status","Server002","System.Object[]","server002\admin_test","6fb4c4c5-f949-4fd2-8af5-ddbc61595223","2164","1"

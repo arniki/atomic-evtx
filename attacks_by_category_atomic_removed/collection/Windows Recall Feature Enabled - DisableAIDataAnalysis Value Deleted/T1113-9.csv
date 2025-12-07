@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T20:52:47Z","2024-10-24T23:52:47Z","T1113","9","Windows Recall Feature Enabled - DisableAIDataAnalysis Value Deleted","Server002","System.Object[]","server002\admin_test","5a496325-0115-4274-8eb9-755b649ad0fb","2732","0"

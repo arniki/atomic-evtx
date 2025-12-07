@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-23T16:05:31Z","2024-10-23T19:05:31Z","T1074.001","1","Stage data from Discovery.bat","Server002","System.Object[]","server002\admin_test","107706a5-6f9f-451a-adae-bab8c667829f","5516","0"

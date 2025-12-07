@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T12:20:13Z","2024-10-27T14:20:13Z","T1531","2","Delete User - Windows","Server002","System.Object[]","server002\admin_test","f21a1d7d-a62f-442a-8c3a-2440d43b19e5","7128","0"

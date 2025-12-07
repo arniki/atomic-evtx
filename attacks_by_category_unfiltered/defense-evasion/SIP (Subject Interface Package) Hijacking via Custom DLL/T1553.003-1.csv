@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T20:37:57Z","2024-10-27T22:37:57Z","T1553.003","1","SIP (Subject Interface Package) Hijacking via Custom DLL","Server002","System.Object[]","server002\admin_test","e12f5d8d-574a-4e9d-8a84-c0e8b4a8a675",,

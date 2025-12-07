@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-24T15:20:47Z","2024-10-24T18:20:47Z","T1112","20","Activate Windows NoFind Group Policy Feature","Server002","System.Object[]","server002\admin_test","ffbb407e-7f1d-4c95-b22e-548169db1fbd","4056","0"

@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T18:49:09Z","2024-10-27T20:49:09Z","T1548.002","24","Disable UAC - Switch to the secure desktop when prompting for elevation via registry key","Server002","System.Object[]","server002\admin_test","85f3a526-4cfa-4fe7-98c1-dea99be025c7","5308","0"

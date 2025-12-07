@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T13:01:35Z","2024-10-26T16:01:35Z","T1218.001","7","Invoke CHM Shortcut Command with ITS and Help Topic","Server002","System.Object[]","server002\admin_test","15756147-7470-4a83-87fb-bb5662526247","5256","0"

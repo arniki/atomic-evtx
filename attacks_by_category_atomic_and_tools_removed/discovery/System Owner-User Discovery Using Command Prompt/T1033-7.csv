@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T12:45:50Z","2024-10-21T15:45:50Z","T1033","7","System Owner/User Discovery Using Command Prompt","Server002","System.Object[]","server002\admin_test","ba38e193-37a6-4c41-b214-61b33277fe36","4136","1"

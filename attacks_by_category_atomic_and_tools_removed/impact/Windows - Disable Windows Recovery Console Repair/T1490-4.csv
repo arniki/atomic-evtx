@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T20:01:32Z","2024-10-26T23:01:32Z","T1490","4","Windows - Disable Windows Recovery Console Repair","Server002","System.Object[]","server002\admin_test","cf21060a-80b3-4238-a595-22525de4ab81","2324","0"

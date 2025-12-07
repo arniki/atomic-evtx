@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-21T10:38:38Z","2024-10-21T13:38:38Z","T1018","22","Enumerate Remote Hosts with Netscan","Server002","System.Object[]","server002\admin_test","b8147c9a-84db-4ec1-8eee-4e0da75f0de5","5352","0"

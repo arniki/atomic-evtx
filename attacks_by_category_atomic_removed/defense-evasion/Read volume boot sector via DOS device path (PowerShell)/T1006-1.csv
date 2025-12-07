@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-20T20:59:19Z","2024-10-20T23:59:19Z","T1006","1","Read volume boot sector via DOS device path (PowerShell)","Server002","System.Object[]","server002\admin_test","88f6327e-51ec-4bbf-b2e8-3fea534eab8b","2856","0"

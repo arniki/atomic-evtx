@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-27T17:21:08Z","2024-10-27T19:21:08Z","T1547.014","3","HKLM - re-execute 'Internet Explorer Core Fonts' StubPath payload by decreasing version number","Server002","System.Object[]","server002\admin_test","04d55cef-f283-40ba-ae2a-316bc3b5e78c","5648","0"

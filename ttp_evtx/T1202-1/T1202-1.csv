@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-25T17:26:53Z","2024-10-25T20:26:53Z","T1202","1","Indirect Command Execution - pcalua.exe","Server002","System.Object[]","server002\admin_test","cecfea7a-5f03-4cdd-8bc8-6f7c22862440","5656","0"

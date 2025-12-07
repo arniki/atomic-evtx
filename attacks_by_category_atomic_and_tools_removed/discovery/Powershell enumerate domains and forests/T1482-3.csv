@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-26T18:39:45Z","2024-10-26T21:39:45Z","T1482","3","Powershell enumerate domains and forests","Server002","System.Object[]","server002\admin_test","c58fbc62-8a62-489e-8f2d-3565d7d96f30","3728","0"

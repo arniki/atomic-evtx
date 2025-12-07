@@ -1,0 +1,2 @@
+"Execution Time (UTC)","Execution Time (Local)","Technique","Test Number","Test Name","Hostname","IP Address","Username","GUID","ProcessId","ExitCode"
+"2024-10-28T08:53:41Z","2024-10-28T10:53:41Z","T1562.001","24","Tamper with Windows Defender Evade Scanning -Extension","Server002","System.Object[]","server002\admin_test","315f4be6-2240-4552-b3e1-d1047f5eecea","6196","0"
